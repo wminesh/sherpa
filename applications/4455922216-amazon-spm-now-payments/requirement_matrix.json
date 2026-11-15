@@ -1,0 +1,166 @@
+{
+  "opportunity_id": "4455922216-amazon-spm-now-payments",
+  "company": "Amazon",
+  "role_title": "Senior Product Manager, Amazon Now (Payments Experience)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "5+ years of product or program management, product marketing, business development or technology experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L179-L182, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "Over 9+ years of professional experience spanning product management, product marketing, and technology roles since June 2015: Senior Product Manager at Lowe's India (Sep 2024–Present), Founder at Hype Marketing & Product Services (Oct 2023–Nov 2024), Head of Marketing at HealthQ Rehab (May 2023–Dec 2023), Product Manager / Senior Product Manager at Byju's (July 2020–April 2023), and Multiple Roles in product prototyping and team leadership at Byju's (June 2015–June 2020).",
+      "positioning_bridge": "Directly exceeds the 5+ years threshold across dedicated Product Management, Growth/Product Marketing, and technology product roles."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Bachelor's degree or equivalent.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328, canonical_master_profile.md:L592-L595",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Exact match to the Bachelor's degree requirement with a technical Computer Science foundation."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Experience owning/driving roadmap strategy and definition.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L82, canonical_master_profile.md:L108, canonical_master_profile.md:L132-L133, canonical_master_profile.md:L228, canonical_master_profile.md:L446",
+      "evidence_summary": "At Lowe's India (Sep 2024–Present), owned strategic initiatives across engineering and product teams, defined quarterly priorities and operational roadmaps, and defined annual and quarterly roadmaps targeting a 20% reduction in incident volume. Previously led product strategy initiatives at Byju's (July 2020–April 2023) and defined GTM/execution roadmaps at Hype Marketing & Product Services (Oct 2023–Nov 2024).",
+      "positioning_bridge": "Lead with multi-quarter roadmap ownership and strategic prioritization at Lowe's India and Byju's."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience with end to end product delivery.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L91-L100, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L303-L308",
+      "evidence_summary": "At Lowe's India, designed and launched an AI-driven procurement and catalog system (reducing operational cycle times by 20%) and spearheaded a unified enterprise asset lifecycle platform (~$2M annual cost savings). At Byju's, launched the Interactive Learning Experiences feature for WhiteHat Jr. (15% instructor training time reduction), led the Tynker app redesign (5% course completion increase), and prototyped and launched the Social Studies product (500+ hours of video content, 300+ interactive learning experiences).",
+      "positioning_bridge": "Highlight full-lifecycle conception, prototyping, launch, and post-launch measurable impact across Lowe's India and Byju's."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Experience with feature delivery and tradeoffs of a product.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40, canonical_master_profile.md:L66, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L261-L269, canonical_master_profile.md:L343, canonical_master_profile.md:L462, canonical_master_profile.md:L491",
+      "evidence_summary": "Delivered specific product features and system launches (WhiteHat Jr. Interactive Learning Experiences reducing instructor training time by 15%; Tynker app redesign adding assessments and DIY learning modules increasing completion by 5%; Lowe's AI-driven procurement and catalog platform reducing cycle times by 20%) while managing quarterly priorities, ROI-driven prioritization, investment prioritization, and scope/constraint management.",
+      "positioning_bridge": "Connect feature launches and ROI/scope-constraint prioritization at Lowe's and Byju's to balancing competing product tradeoffs."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Experience as a product manager or owner.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L251-L253",
+      "evidence_summary": "Served as Senior Product Manager at Lowe's India (Sep 2024–Present) and progressed from Product Manager (July 2020–Feb 2022) to Senior Product Manager (March 2022–April 2023) at Byju's.",
+      "positioning_bridge": "Direct title and role alignment as Product Manager and Senior Product Manager across enterprise and consumer organizations."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Experience owning technology products.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L217-L283, canonical_master_profile.md:L445-L453",
+      "evidence_summary": "Owned enterprise technology platforms at Lowe's India (unified enterprise asset lifecycle platform, AI-driven procurement and catalog system, automated recovery and incident handling workflows maintaining 99.99% platform reliability) and digital consumer technology products at Byju's (Tynker app redesign, WhiteHat Jr. live-coding workflows, Byju's Xcel Masterclasses, 12 cross-product learning prototypes).",
+      "positioning_bridge": "Emphasize direct ownership of both high-reliability enterprise platforms and consumer-facing digital technology products."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Own the end-to-end payments experience across UPI, cards, wallets, COD, and pay-later instruments.",
+      "classification": "Gap",
+      "canonical_line_refs": "None (no supporting evidence in canonical_master_profile.md)",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for payments product ownership, payment gateway orchestration, or instrument-specific experience across UPI, cards, wallets, cash on delivery (COD), or pay-later/BNPL instruments.",
+      "positioning_bridge": "Core domain gap; cannot claim direct payments or payment-instrument ownership. Acknowledge openly and lean on adjacent reliability, order-cancellation reduction, and funnel-friction elimination strengths."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Drive frictionless checkout flows that maximize conversion and customer trust.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L90, canonical_master_profile.md:L234-L238, canonical_master_profile.md:L386-L388",
+      "evidence_summary": "At Byju's, identified friction points across the customer funnel and partnered cross-functionally on experience improvements, generating 2.5L+ sales-qualified leads and improving lead conversion rate by 35%. At Lowe's India, led strategic initiatives reducing order cancellations and saving approximately $10M annually via automated recovery systems and reliability improvements. However, there is no direct ownership of e-commerce or quick-commerce checkout flows.",
+      "positioning_bridge": "Bridge proven funnel friction removal (35% conversion lift) and order-cancellation reduction (~$10M annual revenue protection) as transferable execution for frictionless, high-trust checkout experiences, while clearly noting no prior checkout flow ownership."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Define the product vision and roadmap for payments within the quick-commerce vertical, balancing the speed-to-delivery promise.",
+      "classification": "Gap",
+      "canonical_line_refs": "None (no supporting evidence in canonical_master_profile.md)",
+      "evidence_summary": "While general product strategy and roadmapping are directly evidenced (mapped under MH-3), no defensible evidence exists in canonical_master_profile.md for quick-commerce vertical experience, hyperlocal rapid delivery operations, or payments vertical vision.",
+      "positioning_bridge": "Domain vertical gap; frame enterprise retail operations exposure at Lowe's India (store setup procurement workflows and order-cancellation reduction) only as broad retail context without overclaiming quick-commerce expertise."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Ensure payment reliability and operational resilience while balancing speed and experience.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L54, canonical_master_profile.md:L68-L89, canonical_master_profile.md:L500-L503, canonical_master_profile.md:L524-L529",
+      "evidence_summary": "At Lowe's India within Reliability Engineering and Infrastructure & Operations, ensured 99.99% reliability for key business platforms, defined annual and quarterly roadmaps targeting 20% reduction in incident volume, and reduced order cancellations (~$10M annual revenue protection savings) through automated recovery systems, incident handling workflows, and SLA/escalation workflows. Differs in that experience covers enterprise platforms and order recovery rather than transaction-level payment gateway reliability.",
+      "positioning_bridge": "Strongest domain bridge for this role: position 99.99% platform reliability, automated recovery workflows, and order-cancellation reduction (~$10M savings) as directly transferable to payment reliability and failure recovery."
+    },
+    {
+      "id": "DM-5",
+      "category": "domain",
+      "requirement": "Payment fraud mitigation (balancing speed-to-delivery and conversion with fraud controls).",
+      "classification": "Gap",
+      "canonical_line_refs": "None (no supporting evidence in canonical_master_profile.md)",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for payment fraud mitigation, transaction risk scoring, chargeback management, or trust-and-safety fraud controls. (Project risk management listed under UC Irvine certification at L340/L342 refers to project management risk, not payment fraud.)",
+      "positioning_bridge": "Domain gap; do not claim fraud mitigation or risk-engine experience."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience in influencing senior leadership through data driven insights.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40, canonical_master_profile.md:L67-L68, canonical_master_profile.md:L454-L458, canonical_master_profile.md:L477-L488, canonical_master_profile.md:L553-L554",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives and decision-support materials, supported C-suite decision-making through KPI-driven reporting and internal enterprise analytics dashboards at Lowe's India, and drove enterprise alignment without formal authority.",
+      "positioning_bridge": "Highlight VP/CXO business reviews, board-level narratives, and KPI-driven executive influence without formal authority."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience working across functional teams and senior stakeholders.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65, canonical_master_profile.md:L71, canonical_master_profile.md:L93, canonical_master_profile.md:L230, canonical_master_profile.md:L367, canonical_master_profile.md:L485, canonical_master_profile.md:L493",
+      "evidence_summary": "Coordinated across engineering, product, finance, operations, IT, marketing, design, and data teams as well as VP/CXO and C-suite stakeholders across Lowe's India and Byju's.",
+      "positioning_bridge": "Emphasize cross-functional execution across engineering, finance, operations, IT, and executive leadership."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Multi-country product scalability or cross-geography product ownership (reflected in LinkedIn role header 'Sr Product Manager, Multi-Country').",
+      "classification": "Gap",
+      "canonical_line_refs": "None (no supporting evidence in canonical_master_profile.md)",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for multi-country product launches, multi-currency payments, or international market localization ownership.",
+      "positioning_bridge": "Implicit gap; do not invent multi-country localization or cross-border product claims."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Data-driven KPI instrumentation, dashboarding, and product experimentation to optimize user conversion and operational reliability.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L77-L81, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L366, canonical_master_profile.md:L389, canonical_master_profile.md:L660, canonical_master_profile.md:L663",
+      "evidence_summary": "Designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency using internal enterprise analytics and reporting tools at Lowe's India, and led product experimentation at Byju's increasing Tynker course completion by 5%. (Commercial third-party analytics tools such as Amplitude, Mixpanel, GA4, Firebase, or Optimizely were not used directly.)",
+      "positioning_bridge": "Highlight KPI framework design, internal analytics dashboards, and iterative product experimentation while respecting the canonical guardrail against claiming commercial third-party analytics tools."
+    }
+  ],
+  "summary_counts": {
+    "direct": 10,
+    "adjacent": 2,
+    "gap": 4,
+    "total": 16
+  }
+}

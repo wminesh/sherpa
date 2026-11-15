@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4481310724-autodesk-spm-gtm-automation",
+  "company": "Autodesk",
+  "role_title": "Senior Product Manager, GTM Automation",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 76,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 86,
+      "weighted_score": 21.5,
+      "rationale": "Strong direct evidence in KPI framework ownership, executive reporting, product experimentation, roadmap prioritization, and cross-functional delivery across Engineering, UX, Data, Operations, Finance, and Marketing (lines 64-82, 227-238, 366-367, 455-462). Translating complex B2B lead-to-revenue CRM/sales processes into scalable solutions is adjacent via enterprise workflow automation at Lowe's and SQL funnel optimization at Byju's."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 68,
+      "weighted_score": 13.6,
+      "rationale": "Strong transferable foundation in top-of-funnel SQL generation and conversion optimization (2.5L+ SQLs, 35% lead conversion lift at Byju's, lines 235-237), multi-channel lifecycle/email/messaging engagement (Hype and HealthQ, lines 131-160, 184-197), and automated workflow routing/escalation at Lowe's India (lines 84-90). However, lacks direct ownership of end-to-end B2B Lead Management ecosystems (lead enrichment, deduplication, scoring, sales routing, CRM pipeline progression) and modern commercial MarTech/CDP/BI stacks."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 70,
+      "weighted_score": 14.0,
+      "rationale": "B.Tech in Computer Science Engineering (lines 325-327) paired with internal enterprise analytics/dashboarding tools (line 67) and shipping AI-driven procurement/catalog workflows (20% cycle time reduction) plus automated recovery workflows (~$10M annual revenue protection) at Lowe's India (lines 84-99, 464-467). Material gaps exist on Salesforce, Marketo, 6sense, Power BI, Adobe Experience Platform, CDPs, ML lead-scoring/propensity models, lead enrichment/identity resolution, and AI-SDR/Copilot UX."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 66,
+      "weighted_score": 9.9,
+      "rationale": "Incumbent Senior Product Manager at Lowe's India with 11+ years of overall career experience since June 2015 and ongoing IIM Bangalore EGMP (lines 48-50, 321-323). However, the JD specifically requires 10+ years of Product Management experience including significant MarTech, Lead Management, or GTM technology experience, whereas formal PM/SPM title tenure is ~5 years (Byju's July 2020–April 2023; Lowe's Sep 2024–Present) alongside 5 years in Product Development Multiple Roles and ~1.5 years in marketing/founder leadership."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 83,
+      "weighted_score": 8.3,
+      "rationale": "Compelling, verified outcomes across both funnel conversion and enterprise automation ROI: 2.5L+ sales-qualified leads and 35% lead conversion improvement at Byju's; 30% email open rate, 20% CTR, 35% organic traffic lift, and 50% engagement lift at Hype/HealthQ; ~$10M annual revenue protection, $2M annual cost savings, and 20% cycle time reduction at Lowe's India (lines 499-512). Metrics stem from EdTech funnels, marketing consulting, and internal enterprise operations rather than B2B SaaS CRM pipeline velocity."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 84,
+      "weighted_score": 4.2,
+      "rationale": "Direct track record presenting monthly business reviews to VP/CXO stakeholders, owning P&L/budgeting/ROI governance, and aligning Engineering, Product, Finance, Operations, IT, and Marketing without formal authority (lines 65-71, 367, 477-494). Direct B2B Sales, Sales Ops, Marketing Ops, and Data Science executive partnerships are adjacent."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru, Karnataka, India on-site full-time role matches candidate's Bangalore location (line 9) with zero relocation friction."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Define and execute product strategy and roadmap for Autodesk's MarTech portfolio focused on end-to-end B2B Lead Management (capture, enrichment, deduplication, scoring, qualification, routing, engagement, pipeline progression) and AI-powered GTM automation (AI agents, AI-SDR, Copilot, ML scoring).",
+    "seniority_alignment": "Title matches incumbent Senior Product Manager level, though the 10+ years PM with significant MarTech/Lead Management tenure bar is a stretch (~5 years in formal PM/SPM titles within 11+ years total product, growth, and consulting career).",
+    "product_discipline": "Enterprise MarTech, Lead Management & AI GTM Workflow Automation PM — bridges candidate's funnel conversion/lifecycle marketing background and enterprise AI workflow automation.",
+    "domain_relevance": "Adjacent/transferable on SQL funnel optimization, lifecycle/email engagement, and enterprise workflow automation; explicit gaps on B2B CRM/CDP/MarTech stack tooling, lead enrichment/identity resolution, ML lead scoring, and consent governance.",
+    "leadership_expectations": "Senior cross-functional influence across Marketing, Sales, Sales Ops, Marketing Ops, Data Science, Engineering, Architecture, UX, Finance, and executives — well supported on executive/Ops/Finance/Marketing alignment, adjacent on Sales Ops and Data Science.",
+    "evidence_strength": "5 Direct, 15 Adjacent, and 4 Gap classifications across 24 requirements — general PM craft, KPI governance, and ROI-led automation are Direct, while domain-specific MarTech stack, enrichment, ML scoring, and privacy/consent are Adjacent or Gap."
+  },
+  "key_strengths": [
+    "Proven top-of-funnel SQL generation and conversion optimization at Byju's (2.5 lakh+ sales-qualified leads, 35% lead conversion improvement) paired with multi-channel lifecycle and email engagement execution at Hype Marketing and HealthQ Rehab (30% email open rate, 20% CTR, +35% organic traffic, +50% social engagement) (lines 131-197, 235-237, 370-391).",
+    "Enterprise AI workflow automation and ROI-governed platform delivery at Lowe's India: AI-driven procurement and catalog system (20% operational cycle time reduction), automated recovery/escalation workflows (~$10M annual revenue protection), and unified asset lifecycle platform ($2M annual cost savings) (lines 84-99).",
+    "Strong executive stakeholder management, KPI framework design, and cross-functional leadership across Engineering, UX, Data, Finance, Operations, and Marketing, backed by a B.Tech CS and ongoing IIM Bangalore EGMP (lines 65-82, 321-327, 477-494)."
+  ],
+  "positioning_angle": "Position as an Enterprise AI Workflow & Growth Product Manager who uniquely bridges two halves of GTM Automation: (1) measurable funnel conversion and lifecycle engagement (2.5L+ SQLs, 35% lead conversion lift at Byju's; multi-channel lifecycle programs at Hype and HealthQ), and (2) enterprise-scale AI-assisted workflow orchestration, automated routing/recovery agents, and KPI governance at Lowe's India (20% cycle time reduction, ~$10M revenue protection). Frame Lowe's AI procurement and automated recovery workflows as transferable operational foundations for intelligent lead workflows without overclaiming direct B2B CRM/CDP, ML lead scoring, or AI-SDR ownership.",
+  "red_flags_and_gaps": [
+    "No direct experience with named GTM/MarTech platforms in Preferred Qualifications (Salesforce, Marketo, 6sense, Microsoft Power BI, Adobe Experience Platform, or CDPs); similar analytics at Lowe's India used internal enterprise tools (lines 67, 663).",
+    "No defensible evidence of B2B lead enrichment, deduplication, identity resolution, external B2B data provider integration, ML-based lead scoring/propensity models, formal marketing attribution/ROAS ownership, or data privacy/consent compliance governance (lines 649-668).",
+    "Requires 10+ years of PM experience including significant MarTech/Lead Management experience: candidate has 11+ years total professional experience since June 2015, ~5 years in formal PM/SPM titles, and no dedicated enterprise B2B Lead Management portfolio ownership.",
+    "Guardrail reminder: Do not claim Copilot, AI-SDR, GenAI GTM UX, Salesforce/Marketo/CDP, or ML propensity model ownership; bridge Lowe's AI workflow automation and Byju's/Hype funnel execution transparently."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether Minesh has any unrecorded exposure to CRM/marketing automation platforms (e.g., Salesforce, HubSpot, Marketo) or lead scoring/routing workflows during Hype Marketing consulting engagements that could strengthen interview discussions, while keeping the CV strictly anchored to canonical_master_profile.md v1.1.0."
+  ]
+}

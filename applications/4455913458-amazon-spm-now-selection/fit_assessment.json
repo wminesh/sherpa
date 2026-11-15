@@ -1,0 +1,82 @@
+{
+  "opportunity_id": "4455913458-amazon-spm-now-selection",
+  "company": "Amazon",
+  "role_title": "Senior Product Manager, Amazon Now (Selection Quality, Health & Seller Tools)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 81,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 88,
+      "weighted_score": 22.0,
+      "rationale": "Directly meets all core PM craft requirements: multi-quarter roadmap strategy, end-to-end delivery, ROI-driven prioritization and feature tradeoffs, and owning technology products across Lowe's India and Byju's (lines 64-100, 217-275, 445-452)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 65,
+      "weighted_score": 13.0,
+      "rationale": "Transferable enterprise retail operations foundation at Lowe's India—building an AI-driven procurement and catalog system for store setup teams (20% cycle time reduction), automated recovery workflows reducing order cancellations (~$10M annual savings), and 99.99% reliability monitoring (lines 75-99)—but clear domain gaps in quick-commerce demand sensing/assortment planning (DM-2) and marketplace seller tools, ASIN publishing defects, price defects, inventory risk, and search discoverability (DM-4)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 76,
+      "weighted_score": 15.2,
+      "rationale": "B.Tech in Computer Science (lines 325-327) paired with hands-on ownership of AI-driven procurement/catalog workflows, automated incident recovery systems, KPI/telemetry dashboards via internal enterprise analytics tools, and internal tracking UX (lines 67-99, 306, 524-534). Lacks direct experience with large-scale marketplace ASIN publishing pipelines, search indexing, and category recommendation models."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 90,
+      "weighted_score": 13.5,
+      "rationale": "Strong seniority match for Amazon Senior PM (5+ years required): brings 10+ years total experience since June 2015, ~5 years in formal PM/Senior PM titles (currently Senior PM at Lowe's India; previously PM/Senior PM at Byju's), B.Tech CS, and ongoing IIM Bangalore EGMP (lines 48-50, 217-220, 286-288, 321-327)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 84,
+      "weighted_score": 8.4,
+      "rationale": "Strong quantified enterprise retail impact at Lowe's India (~$10M annual revenue protection from reduced order cancellations, $2M annual cost savings, 20% cycle time reduction, 99.99% reliability; lines 76-99) and commercial funnel outcomes at Byju's (2.5L+ SQLs, 35% conversion lift; lines 235-238), though not direct marketplace GMV or seller defect-rate metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 86,
+      "weighted_score": 4.3,
+      "rationale": "Directly demonstrates VP/CXO monthly business reviews, board-level narratives, and cross-functional alignment without formal authority across engineering, product, finance, operations, IT, and store setup (lines 65-72, 91-99, 477-488). Has not directly partnered with marketplace category, seller management, pricing, or search teams."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Bengaluru location matches candidate's current base with zero relocation friction; full-time on-site work mode is slightly less flexible than hybrid."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end ownership of product strategy, roadmap, success metrics, and adoption mechanisms for Amazon Now's Selection Quality, Health & Seller Tools across selection intelligence, recommendation systems, publishing workflows, seller experience, and live selection monitoring.",
+    "seniority_alignment": "Strong alignment for Senior Product Manager (5+ yrs PM/tech/product experience required; candidate brings 10+ yrs total experience, ~5 yrs formal PM/Senior PM titles, B.Tech CS, and IIM-B EGMP ongoing).",
+    "product_discipline": "Enterprise Retail Operations, Catalog Workflow Automation & Reliability Platform PM transitioning into Quick-Commerce Selection Health & Seller Tooling.",
+    "domain_relevance": "Moderate/Adjacent — enterprise retail catalog procurement, store-setup workflow enablement, order-cancellation recovery, and platform KPI monitoring at Lowe's India transfer conceptually, while marketplace seller tooling, ASIN defect remediation, demand sensing, and assortment recommendations are genuine domain gaps.",
+    "leadership_expectations": "Influencing senior leadership with data-driven insights and aligning diverse retail/tech functions (category, seller management, supply chain, store ops, pricing, search, engineering); executive alignment and cross-functional execution are strongly evidenced, while category/seller/pricing/search partnerships are adjacent.",
+    "evidence_strength": "High on general PM craft, seniority, and leadership (all 7 Must-Haves and 2 Preferred Qualifications are Direct); Moderate on domain specifics (1 Direct implicit, 3 Adjacent, 2 Domain Gaps)."
+  },
+  "key_strengths": [
+    "Direct enterprise retail impact at Lowe's India reducing order cancellations (~$10M annual revenue protection) via automated recovery workflows and incident handling systems while maintaining 99.99% reliability (lines 75-90).",
+    "Designed and launched an AI-driven procurement and catalog system at Lowe's India that cut operational cycle times by 20% and improved efficiency for store setup teams (lines 96-99).",
+    "Strong executive governance and KPI-driven decision-making track record: built operational/adoption dashboards using internal enterprise analytics tools and presented monthly business reviews and board-level narratives to VP/CXO stakeholders (lines 67, 77-82, 477-488).",
+    "Exceeds baseline Senior PM qualifications with 10+ years total experience, ~5 years in formal PM/Senior PM roles, B.Tech in Computer Science (Manipal), UC Irvine Project Management Specialization, and ongoing IIM Bangalore EGMP (lines 48-50, 217-288, 321-343)."
+  ],
+  "positioning_angle": "Position as an Enterprise Retail Platform & Workflow Automation Senior PM who turns complex operational bottlenecks into reliable, measurable systems—highlighting Lowe's India AI-driven procurement/catalog workflows (20% cycle time reduction), automated recovery and monitoring frameworks (~$10M annual savings from reduced order cancellations, 99.99% reliability), and KPI governance for store-setup and cross-functional teams. Explicitly bridge these retail catalog, workflow orchestration, and live operational health capabilities to Amazon Now's selection publishing and monitoring charter while honestly acknowledging that marketplace seller tooling, ASIN remediation, and demand-sensing assortment systems are net-new domain extensions.",
+  "red_flags_and_gaps": [
+    "Clear domain gap (DM-4): No documented experience building marketplace seller onboarding, maintenance, or defect-correction tools (missing attributes, blocked/unpublished ASINs, inventory risks, price defects, or search discoverability remediation).",
+    "Clear domain gap (DM-2): No documented experience building retail demand-sensing, broader network selection availability, or category assortment recommendation systems.",
+    "Adjacent cross-functional scope (IM-2): Has partnered closely with engineering, operations, finance, IT, and store setup at Lowe's India, but has not directly worked with marketplace category, seller management, supply chain, pricing, or search teams.",
+    "LinkedIn job header lists 'Senior Product Manager, AWS IN' while the full JD and Amazon Jobs URL (A10499561) are explicitly for 'Senior Product Manager, Amazon Now' (ASSPL - Karnataka); ensure interview outreach confirms the Amazon Now Retail/Quick-Commerce team scope."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Assumes candidate is open to full-time on-site work in Bengaluru.",
+    "Confirm whether any unrecorded details from Lowe's India store-setup/catalog procurement workflows or Byju's Commerce team leadership touch vendor/seller onboarding or catalog quality checks before tailoring CV bullets."
+  ]
+}

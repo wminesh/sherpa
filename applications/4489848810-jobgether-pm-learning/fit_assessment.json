@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4489848810-jobgether-pm-learning",
+  "company": "Jobgether (Partner Company)",
+  "role_title": "Product Manager, Global Learning & Knowledge Platforms",
+  "location": "India",
+  "workplace_mode": "Remote",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 82,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 80,
+      "weighted_score": 20.0,
+      "rationale": "Strong direct evidence for product strategy, quarterly/annual roadmaps, backlog prioritization, metric-led iteration, and cross-functional delivery across Lowe's India, Byju's, and Hype (lines 64-100, 131-161, 217-316). Tempered by a must-have gap in managing external software vendors/development partners and authoring formal technical specifications (MH-5), plus adjacent rather than explicit evidence for formal PRDs and qualitative user research studies (MH-4, MH-6)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 86,
+      "weighted_score": 17.2,
+      "rationale": "Deep EdTech and learning experience background spanning ~8 years at Byju's (Social Studies 500+ hrs video and 300+ interactive experiences, WhiteHat Jr. instructor workflow redesign, Tynker assessments/DIY modules, 12 cross-product prototypes) plus Hype learning engagements (Programming Hub 4.5+ ratings, Acadecraft 80%+ completion) and educational equity volunteering (lines 147-161, 212-316, 347-350). Global knowledge-sharing portals, LMS/alumni/teacher-connectivity platforms, and formal KM taxonomies are adjacent rather than directly owned (DM-2, PR-4)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 76,
+      "weighted_score": 15.2,
+      "rationale": "B.Tech in Computer Science (lines 325-327) combined with enterprise platform lifecycle ownership (99.99% reliability, unified asset lifecycle platform) and launched AI-driven procurement/catalog workflows at Lowe's India (20% cycle time reduction; lines 91-99, 464-467), fitting a role where hands-on AI coding is explicitly not required (MH-8, PR-1). However, generative AI prototyping, automated content tagging, modern search, formal technical specs, and third-party LMS/data-extension integrations are adjacent or unverified."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 80,
+      "weighted_score": 12.0,
+      "rationale": "Exceeds the 5+ years PM requirement (~6 years in formal PM/SPM titles and ~11 years total experience across Byju's, Hype, and Lowe's India, plus ongoing IIM Bangalore EGMP; lines 48-50, 217-287, 321-323) and matches portfolio-level strategy and delivery ownership. However, the 'Product Manager' title is a nominal step-down from 'Senior Product Manager' at Lowe's India, and the listing is for an undisclosed Jobgether partner company."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 86,
+      "weighted_score": 8.6,
+      "rationale": "Strong quantified learning and platform outcomes: +5% Tynker course completion, -15% WhiteHat Jr. instructor training time, 80%+ Acadecraft completion, 4.5+ Programming Hub ratings, +35% lead conversion and 2.5L+ SQLs at Byju's, alongside 99.99% platform reliability, ~$10M annual revenue protection, $2M cost savings, and 20% cycle time reduction at Lowe's India."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 82,
+      "weighted_score": 4.1,
+      "rationale": "Proven cross-functional alignment across engineering, IT, operations, finance, design, content, and VP/CXO stakeholders plus managing 5 product leads at Byju's (lines 65-72, 307, 477-488). Slightly tempered by lack of documented external vendor agreement management and international non-English language fluency (PR-3)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Remote India full-time role fits candidate's Bangalore base with zero relocation friction and low-effort Easy Apply, though employer opacity (undisclosed partner company via Jobgether) and global time-zone coordination warrant early discovery."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end ownership of a global knowledge-sharing portal and broader portfolio of digital learning tools, spanning discovery, roadmapping, UX/content discoverability, GenAI experimentation, and external vendor/partner integrations.",
+    "seniority_alignment": "Exceeds 5+ years PM requirement (~6 years formal PM/SPM, ~11 years total + IIM-B EGMP) with broad portfolio scope, though titled 'Product Manager' (nominal step-down from current Senior PM) at an undisclosed partner organization.",
+    "product_discipline": "Digital Learning Ecosystems, Knowledge Platforms & AI-Enabled Workflow Product Management — well matched to candidate's EdTech product design background and enterprise platform/AI workflow execution.",
+    "domain_relevance": "Strong EdTech and learning experience foundation (Byju's, WhiteHat Jr., Tynker, Programming Hub, Acadecraft) plus educational equity volunteering; formal LMS/alumni/teacher-network portals and enterprise KM taxonomies are adjacent.",
+    "leadership_expectations": "Cross-functional alignment across globally distributed program teams, content leads, engineering, product leadership, and external software vendors — strong internal/executive alignment evidence, with external vendor governance as a gap.",
+    "evidence_strength": "Solid overall evidence base (8 Direct, 7 Adjacent, 2 Gap across 17 mapped requirements); key risks center on the MH-5 must-have gap in external software vendor management and technical specifications."
+  },
+  "key_strengths": [
+    "Deep digital learning ecosystem track record across Byju's (500+ hours of video, 300+ interactive experiences, Tynker redesign +5% completion, WhiteHat Jr. -15% instructor training time, 12 cross-product prototypes) and Hype (Programming Hub 4.5+ ratings, Acadecraft 80%+ completion) (lines 147-161, 217-316).",
+    "Authentic mission and educational equity alignment through volunteering with The Open Door Foundation and Byju's Education for All (lines 347-350), paired with global enterprise platform execution at Lowe's India.",
+    "Launched AI-driven procurement/catalog workflows (20% cycle time reduction) and unified enterprise asset lifecycle and automated recovery systems ($2M cost savings, ~$10M revenue protection, 99.99% reliability) at Lowe's India, demonstrating practical AI workflow delivery without requiring AI coding (lines 75-99)."
+  ],
+  "positioning_angle": "Position as an EdTech & Enterprise Platform Product Leader who pairs 8+ years of building scalable digital learning ecosystems and instructor/learner experiences (Byju's, Tynker, WhiteHat Jr., Programming Hub, Acadecraft) with recent enterprise catalog, AI-driven workflow design, and KPI-governed platform execution at Lowe's India. Emphasize authentic educational equity commitment and cross-functional global coordination while honestly bridging internal engineering/IT alignment and catalog/content structure to global knowledge portals and AI-assisted discovery.",
+  "red_flags_and_gaps": [
+    "Must-have requirement MH-5 (preparing technical specifications and managing external software vendors/development partners and vendor agreements) is a confirmed Gap in canonical_master_profile.md — do not fabricate vendor management or formal tech-spec ownership.",
+    "Formal LMS, alumni network, teacher-connectivity portal ownership, enterprise knowledge-management taxonomy, GenAI/LLM search/tagging features, and formal qualitative user research studies are adjacent rather than directly evidenced.",
+    "Employer is an undisclosed Jobgether partner company and the title is 'Product Manager' (nominal step-down from Senior PM at Lowe's India); compensation, seniority parity, and international language expectations (Spanish/French/Arabic preferred gap) should be validated early."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether Minesh has any undisclosed experience managing external software vendors, third-party SaaS integrations, or authoring formal technical specifications that is not captured in canonical_master_profile.md.",
+    "Validate compensation band, partner company identity, and leveling expectations during initial screening given the nominal 'Product Manager' title and Jobgether intermediary listing."
+  ]
+}

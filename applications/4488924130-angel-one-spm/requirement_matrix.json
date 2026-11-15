@@ -1,0 +1,210 @@
+{
+  "opportunity_id": "4488924130-angel-one-spm",
+  "company": "Angel One",
+  "role_title": "Senior Product Manager",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "Engineering / Management degree from a Tier 1 institution.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L321-L328, canonical_master_profile.md:L588-L595",
+      "evidence_summary": "Holds a completed B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015) and is currently pursuing the Executive General Management Program (EGMP) at Indian Institute of Management Bangalore (2025–2026, Ongoing). Neither credential is a completed full-time Tier-1 degree (e.g., IIT/NIT engineering or completed IIM MBA), though IIM Bangalore is a Tier-1 management institution.",
+      "positioning_bridge": "Highlight B.Tech. in Computer Science Engineering alongside ongoing executive management education at Tier-1 IIM Bangalore (EGMP, 2025–2026) without misrepresenting EGMP as a completed MBA."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Min 7+ yrs of overall work experience in Product Management in Consumer-oriented tech startups.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "11+ years of overall professional experience (since June 2015), including ~7.8 years in consumer EdTech at Byju's (June 2015–June 2020 in Multiple Roles under Product Development prototyping products, designing UX journeys, and leading 5 product leads; July 2020–April 2023 as PM/Senior PM), ~1.2 years as Founder at Hype Marketing & Product Services (Oct 2023–Nov 2024), and ~2.2 years as Senior PM at enterprise retail tech Lowe's India (Sep 2024–Present). Explicit titled PM/Senior PM tenure is ~5 years (Byju's + Lowe's India), and the most recent 2+ years are in enterprise infrastructure rather than a consumer tech startup.",
+      "positioning_bridge": "Bridge ~7.8 years of consumer EdTech product development and PM/SPM experience at Byju's together with ~2.2 years of Senior PM ownership at Lowe's India to demonstrate mature 11+ year product and scale execution."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Track record in driving core Product KPIs with measurable delta achieved.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L100, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L261-L269, canonical_master_profile.md:L497-L519",
+      "evidence_summary": "Delivered measurable KPI improvements across Lowe's India (99.99% platform reliability, ~$10M annual revenue protection savings, $2M annual operational cost savings, 20% operational cycle time reduction) and Byju's (2.5 lakh+ sales-qualified leads, 35% lead conversion improvement, 15% instructor training time reduction, 5% course completion increase).",
+      "positioning_bridge": "Lead with quantified product, conversion, and operational KPI deltas across both consumer (Byju's) and enterprise scale (Lowe's India)."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience of building new age B2C/B2B products for large scale.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L212-L315",
+      "evidence_summary": "Built and scaled large-scale B2C digital learning and acquisition products at Byju's (Byju's Xcel Masterclasses generating 2.5L+ SQLs, Tynker, WhiteHat Jr., Aakash-Byju's, Social Studies with 500+ hours of video and 300+ interactive experiences) and enterprise B2B/internal platforms at Lowe's India (AI-driven procurement and catalog platform, unified enterprise asset lifecycle platform, automated incident recovery systems).",
+      "positioning_bridge": "Showcase dual B2C consumer-scale product creation (Byju's) and high-reliability enterprise platform scale (Lowe's India)."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Proficiency in data analytics and data-driven decision-making ability.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L6, canonical_master_profile.md:L67, canonical_master_profile.md:L77-L82, canonical_master_profile.md:L111, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L364-L365, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L660",
+      "evidence_summary": "Led KPI framework and dashboard development for operational decision-making using internal enterprise analytics and reporting tools at Lowe's India, and used funnel, engagement, and conversion metrics to guide product and growth decisions at Byju's, HealthQ Rehab, and Hype. Specific commercial analytics tools (e.g., SQL, Mixpanel, Amplitude, GA4) are not claimed.",
+      "positioning_bridge": "Emphasize KPI framework design, internal enterprise analytics/dashboarding, and metrics-driven funnel prioritization without naming unclaimed third-party analytics tools."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Strong hold on technical skills.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L63, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L254-L268, canonical_master_profile.md:L325-L328",
+      "evidence_summary": "Holds B.Tech. in Computer Science Engineering (Manipal Institute of Technology, 2011–2015) and serves as Senior PM within Lowe's India's Reliability Engineering and Infrastructure & Operations teams, owning automated recovery systems, AI-driven procurement workflows, and enterprise asset lifecycle platforms (plus coding/interactive learning products like Tynker and WhiteHat Jr.). Hands-on software development or architecture coding is not claimed.",
+      "positioning_bridge": "Demonstrate technical PM fluency grounded in CS Engineering education and hands-on product ownership within Reliability Engineering, infrastructure, and AI workflow platforms."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Sharp User Research skills - conducting Usability Testing, User interviews & A/B Testing.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L280-L282, canonical_master_profile.md:L366, canonical_master_profile.md:L387, canonical_master_profile.md:L389, canonical_master_profile.md:L646, canonical_master_profile.md:L656",
+      "evidence_summary": "Led product experimentation, UX optimization, and user journey friction reduction at Byju's (increasing lead conversion by 35% and Tynker course completion by 5%). However, formal usability testing, structured user interviews, and specific A/B testing methodology ownership are not explicitly documented in the master profile.",
+      "positioning_bridge": "Bridge documented product experimentation and funnel/UX friction optimization at Byju's to user research and testing expectations without fabricating formal usability testing or user interview studies."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Obsession with the mission to improve customer experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L90, canonical_master_profile.md:L147-L160, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L261-L269, canonical_master_profile.md:L363, canonical_master_profile.md:L386-L390",
+      "evidence_summary": "Demonstrated customer experience improvements across consumer and enterprise products: reduced order cancellations at Lowe's (~$10M revenue protection), removed funnel friction at Byju's (+35% lead conversion, +5% course completion, -15% instructor training time), and achieved 4.5+ ratings and 80%+ learning completion rates for client products.",
+      "positioning_bridge": "Highlight user-first journey optimization and reliability-driven protection of end-customer transactions."
+    },
+    {
+      "id": "MH-9",
+      "category": "must_have",
+      "requirement": "Ability to conceptualize, manage and prioritize tasks.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L66, canonical_master_profile.md:L82, canonical_master_profile.md:L333-L343, canonical_master_profile.md:L401, canonical_master_profile.md:L462, canonical_master_profile.md:L556",
+      "evidence_summary": "Defined quarterly and annual operational roadmaps and ROI-driven prioritization at Lowe's India; completed UC Irvine Project Management Specialization covering planning, scheduling, scope/constraint management, and risk management.",
+      "positioning_bridge": "Emphasize structured roadmap prioritization, scope management, and ROI-based execution discipline."
+    },
+    {
+      "id": "MH-10",
+      "category": "must_have",
+      "requirement": "Excellent Stakeholder management skills.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L93, canonical_master_profile.md:L107, canonical_master_profile.md:L341, canonical_master_profile.md:L367, canonical_master_profile.md:L478-L493, canonical_master_profile.md:L553-L554",
+      "evidence_summary": "Coordinated finance, operations, IT, engineering, product, marketing, and design stakeholders across Lowe's India and Byju's; presented monthly business reviews to VP/CXO leadership and drove enterprise alignment without formal authority.",
+      "positioning_bridge": "Highlight cross-functional alignment across technical and business teams and senior executive stakeholder management."
+    },
+    {
+      "id": "MH-11",
+      "category": "must_have",
+      "requirement": "Amazing verbal and written communication skills.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L132-L136, canonical_master_profile.md:L184-L197, canonical_master_profile.md:L341, canonical_master_profile.md:L478-L479",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives and decision-support materials, and led client consulting and multi-channel communication strategies.",
+      "positioning_bridge": "Cite executive storytelling, board-level narrative preparation, and cross-functional communication across engineering and business teams."
+    }
+  ],
+  "preferred": [],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Build personalized financial journeys and scalable product capabilities powered by AI, Machine Learning, Data Science, and real-time data infrastructure.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535, canonical_master_profile.md:L652, canonical_master_profile.md:L666",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (20% operational cycle time reduction) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India. Does not claim B2C ML personalization model ownership or real-time data infrastructure ownership.",
+      "positioning_bridge": "Position AI-driven procurement and automated operational workflows at Lowe's as transferable foundation for collaborating with Data Science and Engineering on AI-powered user journeys."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Operate with high ownership, speed, and autonomy in a low-hierarchy, builder-oriented environment.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L119-L176, canonical_master_profile.md:L238, canonical_master_profile.md:L270-L275, canonical_master_profile.md:L487, canonical_master_profile.md:L554",
+      "evidence_summary": "Founded Hype Marketing & Product Services, built 0-to-1 educational products and 12 cross-product prototypes at Byju's, and drove enterprise alignment without formal authority at Lowe's India.",
+      "positioning_bridge": "Emphasize founder/builder ownership, 0-to-1 prototyping agility, and influencing without authority."
+    },
+    {
+      "id": "IM-3",
+      "category": "implicit",
+      "requirement": "Drive consumer onboarding, acquisition, and engagement across a multi-product B2C app ecosystem.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L235-L239, canonical_master_profile.md:L266-L268, canonical_master_profile.md:L386-L389",
+      "evidence_summary": "Scaled consumer acquisition and onboarding funnels for Byju's Xcel Masterclasses (2.5L+ SQLs, +35% lead conversion), redesigned Tynker app (+5% course completion), and developed 12 cross-product prototypes connecting Aakash-Byju's, Tynker, and WhiteHat Jr. Experience is in EdTech rather than a fintech Super App.",
+      "positioning_bridge": "Translate multi-product consumer funnel optimization and cross-ecosystem engagement from Byju's directly to Angel One's Super App onboarding and engagement goals."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Fintech, retail investing, trading, and wealth management domain experience (making onboarding and investing accessible on a consumer Super App).",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35, canonical_master_profile.md:L48-L316",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for fintech, stockbroking, retail investing, trading, or regulated financial services domain experience; documented domains span Enterprise Platforms, Reliability Engineering, Infrastructure Operations, EdTech, SaaS, Growth Marketing, and AI-enabled Workflows.",
+      "positioning_bridge": "Acknowledge fintech domain gap transparently; pair B2C onboarding/conversion scale (Byju's) with high-reliability transaction/order protection (Lowe's India) as transferable execution mechanics."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Define, own, and drive key success metrics; track/analyze performance; collaborate with internal business verticals to drive core org KPIs.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L83, canonical_master_profile.md:L91-L95, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L483-L488",
+      "evidence_summary": "Owned KPI frameworks (incident resolution, cost savings, platform adoption, operational efficiency) and executive reporting at Lowe's India while coordinating finance, operations, and IT verticals; drove funnel and conversion KPIs across product and marketing teams at Byju's.",
+      "positioning_bridge": "Highlight end-to-end KPI ownership and cross-vertical alignment driving organizational outcomes."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Design & own product roadmap from concept and design through to launch and business impact.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L66, canonical_master_profile.md:L82, canonical_master_profile.md:L91-L99, canonical_master_profile.md:L235-L239, canonical_master_profile.md:L261-L275",
+      "evidence_summary": "Defined multi-quarter roadmaps and led end-to-end launches from concept through measurable impact, including Lowe's AI-driven procurement platform (20% cycle time reduction) and asset lifecycle platform ($2M savings), plus Byju's Social Studies product, Interactive Learning Experiences, and Xcel Masterclasses.",
+      "positioning_bridge": "Showcase full lifecycle roadmap ownership from ideation and design to launch and business metrics."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Understand customer requirements, create workflows, and build in-depth understanding of complex internal systems to enhance user experience and operational efficiency.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L69-L71, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L261-L264, canonical_master_profile.md:L300, canonical_master_profile.md:L306, canonical_master_profile.md:L390, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Built deep understanding of complex enterprise infrastructure and store setup systems at Lowe's India to design automated recovery workflows (~$10M savings) and AI-driven procurement workflows (20% cycle time reduction); created UX interactions for Elevate internal tracking platform and redesigned instructor/learner workflows at Byju's (-15% training time).",
+      "positioning_bridge": "Connect complex internal system optimization and workflow automation at Lowe's with UX-driven internal workflow improvements at Byju's."
+    },
+    {
+      "id": "DM-5",
+      "category": "domain",
+      "requirement": "Collaborate with design, data analytics, and engineering teams to drive research, experimentation, and high-impact personalisation strategy.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L230-L239, canonical_master_profile.md:L366-L367, canonical_master_profile.md:L387-L389, canonical_master_profile.md:L651",
+      "evidence_summary": "Collaborated closely across product, engineering, design, data, and marketing teams to drive product experimentation and user journey optimization; however, direct personalization-system ownership is flagged as adjacent/unvalidated and formal UX research studies are not documented.",
+      "positioning_bridge": "Highlight cross-functional execution with design, engineering, and analytics on customer journey optimization while framing personalization strategy as adjacent."
+    },
+    {
+      "id": "DM-6",
+      "category": "domain",
+      "requirement": "Own features and experiments end-to-end, including writing product specs, collaborating to create wireframes, driving cross-functional execution, and sharing insights and results throughout the company.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L232, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L300-L313, canonical_master_profile.md:L478-L486, canonical_master_profile.md:L656-L658",
+      "evidence_summary": "End-to-end feature delivery, UX interaction design/prototyping collaboration, cross-functional execution, and company/executive insight sharing are directly evidenced; explicit PRD/user-story artifacts and formal A/B testing ownership are flagged as adjacent/unvalidated in the profile.",
+      "positioning_bridge": "Emphasize end-to-end feature ownership, UX prototyping, and executive insight sharing while treating explicit PRD/A/B test artifacts carefully."
+    },
+    {
+      "id": "DM-7",
+      "category": "domain",
+      "requirement": "Gather, review, and interpret qualitative & quantitative data to uncover new product insights.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L77-L81, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L387, canonical_master_profile.md:L389",
+      "evidence_summary": "Quantitative interpretation of operational, product funnel, and engagement metrics to uncover improvements is directly evidenced across Lowe's, Byju's, HealthQ, and Hype; structured qualitative user research (e.g., user interviews) is not explicitly documented.",
+      "positioning_bridge": "Lead with quantitative insight generation across funnels and operations, noting qualitative user interview experience is not explicitly documented."
+    }
+  ],
+  "summary_counts": {
+    "direct": 12,
+    "adjacent": 8,
+    "gap": 1,
+    "total": 21
+  }
+}

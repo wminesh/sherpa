@@ -1,0 +1,202 @@
+{
+  "opportunity_id": "4490772302-visa-spm",
+  "company": "Visa",
+  "role_title": "Sr Product Manager",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "8 or more years of relevant work experience with a Bachelor's Degree or at least 5 years of experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or 2 years of work experience with a PhD.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L179-L182, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288, canonical_master_profile.md:L321-L328",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015) and is pursuing an Executive General Management Program at IIM Bangalore (2025–2026, ongoing), with 11+ years of overall professional experience since June 2015 across Byju's (June 2015–April 2023), HealthQ Rehab (May–Dec 2023), Hype Marketing & Product Services (Oct 2023–Nov 2024), and Lowe's India (Sep 2024–Present).",
+      "positioning_bridge": "Exceeds the 8+ years experience with Bachelor's Degree threshold."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Experience in roles such as product manager, product owner, business process analyst, or sales operations.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L251-L253, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "Served as Senior Product Manager at Lowe's India (Sep 2024–Present) and Product Manager / Senior Product Manager at Byju's (July 2020–April 2023), following earlier product prototyping, UX, and product-lead management roles at Byju's (June 2015–June 2020).",
+      "positioning_bridge": "Directly matches the Product Manager role requirement across enterprise platform and consumer/growth products."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Direct product strategy from conception and definition through implementation.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L91-L100, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L304-L308",
+      "evidence_summary": "At Lowe's India, owned strategic initiatives across engineering and product teams, spearheaded the unified enterprise asset lifecycle platform (~$2M annual cost savings), and designed and launched an AI-driven procurement and catalog system (20% cycle time reduction). At Byju's, led product strategy for Byju's Xcel Masterclasses (2.5L+ SQLs, 35% lead conversion lift) and launched Social Studies (500+ hours video, 300+ interactive experiences) and Interactive Learning Experiences (15% instructor training time reduction).",
+      "positioning_bridge": "Highlight end-to-end product ownership from problem definition and prototyping through production launch and measurable business outcomes."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Identify new business and market opportunities and develop appropriate business plans.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L132-L151, canonical_master_profile.md:L235-L238, canonical_master_profile.md:L373-L375, canonical_master_profile.md:L489-L494",
+      "evidence_summary": "As Founder of Hype Marketing & Product Services, defined GTM, growth, and marketing strategies for new offerings (Upraised: +50% engagement, +30% traffic) and launched/marketed digital learning products (Programming Hub: 4.5+ ratings). At Byju's, led Byju's Xcel Masterclasses (2.5L+ SQLs) and built 12 cross-product learning prototypes. Managed forecasting, budgeting, investment prioritization, and ROI evaluation for strategic initiatives.",
+      "positioning_bridge": "Connect new-offering GTM planning, cross-product growth initiatives, and ROI/investment business planning to Visa's business opportunity identification mandate."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Determine product market requirements, understand marketplace requirements, and ensure alignment with organizational objectives.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L66-L68, canonical_master_profile.md:L132-L161, canonical_master_profile.md:L184-L193, canonical_master_profile.md:L380-L388, canonical_master_profile.md:L477-L483",
+      "evidence_summary": "Defined quarterly priorities, operational roadmaps, and annual/quarterly planning cycles aligned with business goals at Lowe's India; aligned content themes, product positioning, and customer learning journeys with audience demand and engagement objectives at Hype and HealthQ Rehab (+35% organic traffic, +20% brand engagement); and aligned cross-product experiences with funnel objectives at Byju's.",
+      "positioning_bridge": "Emphasize translating market/user needs and executive business goals into concrete product requirements and strategic roadmaps."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Formulate and execute long-term plans for cost and profit control.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L77-L95, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L489-L494",
+      "evidence_summary": "Delivered ~$10M annual revenue protection savings (reducing order cancellations) and ~$2M annual cost savings (unified enterprise asset lifecycle platform) at Lowe's India, designed KPI frameworks tracking cost savings and operational efficiency, owned P&L responsibilities across product and operational initiatives, and managed forecasting, budgeting, headcount planning, and ROI evaluation with finance stakeholders.",
+      "positioning_bridge": "Lead with quantified cost-reduction, revenue-protection, P&L, budgeting, and ROI prioritization outcomes."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Experience in applying Agile principles across design, development, testing, and product management.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L266-L283, canonical_master_profile.md:L297-L315, canonical_master_profile.md:L366-L367, canonical_master_profile.md:L450",
+      "evidence_summary": "Explicitly lists Agile Product Delivery (L450) alongside iterative product experimentation, UX/product design, prototyping, and cross-functional engineering/product execution across Lowe's India and Byju's. Does not claim dedicated QA/software-testing engineering ownership.",
+      "positioning_bridge": "Ground Agile execution in iterative product delivery, prototyping, cross-functional engineering collaboration, and experimentation without overclaiming QA ownership."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Experience in developing software capabilities to support sales, service, or customer relationship management functions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L115, canonical_master_profile.md:L134-L136, canonical_master_profile.md:L185-L186, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L306, canonical_master_profile.md:L386-L387",
+      "evidence_summary": "Built lead-generation and customer-funnel product capabilities for Byju's Xcel Masterclasses generating 2.5L+ sales-qualified leads and a 35% lead conversion improvement, created UX interactions for the Elevate internal tracking platform at Byju's, managed automated recovery/incident/service operations workflows at Lowe's India (~$10M annual savings), and optimized customer communication workflows (WhatsApp, Telegram, email). Does not evidence direct ownership of commercial CRM software platforms (e.g., Salesforce).",
+      "positioning_bridge": "Bridge enterprise service/incident-ops workflow platforms, internal tracking UX, and sales-qualified lead funnel capabilities as transferable to sales, service, and CRM software enablement."
+    },
+    {
+      "id": "MH-9",
+      "category": "must_have",
+      "requirement": "Experience in multi-tasking, organizing, managing, and implementing complex projects directly or through supervision.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L91-L95, canonical_master_profile.md:L119-L161, canonical_master_profile.md:L238, canonical_master_profile.md:L301, canonical_master_profile.md:L307, canonical_master_profile.md:L333-L344",
+      "evidence_summary": "Managed multi-stakeholder enterprise initiatives at Lowe's India (asset lifecycle platform, AI procurement, reliability automation), led a team of 5 product leads for Commerce at Byju's, delivered 12 cross-product prototypes, concurrently led multiple client engagements at Hype Marketing & Product Services, and holds a Project Management Specialization from UC Irvine (Oct–Dec 2020) covering planning, budgeting, risk, scope, and stakeholder management.",
+      "positioning_bridge": "Demonstrate concurrent multi-initiative delivery, team supervision (5 product leads at Byju's), and formal project management training."
+    },
+    {
+      "id": "MH-10",
+      "category": "must_have",
+      "requirement": "Serve as a central resource and collaborate cross-functionally with systems, marketing, and sales teams during product development.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L230, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L367, canonical_master_profile.md:L386-L387, canonical_master_profile.md:L485-L488",
+      "evidence_summary": "Directly collaborated across engineering/systems, IT, product, marketing, finance, operations, design, and data teams at Lowe's India and Byju's, driving enterprise alignment without formal authority. Sales-team collaboration is evidenced indirectly through sales-funnel and SQL-generation initiatives (2.5L+ SQLs, 35% lead conversion lift) rather than explicit direct enterprise sales-team stakeholder ownership.",
+      "positioning_bridge": "Lead with proven central cross-functional orchestration across engineering/IT systems, marketing, finance, and operations, bridged to sales via GTM/SQL funnel collaboration."
+    },
+    {
+      "id": "MH-11",
+      "category": "must_have",
+      "requirement": "Promote adoption of new technologies and industry-leading trends, including digital fluency with emerging technologies such as Generative AI tools to support everyday work.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L22, canonical_master_profile.md:L33, canonical_master_profile.md:L70, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L105, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system at Lowe's India reducing operational cycle times by 20%, led automation and recovery workflow initiatives, and holds a B.Tech. in Computer Science Engineering alongside AI workflow design/optimization domain positioning. Specific tools named in the JD (ChatGPT, Microsoft Copilot) are not cited verbatim in the canonical profile.",
+      "positioning_bridge": "Highlight hands-on adoption and launch of AI-driven enterprise workflows and automation systems alongside CS engineering foundation."
+    },
+    {
+      "id": "MH-12",
+      "category": "must_have",
+      "requirement": "Work on-site / hybrid (at least 3 days in office) in Bengaluru, Karnataka, India.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L9, canonical_master_profile.md:L50, canonical_master_profile.md:L121, canonical_master_profile.md:L181, canonical_master_profile.md:L213",
+      "evidence_summary": "Based in Bangalore, Karnataka, India across all recorded roles (Lowe's India, Hype Marketing & Product Services, HealthQ Rehab, Byju's).",
+      "positioning_bridge": "Exact geographic match for Bengaluru hybrid/on-site requirement."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "9 or more years of relevant work experience with a Bachelor's Degree or 7 or more relevant years of experience with an Advanced Degree (e.g. Masters, MBA, JD, MD) or 3 or more years of experience with a PhD.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L179-L182, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288, canonical_master_profile.md:L321-L328",
+      "evidence_summary": "11+ years of relevant work experience (since June 2015) with a B.Tech. in Computer Science Engineering (2011–2015), plus ongoing Executive General Management Program at IIM Bangalore (2025–2026).",
+      "positioning_bridge": "Meets the preferred 9+ years with Bachelor's Degree threshold."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Agile certifications such as CSM and CSPO, or their equivalent.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L331-L345, canonical_master_profile.md:L596-L598",
+      "evidence_summary": "No defensible evidence of CSM, CSPO, or equivalent Agile certifications exists in canonical_master_profile.md. The only listed certification is the University of California, Irvine Project Management Specialization (Oct–Dec 2020).",
+      "positioning_bridge": "Do not claim Agile certifications; allow practical Agile Product Delivery experience and UCI Project Management Specialization to stand on their own merits."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Experience in identifying, assessing, and managing tradeoffs in product development.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L66, canonical_master_profile.md:L77-L82, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L340, canonical_master_profile.md:L343, canonical_master_profile.md:L389, canonical_master_profile.md:L462, canonical_master_profile.md:L491-L492",
+      "evidence_summary": "Defined quarterly operational roadmaps, managed ROI-driven investment prioritization across cost, adoption, and reliability KPIs at Lowe's India, used user engagement signals for product experimentation tradeoffs at Byju's, and completed UC Irvine coursework in Scope & Constraint Management and Managing Project Risks and Changes.",
+      "positioning_bridge": "Frame roadmap prioritization, ROI-based resource allocation, and experimentation-led iteration as concrete tradeoff management."
+    },
+    {
+      "id": "PR-4",
+      "category": "preferred",
+      "requirement": "Experience in identifying points of failure and formulating error-handling approaches for product resiliency.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L58, canonical_master_profile.md:L70, canonical_master_profile.md:L75-L90, canonical_master_profile.md:L112-L114, canonical_master_profile.md:L524-L529",
+      "evidence_summary": "Within Lowe's India Reliability Engineering and Infrastructure & Operations, ensured 99.99% reliability for key business platforms, saved ~$10M annually by reducing order cancellations through automated recovery systems, incident handling workflows, and SLA/escalation workflows, and defined roadmaps targeting a 20% reduction in incident volume.",
+      "positioning_bridge": "Directly showcase Reliability Engineering outcomes—automated recovery workflows, order-cancellation failure mitigation, and 99.99% platform reliability."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Executive stakeholder management, business-case / ROI governance, and alignment without formal authority across technical and business functions.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L477-L494, canonical_master_profile.md:L553-L556",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives, led annual/quarterly planning cycles, coordinated finance, operations, engineering, and IT stakeholders, and drove enterprise alignment without formal authority.",
+      "positioning_bridge": "Demonstrate executive-ready communication and cross-org governance needed to serve as a central Sr. Product Manager resource."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Enterprise internal tooling, operational workflow orchestration, and customer/commercial enablement systems.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L91-L100, canonical_master_profile.md:L134-L136, canonical_master_profile.md:L185-L186, canonical_master_profile.md:L306, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Built internal enterprise workflow platforms at Lowe's India (AI-driven procurement and catalog system, unified enterprise asset lifecycle platform) and internal tracking UX (Elevate) plus multi-channel communication/funnel systems at Byju's, HealthQ, and Hype. Direct commercial sales/CRM platform ownership is not evidenced.",
+      "positioning_bridge": "Position internal enterprise workflow platforms and customer-funnel systems as directly transferable to internal/commercial enablement tools at Visa."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Payments technology and global financial transaction ecosystem (consumers, merchants, financial institutions, and government entities).",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35",
+      "evidence_summary": "No defensible evidence of payments technology, card networks, merchant acquiring, banking, or financial-services domain experience exists in canonical_master_profile.md; documented domains span enterprise retail reliability/infrastructure operations, EdTech, SaaS, and digital/growth marketing.",
+      "positioning_bridge": "Acknowledge the payments domain gap transparently while emphasizing transferable enterprise platform scale, 99.99% transaction/order reliability protection, and cross-functional product execution."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Enterprise platform operations, lifecycle management, and measurable cost/value realization at scale.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35, canonical_master_profile.md:L52-L63, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L499-L504",
+      "evidence_summary": "Led enterprise reliability and infrastructure operations initiatives at Lowe's India delivering 99.99% platform reliability, ~$10M annual revenue protection savings, $2M annual operational savings via a unified asset lifecycle platform, and 20% cycle time reduction via AI-driven procurement.",
+      "positioning_bridge": "Strong enterprise-scale platform operations and quantified financial-impact alignment."
+    }
+  ],
+  "summary_counts": {
+    "direct": 15,
+    "adjacent": 3,
+    "gap": 2,
+    "total": 20
+  }
+}

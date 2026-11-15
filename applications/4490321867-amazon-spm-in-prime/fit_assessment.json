@@ -1,0 +1,81 @@
+{
+  "opportunity_id": "4490321867-amazon-spm-in-prime",
+  "company": "Amazon Business",
+  "role_title": "Sr. Product Manager, IN Prime",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 82,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 86,
+      "weighted_score": 21.5,
+      "rationale": "Strong end-to-end product delivery, roadmap definition, experimentation, and ROI-driven tradeoffs across Lowe's India and Byju's (lines 64-99, 227-238, 261-275). Minor deduction because explicit BRD/PRD and user story artifacts (line 657) and technical design review ownership are not documented, and documented planning cycles are annual/quarterly rather than multi-year."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 72,
+      "weighted_score": 14.4,
+      "rationale": "Strong transferable B2C acquisition funnel, conversion optimization, cross-product ecosystem prototyping, and lifecycle marketing experience from Byju's Xcel (2.5L+ SQLs, 35% conversion lift, 12 cross-product prototypes), Hype Marketing, and HealthQ Rehab (lines 131-197, 228-238, 386-388). However, there is no direct ownership of a paid consumer subscription/membership product, recurring renewal plans, in-app e-commerce upsell orchestration, or multi-benefit shopping/shipping/entertainment bundles, and the candidate's current role at Lowe's India is internal enterprise reliability and operations."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 80,
+      "weighted_score": 16.0,
+      "rationale": "B.Tech. in Computer Science Engineering (lines 325-327) with solid ownership of technology products across enterprise reliability/AI-driven procurement platforms at Lowe's India (lines 64-100) and digital learning products at Byju's (lines 221-275). Deducted slightly because formal technical design review leadership, direct ML/Data Science propensity model integration for consumer upsell, and global engineering team collaboration are not explicitly evidenced."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 86,
+      "weighted_score": 12.9,
+      "rationale": "Exceeds the 5+ years qualification with 10+ years total experience (June 2015-Present), 5+ years in formal PM/SPM titles (Byju's and currently Senior PM at Lowe's India), Founder and Head of Marketing experience, B.Tech CS, and ongoing IIM Bangalore EGMP (lines 48-50, 119-121, 179-181, 217-219, 321-327). Slight stretch relative to owning a multi-year consumer Prime acquisition/renewal charter expected to influence worldwide locales."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 82,
+      "weighted_score": 8.2,
+      "rationale": "Demonstrated strong commercial and funnel metrics across B2C and enterprise contexts: 2.5 lakh+ SQLs and 35% lead conversion lift at Byju's, 30% open rate / 20% CTR and 35% organic traffic growth in marketing engagements, plus ~$10M annual revenue protection and $2M annual cost savings at Lowe's India (lines 84-99, 141-197, 234-238). Direct consumer subscription ARR, renewal rate, and LTV/upsell metrics are not present."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 82,
+      "weighted_score": 4.1,
+      "rationale": "Well-evidenced cross-functional leadership across Engineering, Product, UX/Design, Marketing, Finance, Operations, and Data teams, alongside monthly VP/CXO business reviews, executive reporting, and influence without formal authority (lines 65-71, 230, 367, 477-487). Legal stakeholder collaboration and global/worldwide team influence are not evidenced."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Bengaluru on-site role matches candidate's Bangalore, Karnataka location (line 9) with zero relocation friction."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end roadmap and vision for India Prime member acquisitions, in-app upsell orchestration ('who, how, and when'), and multi-year renewal charter across subscription plans and channels, with expectation to influence worldwide locales.",
+    "seniority_alignment": "Strong match for Senior Product Manager (5+ years required; candidate brings 10+ years total experience, ~5+ years in formal PM/SPM roles, Founder/Head of Marketing background, and ongoing IIM-B EGMP), with minor stretch on multi-year global-locale portfolio scope.",
+    "product_discipline": "Consumer Growth, Acquisition Funnel Optimization, & Subscription Lifecycle Product Management — aligns well with candidate's Byju's funnel/conversion and Hype/HealthQ lifecycle growth track record, though lacking direct paid-subscription/paywall ownership.",
+    "domain_relevance": "Moderately strong via transferable B2C acquisition, cross-product engagement, and KPI-driven experimentation, offset by absence of direct e-commerce marketplace, shipping/entertainment bundle, or recurring subscription renewal domain experience.",
+    "leadership_expectations": "High-judgment ambiguity handling, executive MBR/status reporting, and influence across Tech, UX, Marketing, Finance, ML/DS, Legal, and global teams — well supported for local cross-functional and VP/CXO alignment, with gaps on Legal and worldwide teams.",
+    "evidence_strength": "Strong foundational match (14/19 Direct including all 7 Must-Have and both Preferred requirements, 4 Adjacent, 1 Gap), with clear domain-specific gaps around subscription/e-commerce mechanics and global locale rollouts."
+  },
+  "key_strengths": [
+    "Proven B2C top-of-funnel acquisition and conversion growth: led Byju's Xcel Masterclasses to 2.5 lakh+ sales-qualified leads (+35% lead conversion) and built 12 cross-product learning prototypes across Aakash-Byju's, Tynker, and WhiteHat Jr. (lines 234-238, 386-388).",
+    "Multi-channel lifecycle and digital growth execution across Hype Marketing & Product Services and HealthQ Rehab, optimizing email (30% open rate, 20% CTR), WhatsApp, Telegram, SEO (+35% organic traffic), and social engagement (+50%) (lines 131-197).",
+    "High-bar executive governance and metric rigor at Lowe's India: monthly VP/CXO business reviews, KPI dashboarding, ~$10M annual revenue protection savings, $2M operational savings, and 20% cycle time reduction (lines 67-99, 477-487)."
+  ],
+  "positioning_angle": "Position as a data-driven Senior Product & Growth Manager who combines B2C acquisition funnel optimization, cross-product customer journey experimentation, and multi-channel lifecycle marketing (Byju's, Hype, HealthQ) with high-rigor enterprise execution, KPI governance, and VP/CXO business reviews (Lowe's India). Bridge cross-product prototyping and conversion lifts to Prime in-app acquisition and upsell problem-solving while transparently framing subscription renewal charters and e-commerce bundles as transferable growth domains.",
+  "red_flags_and_gaps": [
+    "No documented direct ownership of a paid consumer subscription/membership product, recurring renewal plan charter, or in-app e-commerce subscription upsell orchestration (DM-1).",
+    "No documented experience in B2C e-commerce marketplaces, shipping/logistics membership benefits, or digital entertainment/music bundles (IM-3); most recent 2+ years at Lowe's India are in internal enterprise reliability and procurement.",
+    "No defensible evidence of influencing worldwide locales with worldwide-first innovations or collaborating with global teams and Legal stakeholders (IM-2, DM-5).",
+    "Canonical profile (line 657) explicitly notes PRD/BRD and user story artifacts are not currently documented, and formal technical design review leadership is unverified (DM-3)."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether any unrecorded work at Lowe's India involved collaboration with global/US engineering or product stakeholders that could partially address the global-team aspect of IM-2/DM-5.",
+    "Validate any real-world PRD/BRD writing and technical design review experience from Byju's or Lowe's India before emphasizing those specific artifacts in interview narratives (per profile line 657)."
+  ]
+}

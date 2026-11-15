@@ -1,0 +1,157 @@
+{
+  "opportunity_id": "4455913458-amazon-spm-now-selection",
+  "company": "Amazon",
+  "role_title": "Senior Product Manager, Amazon Now (Selection Quality, Health & Seller Tools)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "5+ years of product or program management, product marketing, business development or technology experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L179-L182, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "10+ years of overall experience since June 2015 across product management, product marketing, GTM, and technology roles, including Senior Product Manager at Lowe's India (Sep 2024–Present), Founder at Hype Marketing & Product Services (Oct 2023–Nov 2024), Head of Marketing at HealthQ Rehab (May 2023–Dec 2023), Product Manager / Senior Product Manager at Byju's (July 2020–April 2023), and Multiple Roles in product development at Byju's (June 2015–June 2020).",
+      "positioning_bridge": "Directly exceeds the 5+ years threshold across product management, technology, and product marketing."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Bachelor's degree or equivalent.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L327",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Directly meets the Bachelor's degree requirement with a technical Computer Science Engineering degree."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Experience owning/driving roadmap strategy and definition.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L82, canonical_master_profile.md:L108, canonical_master_profile.md:L228, canonical_master_profile.md:L446",
+      "evidence_summary": "Owned strategic initiatives across engineering and product teams, defined quarterly priorities and operational roadmaps, and defined annual and quarterly roadmaps targeting 20% reduction in incident volume at Lowe's India; led product strategy initiatives at Byju's.",
+      "positioning_bridge": "Highlight ownership of multi-quarter product and operational roadmaps at Lowe's India and Byju's."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience with end to end product delivery.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L91-L100, canonical_master_profile.md:L235-L238, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L448-L450",
+      "evidence_summary": "Delivered products end to end from design and prototyping through launch and measurable impact, including designing and launching an AI-driven procurement and catalog system (20% cycle time reduction) and unified enterprise asset lifecycle platform (~$2M annual cost savings) at Lowe's India, plus launching Byju's Xcel Masterclasses (2.5L+ SQLs, 35% lead conversion lift), WhiteHat Jr. Interactive Learning Experiences (15% instructor training time reduction), Tynker app redesign (5% course completion increase), and Social Studies product (500+ video hours, 300+ interactive experiences).",
+      "positioning_bridge": "Showcase full-lifecycle product launches across enterprise retail platforms and consumer digital products."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Experience with feature delivery and tradeoffs of a product.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L66, canonical_master_profile.md:L232, canonical_master_profile.md:L261-L268, canonical_master_profile.md:L333-L343, canonical_master_profile.md:L462, canonical_master_profile.md:L491",
+      "evidence_summary": "Managed quarterly priorities, investment prioritization, and ROI-driven prioritization at Lowe's India, and delivered targeted product features and redesigns at Byju's (Interactive Learning Experiences feature, Tynker assessments and DIY learning modules) supported by formal Scope & Constraint Management training (UC Irvine).",
+      "positioning_bridge": "Emphasize ROI-driven prioritization, scope tradeoffs, and iterative feature delivery across enterprise and learning products."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Experience as a product manager or owner.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L50, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L251-L253",
+      "evidence_summary": "Served ~5 years in formal Product Manager and Senior Product Manager roles: Senior Product Manager at Lowe's India (Sep 2024–Present) and Product Manager / Senior Product Manager at Byju's (July 2020–April 2023).",
+      "positioning_bridge": "Directly satisfies Product Manager / Product Owner title and scope requirements."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Experience owning technology products.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L261-L268, canonical_master_profile.md:L306, canonical_master_profile.md:L449",
+      "evidence_summary": "Owned enterprise technology platforms and operational systems at Lowe's India (AI-driven procurement and catalog system, unified enterprise asset lifecycle platform, automated recovery and incident handling systems ensuring 99.99% reliability) as well as digital apps and internal tracking UX at Byju's.",
+      "positioning_bridge": "Directly emphasize ownership of enterprise technology systems and digital software products."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience in influencing senior leadership through data driven insights.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40, canonical_master_profile.md:L67, canonical_master_profile.md:L77-L83, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L477-L488",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives and decision-support materials, supported C-suite decision-making through KPI-driven reporting and operational insights, and led KPI and dashboard development using internal enterprise analytics tools at Lowe's India.",
+      "positioning_bridge": "Directly spotlight VP/CXO business reviews, board-level narratives, and KPI-led executive influence."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience working across functional teams and senior stakeholders.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L91-L95, canonical_master_profile.md:L367, canonical_master_profile.md:L484-L488, canonical_master_profile.md:L552-L558",
+      "evidence_summary": "Coordinated engineering, product, finance, operations, store setup, and IT stakeholders at Lowe's India (driving enterprise alignment without formal authority), collaborated with product, marketing, and content teams at Byju's, and regularly engaged VP/CXO leadership.",
+      "positioning_bridge": "Directly demonstrate cross-functional execution across engineering, operations, finance, IT, and senior executives."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Design scalable automated workflows, recovery/escalation mechanisms, and KPI monitoring frameworks to reduce operational failures and protect revenue at scale.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L90, canonical_master_profile.md:L524-L529",
+      "evidence_summary": "At Lowe's India, ensured 99.99% reliability for key business platforms, designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency, and led automated recovery systems and incident handling workflows that reduced order cancellations and saved approximately $10M annually.",
+      "positioning_bridge": "Directly connect Lowe's automated recovery workflows, order-cancellation reduction (~$10M annual revenue protection), and operational KPI monitoring to protecting live selection health at scale."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Collaborate closely with diverse commerce and retail functional partners including category, seller management, supply chain, store operations, pricing, search, and technology teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L484-L488",
+      "evidence_summary": "Partnered cross-functionally with engineering, product, finance, operations, IT, and store setup teams at Lowe's India, but has not directly partnered with marketplace category, seller management, supply chain, pricing, or search teams.",
+      "positioning_bridge": "Bridge cross-functional retail store-setup, operations, and engineering collaboration at Lowe's India to Amazon Now's cross-functional matrix while avoiding claims of direct category, seller, pricing, or search partnerships."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Own product strategy, success metrics, and adoption mechanisms for a Selection Quality, Health & Seller Tools system in quick-commerce / retail operations.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L445-L453, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "At Lowe's India (enterprise retail), owned product strategy, operational roadmaps, and KPI frameworks tracking platform adoption and operational efficiency, designed and launched an AI-driven procurement and catalog system for store setup teams (20% cycle time reduction), and reduced order cancellations (~$10M annual savings). Has not owned a quick-commerce selection quality/health or marketplace seller tools product.",
+      "positioning_bridge": "Bridge Lowe's retail catalog/procurement platform ownership, store-setup workflow enablement, and platform adoption KPIs to Amazon Now's selection and store-operations tooling charter."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Build selection intelligence and recommendation systems that sense demand, evaluate broader network availability, and guide assortment actions for category teams.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No retail demand-sensing, network selection availability, or category assortment recommendation system experience is evidenced in canonical_master_profile.md (Lowe's AI-driven procurement/catalog system at L96-L99 served internal store setup procurement rather than consumer demand sensing or assortment planning).",
+      "positioning_bridge": "Acknowledge domain gap in retail demand sensing and assortment planning; relate only to AI-driven procurement/catalog workflows and operational decision-support dashboards at Lowe's India as an operational analogy."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Enable catalog publishing workflows and live selection quality/health monitoring at scale to keep selection live for customers.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L90, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Built AI-driven procurement and catalog workflows (20% cycle time reduction) and automated incident recovery workflows reducing order cancellations (~$10M annual savings) while maintaining 99.99% platform reliability at Lowe's India. Did not directly own e-commerce ASIN publishing pipelines or live storefront selection health monitoring.",
+      "positioning_bridge": "Frame Lowe's catalog workflow automation, 99.99% reliability monitoring, and order-cancellation recovery systems as transferable operational foundations for selection publishing and live health monitoring."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Design marketplace seller onboarding, maintenance, and defect-correction tools (missing attributes, blocked or unpublished ASINs, inventory risks, price defects, and search discoverability actions).",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No marketplace seller onboarding/maintenance tooling, ASIN attribute/publishing remediation, pricing defect detection, inventory risk management, or search discoverability experience is documented in canonical_master_profile.md.",
+      "positioning_bridge": "Clear domain gap. Do not claim seller tools, pricing, inventory risk, or ASIN workflow ownership; reference only internal store-setup workflow enablement and automated incident handling workflows at Lowe's India."
+    }
+  ],
+  "summary_counts": {
+    "direct": 10,
+    "adjacent": 3,
+    "gap": 2,
+    "total": 15
+  }
+}

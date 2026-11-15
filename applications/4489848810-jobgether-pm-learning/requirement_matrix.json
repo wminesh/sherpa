@@ -1,0 +1,175 @@
+{
+  "opportunity_id": "4489848810-jobgether-pm-learning",
+  "company": "Jobgether (Partner Company)",
+  "role_title": "Product Manager, Global Learning & Knowledge Platforms",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "5+ years of experience managing digital products, internal knowledge platforms, or digital learning ecosystems from discovery through delivery and continuous improvement.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L161, canonical_master_profile.md:L217-L316",
+      "evidence_summary": "5+ years in dedicated Product Manager and Senior Product Manager roles across Byju's (July 2020–April 2023, spanning PM July 2020–Feb 2022 and Senior PM March 2022–April 2023) and Lowe's India (Sep 2024–Present), preceded by 5 years of educational product prototyping and interactive learning development at Byju's (June 2015–June 2020) and digital learning product consulting at Hype Marketing & Product Services (Oct 2023–Nov 2024; Programming Hub 4.5+ ratings, Acadecraft 80%+ completion rates).",
+      "positioning_bridge": "Lead with multi-year end-to-end ownership of digital learning ecosystems (Byju's, Tynker, WhiteHat Jr., Programming Hub, Acadecraft) and enterprise digital platforms (Lowe's India)."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Demonstrated ability to identify underlying user needs beyond initial feature requests and develop comprehensive solutions spanning technology, processes, and organizational alignment.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L65-L99, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L386-L390, canonical_master_profile.md:L483-L488",
+      "evidence_summary": "Translated operational and user friction into integrated technology, workflow, and cross-functional solutions at Lowe's India (automated recovery systems saving ~$10M annually, unified enterprise asset lifecycle platform saving ~$2M annually, and AI-driven procurement/catalog platform cutting store-setup cycle times by 20%) and at Byju's (redesigning WhiteHat Jr. instructor and learner workflows to cut instructor training time by 15%, adding Tynker assessments/DIY modules for +5% completion, and resolving funnel friction for +35% lead conversion).",
+      "positioning_bridge": "Highlight diagnosing root operational/learner pain points and shipping solutions that combine platform technology, process redesign, and cross-team alignment."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Strong ownership and execution skills, with the ability to translate broad organizational objectives into actionable roadmaps, priorities, and measurable deliverables.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L131-L161, canonical_master_profile.md:L373, canonical_master_profile.md:L477-L488",
+      "evidence_summary": "Owned strategic initiatives and defined quarterly priorities and annual/quarterly roadmaps at Lowe's India (delivering 99.99% reliability, ~$10M revenue protection savings, $2M cost savings, 20% cycle time reduction, and roadmaps targeting 20% incident volume reduction); translated business goals into campaign and product roadmaps at Hype (50% engagement and 30% traffic growth for Upraised; 80%+ completion for Acadecraft).",
+      "positioning_bridge": "Emphasize end-to-end roadmap ownership, quarterly prioritization, and quantified delivery aligned to organizational goals."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Excellent written and verbal communication skills, including the ability to develop clear product requirements and facilitate collaboration between technical and non-technical stakeholders.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L367, canonical_master_profile.md:L427-L433, canonical_master_profile.md:L478-L488, canonical_master_profile.md:L657",
+      "evidence_summary": "Directly evidenced facilitating collaboration across engineering, IT, product, finance, operations, marketing, and design teams, and presenting monthly business reviews and board-level strategic narratives to VP/CXO stakeholders. However, explicit PRD and user-story artifacts are not documented in canonical_master_profile.md (L427-L433, L657) and are treated as adjacent/transferable from PM execution.",
+      "positioning_bridge": "Anchor on executive strategic narratives and cross-functional technical/non-technical alignment while honestly framing formal product requirements documentation as transferable from PM leadership."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Proven experience preparing technical specifications and managing relationships with external software vendors and development partners.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for managing external software vendors, vendor agreements, or external development partners, nor for authoring formal technical specifications (only internal engineering/IT coordination, internal AI-driven procurement platform ownership at Lowe's India, and B2B client consulting as a service provider at Hype).",
+      "positioning_bridge": "Do not claim external software vendor management or formal technical specification ownership; rely on internal engineering/IT coordination and B.Tech. Computer Science foundation as context only."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Strong understanding of human-centered design, user research, product discovery, and iterative product development based on user feedback.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L232-L238, canonical_master_profile.md:L261-L282, canonical_master_profile.md:L298-L312, canonical_master_profile.md:L376, canonical_master_profile.md:L387-L390",
+      "evidence_summary": "UX design, user journey optimization, educational product prototyping (12 cross-product prototypes, Social Studies prototyping), Elevate internal tracking platform UX interactions, Tynker app redesign (+5% completion), WhiteHat Jr. workflow redesign (-15% instructor training time), and iterative optimization from engagement/completion signals are directly documented. However, formal qualitative user research studies or structured product discovery interviews are not explicitly documented in canonical_master_profile.md.",
+      "positioning_bridge": "Bridge UX optimization, rapid prototyping, funnel friction analysis, and signal-driven iteration to human-centered product discovery and user feedback loops."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Ability to use quantitative metrics and qualitative insights to guide product decisions, evaluate feature performance, and prioritize improvements.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L75-L83, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L232-L239, canonical_master_profile.md:L266-L269, canonical_master_profile.md:L389, canonical_master_profile.md:L454-L463",
+      "evidence_summary": "Led KPI framework and dashboard development at Lowe's India using internal enterprise analytics tools (tracking incident resolution, cost savings, platform adoption, and operational efficiency); used funnel, engagement, and completion metrics across Byju's (35% lead conversion lift, +5% Tynker completion), Hype (30% open rate, 20% CTR, 4.5+ ratings, 80%+ completion), and HealthQ Rehab (35% organic traffic, 50% social engagement) to guide prioritization and feature iteration.",
+      "positioning_bridge": "Directly highlight KPI governance, internal analytics dashboards, and metric-led prioritization across enterprise and learning products."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Genuine interest in emerging technologies, including generative AI, automated content tagging, and modern search capabilities, with an understanding of how they can address user needs. Hands-on AI coding experience is not required.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L33, canonical_master_profile.md:L61, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system at Lowe's India (reducing operational cycle times by 20% for store setup teams) and automated recovery workflows (~$10M annual savings), demonstrating practical product application of AI/automation to user needs where hands-on AI coding is explicitly not required (note: generative AI, automated content tagging, and search specifically are not documented).",
+      "positioning_bridge": "Leverage launched AI-driven catalog/procurement and automation workflows at Lowe's India as concrete proof of applying emerging AI capabilities to user and operational pain points."
+    },
+    {
+      "id": "MH-9",
+      "category": "must_have",
+      "requirement": "Strong organizational, analytical, and problem-solving skills, with the ability to manage multiple priorities independently.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L119-L176, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L559-L563",
+      "evidence_summary": "Independently managed concurrent client engagements as Founder of Hype Marketing & Product Services (Upraised, Programming Hub, Gradiant, Acadecraft), oversaw multi-product learning initiatives at Byju's, and executed complex enterprise reliability and lifecycle programs at Lowe's India.",
+      "positioning_bridge": "Showcase independent founder-level execution, multi-portfolio product leadership, and structured analytical problem-solving."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Previous experience scoping, testing, prototyping, or launching AI-assisted product features.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system at Lowe's India (reducing cycle times by 20%) and automated recovery workflows (~$10M annual revenue protection savings), with documented capability in AI-assisted Workflow Design.",
+      "positioning_bridge": "Directly cite the scoping and launch of the AI-driven procurement/catalog platform and automated recovery workflows at Lowe's India."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Familiarity with international educational networks, partnership models, or globally distributed organizational structures.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L72, canonical_master_profile.md:L222-L226, canonical_master_profile.md:L347-L350",
+      "evidence_summary": "Operated in a global enterprise environment at Lowe's India coordinating cross-functional teams, worked on international EdTech products at Byju's (Tynker alongside WhiteHat Jr. and Aakash-Byju's), and volunteered with educational impact initiatives (The Open Door Foundation, Education for All). Direct experience with international educator partnership networks is not explicitly documented.",
+      "positioning_bridge": "Bridge global enterprise collaboration at Lowe's India, international EdTech product exposure (Tynker), and educational equity volunteering to globally distributed educational networks."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Professional fluency or proficiency in Spanish, French, Arabic, or other international languages.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No proficiency in Spanish, French, Arabic, or other international non-English languages is evidenced in canonical_master_profile.md.",
+      "positioning_bridge": "Do not claim international language proficiency; emphasize global stakeholder collaboration in English."
+    },
+    {
+      "id": "PR-4",
+      "category": "preferred",
+      "requirement": "Experience managing learning management systems, alumni platforms, teacher networks, or knowledge-sharing technologies.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L147-L161, canonical_master_profile.md:L217-L316, canonical_master_profile.md:L536-L541",
+      "evidence_summary": "Built and managed digital learning ecosystems, curriculum-linked learning products, interactive learning systems, instructor workflow tools (WhiteHat Jr. reducing instructor training time by 15%), Tynker assessments/DIY modules, Acadecraft structured learning programs (80%+ completion), and internal tracking platform UX (Elevate). Direct ownership of a formal LMS, alumni platform, or teacher-connectivity portal is not explicitly named.",
+      "positioning_bridge": "Bridge interactive learning platforms, instructor workflow systems, structured learning programs, and Elevate internal tracking UX to LMS, teacher network, and knowledge-sharing technologies."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Translate generative AI strategies into practical experiments, prototypes, and feature roadmaps in collaboration with specialized engineering partners and content teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L238, canonical_master_profile.md:L298, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Launched AI-driven procurement/catalog workflows (20% cycle time reduction) and automated recovery systems (~$10M savings) at Lowe's India, and built 12 cross-product learning prototypes with engineering/content teams at Byju's. Specific generative AI prototyping (e.g., LLM-based features) and external specialized engineering partner management are not explicitly documented.",
+      "positioning_bridge": "Combine Lowe's AI-assisted workflow delivery with Byju's multi-product prototyping (12 prototypes) as a credible bridge to GenAI feature experimentation and roadmapping."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Oversee portfolio integrations across complementary learning tools and global data extensions alongside resource allocation and ongoing platform maintenance.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L238, canonical_master_profile.md:L489-L494",
+      "evidence_summary": "Spearheaded a unified enterprise asset lifecycle platform, managed 99.99% platform reliability and lifecycle operations, and handled forecasting, budgeting, and ROI prioritization at Lowe's India, alongside 12 cross-product prototypes connecting ecosystems across Byju's, Tynker, WhiteHat Jr., and Aakash-Byju's. External tool integrations and global data extensions specifically are not documented.",
+      "positioning_bridge": "Frame unified enterprise platform lifecycle ownership, 99.99% reliability maintenance, budgeting/ROI prioritization, and cross-product integration prototypes as transferable to portfolio-level tool integrations."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Digital Learning Ecosystems, EdTech Platforms, Learning Experience Design & Educational Impact.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L23-L35, canonical_master_profile.md:L147-L161, canonical_master_profile.md:L212-L316, canonical_master_profile.md:L347-L350, canonical_master_profile.md:L536-L541",
+      "evidence_summary": "Core domain match with 8+ years across Byju's (2015–2023; Xcel Masterclasses, Tynker, WhiteHat Jr., Aakash-Byju's, Social Studies—500+ hrs video, 300+ interactive learning experiences), Hype (Programming Hub 4.5+ ratings, Acadecraft 80%+ completion), and educational equity initiatives (The Open Door Foundation, Education for All).",
+      "positioning_bridge": "Anchor the application on deep EdTech product leadership, learning experience design, and authentic educational equity alignment."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Global Knowledge-Sharing Platforms, Knowledge Management Practices & Content Organization / Discoverability.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L99, canonical_master_profile.md:L142-L160, canonical_master_profile.md:L184-L198, canonical_master_profile.md:L270-L306",
+      "evidence_summary": "Experienced in content-led learning systems (500+ hrs video, 300+ interactive experiences), structured learning programs (80%+ completion), enterprise catalog systems (AI-driven procurement and catalog platform at Lowe's), internal tracking UX (Elevate), and SEO/content strategy (+35% organic traffic). Formal enterprise knowledge-management taxonomy and global portal search/discoverability are adjacent.",
+      "positioning_bridge": "Bridge content-led learning architecture, catalog workflows, structured program organization, and SEO discoverability to global knowledge-management and content discoverability goals."
+    }
+  ],
+  "summary_counts": {
+    "direct": 8,
+    "adjacent": 7,
+    "gap": 2,
+    "total": 17
+  }
+}

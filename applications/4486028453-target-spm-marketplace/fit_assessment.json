@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4486028453-target-spm-marketplace",
+  "company": "Target",
+  "role_title": "Sr Product Manager - Marketplace",
+  "location": "Bengaluru East, Karnataka, India",
+  "workplace_mode": "On-site",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 80,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong end-to-end PM craft across roadmapping, KPI framework design, systems thinking, workflow automation, and UX friction reduction at Lowe's India and Byju's (lines 64-100, 227-238, 261-268). Minor deduction because explicit A/B testing and cohort analysis methodology ownership is not directly documented (line 656)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 65,
+      "weighted_score": 13.0,
+      "rationale": "Core gap in 3P retail marketplace economics, seller ecosystems, and Seller Portal ownership (MH-4 is a direct gap; all 7 domain requirements DM-1 through DM-7 and MH-8 are adjacent). However, transferable substance is solid: Lowe's India retail enterprise platforms (AI-driven procurement/catalog workflows, order-cancellation protection) plus Byju's, Hype, and HealthQ lifecycle engagement, multi-channel nudges/communications, and two-sided instructor/learner workflow optimization (lines 84-99, 134-160, 184-198, 234-268)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 80,
+      "weighted_score": 16.0,
+      "rationale": "B.Tech in Computer Science Engineering (lines 325-327) paired with Reliability Engineering & Infrastructure Operations PM experience at Lowe's India, including an AI-driven procurement and catalog system, automated recovery workflows, and KPI/dashboard development using internal enterprise analytics tools (lines 53-70, 84-99). Deducted slightly because standalone ML insight model ownership and third-party experimentation/analytics stacks are not claimed (lines 652, 656, 660)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 84,
+      "weighted_score": 12.6,
+      "rationale": "Meets four-year degree requirement (B.Tech CS, lines 325-327; plus ongoing IIM Bangalore EGMP, lines 321-323) and exceeds 6+ years of PM or equivalent domain experience (~5 years in titled PM/SPM roles at Byju's and Lowe's India plus 5 years of product prototyping, UX, and product team leadership at Byju's and growth/product consulting at Hype, lines 48-50, 119-121, 217-220, 286-308). Current Senior PM title at a Fortune 50 retailer aligns cleanly."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 80,
+      "weighted_score": 8.0,
+      "rationale": "Compelling quantified impact in enterprise retail operations (~$10M annual revenue protection via reduced order cancellations, ~$2M annual asset lifecycle savings, 20% procurement cycle time reduction, 99.99% reliability, lines 75-99) and engagement/conversion (2.5L+ SQLs, +35% lead conversion, -15% instructor training time, 30% open rate, 20% CTR, lines 152-156, 235-263). Tempered by lack of 3P seller activation or marketplace GMV metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Directly evidences influencing outcomes without formal authority, presenting monthly business reviews and board narratives to VP/CXO leadership, aligning engineering, finance, operations, IT, design, and data teams at Lowe's India, and leading 5 product leads for Commerce at Byju's (lines 65-72, 93, 307, 477-488)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 88,
+      "weighted_score": 4.4,
+      "rationale": "Bengaluru East location matches candidate's Bangalore base with no relocation needed; slightly lower than hybrid roles due to full-time on-site expectation."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Strategy, vision, and execution of Target+ Seller Portal and Seller Tools & Engagement charter — driving seller lifecycle activation, compliance, performance, data-driven nudges, experimentation, and AI/ML-powered seller insights.",
+    "seniority_alignment": "Strong Senior PM alignment: currently Senior PM at Lowe's India (Fortune 50 retail tech) with ~5 years in formal PM/SPM titles, 10+ years total product/domain experience, B.Tech CS, and ongoing IIM Bangalore EGMP.",
+    "product_discipline": "Marketplace Seller Tools, Lifecycle Engagement & Behavioral Nudges — adjacent to Minesh's core strengths in enterprise workflow/automation platforms, KPI governance, UX friction reduction, and multi-channel lifecycle engagement.",
+    "domain_relevance": "Mixed: strong Fortune 50 retail technology context at Lowe's India and multi-channel user engagement at Byju's/Hype, but lacks direct 3P retail marketplace economics and seller ecosystem ownership.",
+    "leadership_expectations": "Cross-functional alignment across engineering, design, operations, and analytics with emphasis on influencing without authority and systems thinking — directly supported by Lowe's India and Byju's leadership history.",
+    "evidence_strength": "8 Direct, 9 Adjacent, and 1 Gap across 18 mapped requirements; core PM, technical aptitude, leadership, and impact are directly evidenced while Seller Portal and all 7 domain/marketplace execution items rely on structured adjacent bridging."
+  },
+  "key_strengths": [
+    "Fortune 50 enterprise retail technology pedigree as Senior PM at Lowe's India, delivering AI-driven procurement and catalog workflows (-20% cycle time), automated recovery/escalation systems protecting ~$10M annually from order cancellations, and unified asset lifecycle management (~$2M annual savings) (lines 75-99).",
+    "Proven track record in lifecycle engagement, multi-channel nudges/communications, and user friction reduction across Byju's, Hype, and HealthQ: +35% lead conversion, -15% WhiteHat Jr. instructor training time, +5% Tynker course completion, 30% email open rate, and 20% CTR (lines 152-156, 235-268).",
+    "Direct strength in KPI/dashboard frameworks using internal enterprise analytics tools, systems thinking, and influencing cross-functional engineering, design, operations, and data stakeholders without formal authority (lines 65-72, 477-488)."
+  ],
+  "positioning_angle": "Position as an Enterprise Retail Platform & Lifecycle Engagement Senior Product Manager who combines Fortune 50 retail systems thinking, AI-assisted procurement/catalog and automated workflow orchestration at Lowe's India with proven user lifecycle engagement, behavioral nudges, and workflow friction reduction across two-sided instructor/learner and growth ecosystems. Bridge enterprise workflow automation and intelligent escalation/engagement systems directly to Target+'s Seller Tools & Engagement charter while staying transparent that prior work spanned enterprise retail operations and EdTech platforms rather than a 3P retail marketplace.",
+  "red_flags_and_gaps": [
+    "Explicit Must-Have Gap (MH-4): No documented experience in 3P retail marketplace economics (take rates, liquidity, seller unit economics) or external 3P seller ecosystems — candidates from Amazon/Flipkart/Meesho seller teams will hold a domain advantage.",
+    "All 7 domain requirements (DM-1 to DM-7) and Seller Portal leadership (MH-8) are Adjacent rather than Direct; CV must explicitly bridge internal retail procurement/catalog systems and B2C/instructor lifecycle workflows without overstating 3P Seller Portal ownership.",
+    "A/B testing and cohort analysis frameworks (DM-5) and standalone AI/ML insight model ownership (DM-6) are not directly documented as owned methodologies in canonical_master_profile.md (lines 652, 656, 660) and must not be fabricated."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether any formal A/B testing or cohort analysis frameworks were used at Byju's, Hype, or via internal analytics tools at Lowe's India before highlighting experimentation specifics in CV bullets or interviews.",
+    "Confirm willingness for an On-site (Full-time) commute in Bengaluru East, Karnataka."
+  ]
+}

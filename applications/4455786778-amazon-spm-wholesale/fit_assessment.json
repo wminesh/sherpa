@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4455786778-amazon-spm-wholesale",
+  "company": "Amazon",
+  "role_title": "Sr Product Manager, Amazon Wholesale",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 79,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Meets all 6 Basic Qualifications directly: 10+ years total experience (~5 years in formal PM/SPM titles), end-to-end product delivery, feature tradeoffs, and annual/quarterly roadmap ownership across Lowe's India (AI procurement/catalog system, asset lifecycle platform, automated recovery workflows; lines 65-100) and Byju's (0-to-1 Social Studies product, Xcel Masterclasses, Tynker, Whitehat Jr.; lines 228-238, 261-275). Tempered slightly because Amazon-specific PRFAQs, BRDs, technical intake docs, and 3-year (3YF) vision ownership are adjacent (profile marks PRDs/user stories as adjacent, though board-level strategic narratives are documented; lines 427-433, 479, 657)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 60,
+      "weighted_score": 12.0,
+      "rationale": "Material core domain gap (DM-5): no documented ownership of 1P B2B wholesale e-commerce, supply chain, fulfillment (FC Ops/SCOT), B2B pricing, or B2B credit for SSR independent retailers or CPS enterprise procurement. Offset by genuine retail enterprise adjacency at Lowe's India, where Minesh reduced order cancellations (~$10M annual revenue protection) and launched an AI-driven procurement and catalog system for store setup teams (20% cycle time reduction; lines 84-99)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 78,
+      "weighted_score": 15.6,
+      "rationale": "B.Tech. in Computer Science Engineering (lines 325-327) with direct ownership of enterprise technology platforms at Lowe's India (99.99% reliability, unified asset lifecycle platform, internal analytics KPI dashboards, automated incident recovery, and AI-driven procurement/catalog workflows; lines 67, 76-100). Adjacent rather than direct on causal knowledge graphs, predictive OOS ML models, WBR diagnostic platforms, and Amazon core tech intake across SCOT, Tax Engine, and FinOps."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 88,
+      "weighted_score": 13.2,
+      "rationale": "Exceeds the 6+ years experience threshold (~11 years overall since June 2015, ~5 years formal PM/SPM titles, plus Founder tenure at Hype and ongoing IIM Bangalore EGMP; lines 48-50, 119-121, 217-219, 321-323) and matches Senior Product Manager scope, including high-ambiguity 0-to-1 launches and VP/CXO governance (lines 477-487)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 84,
+      "weighted_score": 8.4,
+      "rationale": "Strong quantified operational and commercial impact: ~$10M annual revenue protection from reduced order cancellations, ~$2M annual cost savings, 20% procurement cycle time reduction, 99.99% reliability, 2.5L+ SQLs, and 35% lead conversion lift (lines 76-99, 236-237). Lacks direct B2B wholesale GMV, gross margin, or credit-risk commercial metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Directly evidenced strength in driving enterprise alignment without formal authority across engineering, product, finance, operations, and IT teams, alongside monthly VP/CXO business reviews and external client leadership at Hype (lines 65-71, 131-138, 478-487, 553-556)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Bengaluru, Karnataka location matches candidate's base with zero relocation friction; full-time on-site mode is slightly less flexible than hybrid but fully viable."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Zero-to-one Senior PM role owning AWIPL's B2B wholesale 1P retail roadmap (tools parity, scalable growth, 3YF vision), authoring PRFAQs/BRDs across 20+ partner teams, and automating predictive operations and CPS deal workflows.",
+    "seniority_alignment": "Strong alignment for Amazon L6 Senior Product Manager (requires 6+ years experience; candidate brings ~11 years total, ~5 years formal PM/SPM, Founder experience, and IIM-B EGMP).",
+    "product_discipline": "Zero-to-one enterprise/B2B platform, operational workflow automation, and cross-org technical intake PM — aligns well on 0-to-1 platform building and AI-assisted workflow automation, while PRFAQ/BRD rigor and B2B retail tooling are adjacent.",
+    "domain_relevance": "Moderate/mixed relevance: Fortune 50 retail enterprise operations and internal procurement/catalog automation at Lowe's India transfer well conceptually, but core 1P B2B wholesale supply chain, fulfillment, pricing, and credit for Indian retailers/enterprises is an explicit domain gap.",
+    "leadership_expectations": "Weekly senior leadership visibility and aligning 20+ partner teams without formal authority — directly supported by Minesh's cross-functional alignment without authority and VP/CXO executive review cadence.",
+    "evidence_strength": "Strong on foundational PM/0-to-1/stakeholder criteria (12 Direct, 6 Adjacent, 1 Gap in requirement_matrix.json), with the single Gap sitting squarely in the role's core B2B wholesale domain (DM-5)."
+  },
+  "key_strengths": [
+    "100% Direct match on all 6 Basic Qualifications and 3 of 5 Preferred Qualifications (cross-functional/senior stakeholders, influencing internal/external stakeholders, 0-to-1 environments), backed by ~11 years total experience and ~5 years as PM/Senior PM.",
+    "Relevant retail-enterprise operational and AI workflow track record at Lowe's India: launched an AI-driven procurement and catalog system (20% cycle time reduction), built automated recovery workflows reducing order cancellations (~$10M annual revenue protection), and delivered an enterprise asset lifecycle platform (~$2M annual cost savings) (lines 84-99).",
+    "Proven ability to operate in high-ambiguity 0-to-1 environments, align engineering/finance/operations/IT teams without formal authority, and drive executive business reviews and board-level narratives with VP/CXO leadership (lines 65-71, 235-238, 478-487)."
+  ],
+  "positioning_angle": "Position as a 0-to-1 Enterprise Platform & AI Workflow Senior Product Manager who has built scalable procurement, catalog, asset lifecycle, and revenue-protection systems inside a Fortune 50 retail organization (Lowe's India). Emphasize measurable operational impact (~$10M revenue protection from reduced order cancellations, $2M cost savings, 20% cycle-time reduction via AI procurement/catalog automation), influencing 20+ cross-functional stakeholders without formal authority, and executive review rigor — while transparently framing B2B wholesale 1P supply chain, fulfillment, pricing, and credit as fast-ramp domain areas rather than prior ownership.",
+  "red_flags_and_gaps": [
+    "Core domain gap (DM-5): No prior ownership of B2B wholesale 1P e-commerce, supply chain, fulfillment (FC Ops/SCOT), B2B pricing, or B2B credit products for independent retailers (SSR) or enterprise procurement (CPS).",
+    "Artifact and technical-domain adjacencies (DM-1, DM-2, DM-3, IM-3): No documented history of Amazon-style PRFAQs, BRDs, 3YF vision docs, Tax Engine/FinOps technical intakes, causal knowledge graphs, predictive OOS ML models, or WBR diagnostic platforms; CV must bridge from board narratives, internal analytics KPI dashboards, and AI-assisted procurement workflows without overclaiming.",
+    "Cadence & scope distinction: Documented executive reviews at Lowe's India are monthly business reviews (MBRs) rather than weekly WBRs, and Lowe's procurement/catalog system supported internal store-setup operations rather than external B2B wholesale marketplace buyers."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether candidate is comfortable with full-time on-site work mode in Bengaluru and wants to invest effort into Amazon wholesale interview prep (PRFAQ/BRD case framing and B2B retail selection/pricing/fulfillment/credit fundamentals) given the DM-5 domain gap.",
+    "If proceeding to CV tailoring, confirm no unrecorded prior ownership of B2B wholesale, supply chain, pricing, or credit systems exists outside canonical_master_profile.md v1.1.0."
+  ]
+}

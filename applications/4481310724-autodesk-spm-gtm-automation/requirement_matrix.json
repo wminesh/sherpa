@@ -1,0 +1,238 @@
+{
+  "opportunity_id": "4481310724-autodesk-spm-gtm-automation",
+  "company": "Autodesk",
+  "role_title": "Senior Product Manager, GTM Automation",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "10+ years of Product Management experience, including significant experience in Marketing Technology, Lead Management, or Go-to-Market (GTM) technology.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L50, canonical_master_profile.md:L119-L121, canonical_master_profile.md:L179-L181, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L287, canonical_master_profile.md:L633-L651",
+      "evidence_summary": "11+ years of overall professional experience since June 2015, comprising ~5 years in formal Product Manager / Senior Product Manager titles (Byju's July 2020–April 2023; Lowe's India Sep 2024–Present), 5 years in Product Development Multiple Roles (June 2015–June 2020, including product prototyping, UX journeys, and leading 5 product leads for Commerce), plus GTM/growth consulting as Founder of Hype Marketing & Product Services (Oct 2023–Nov 2024) and Head of Marketing at HealthQ Rehab (May 2023–Dec 2023). Experience covers growth funnels, lifecycle marketing, and internal enterprise workflows rather than 10+ years exclusively in dedicated PM titles or B2B Lead Management / MarTech platform ownership.",
+      "positioning_bridge": "Bridge 11+ years of product development, GTM strategy, and enterprise platform leadership—explicitly framing formal PM/SPM tenure (~5 years) alongside 2015–2020 product building and 2023–2024 GTM/lifecycle marketing leadership."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Deep expertise in end-to-end Lead Management, including lead lifecycle management, enrichment, scoring, qualification, routing, prioritization, engagement, and pipeline progression.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L89, canonical_master_profile.md:L131-L160, canonical_master_profile.md:L184-L197, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L386-L387, canonical_master_profile.md:L649-L666",
+      "evidence_summary": "Evidences top-of-funnel lead generation and conversion optimization for Byju's Xcel Masterclasses (2.5 lakh+ sales-qualified leads, 35% lead conversion rate improvement), lifecycle/email/messaging engagement workflows at Hype Marketing (30% email open rate, 20% CTR for Gradiant) and HealthQ Rehab (WhatsApp, Telegram, newsletter optimization; +35% organic traffic, +50% social engagement), and operational routing/escalation/recovery workflows at Lowe's India. Does not evidence end-to-end B2B Lead Management systems covering lead enrichment, deduplication, scoring, sales routing, or CRM pipeline progression.",
+      "positioning_bridge": "Connect proven SQL generation and funnel conversion optimization (Byju's), multi-channel lifecycle engagement (Hype/HealthQ), and automated workflow routing/SLA escalation systems (Lowe's) as transferable foundations for end-to-end Lead Management."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Strong understanding of modern GTM systems, including Customer Relationship Management (CRM), marketing automation, Customer Data Platforms (CDPs), Business Intelligence (BI) platforms, and sales engagement technologies.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L91-L99, canonical_master_profile.md:L135, canonical_master_profile.md:L153-L156, canonical_master_profile.md:L186, canonical_master_profile.md:L194-L197, canonical_master_profile.md:L455-L458, canonical_master_profile.md:L663",
+      "evidence_summary": "Evidences internal enterprise analytics and executive dashboarding tools at Lowe's India, enterprise lifecycle/procurement platform architecture, and email/messaging workflow systems (email, WhatsApp, Telegram, newsletters) at Hype and HealthQ. Direct product ownership or hands-on expertise with commercial CRM, marketing automation platforms, CDPs, BI tools, or sales engagement platforms is not documented.",
+      "positioning_bridge": "Bridge enterprise workflow platforms, internal analytics/reporting systems at Lowe's, and multi-channel engagement pipelines to modern GTM stack integration, without claiming direct CRM/CDP/BI vendor ownership."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience developing data-driven products and collaborating with Data Science or Machine Learning teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L67, canonical_master_profile.md:L96-L99, canonical_master_profile.md:L306, canonical_master_profile.md:L367, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L652, canonical_master_profile.md:L666",
+      "evidence_summary": "Developed data-driven products and workflows including KPI/operational dashboards and an AI-driven procurement and catalog platform (20% cycle time reduction) at Lowe's India, the Elevate internal tracking platform at Byju's, and data-driven engagement pipelines at Hype Marketing, collaborating across Product, Engineering, Marketing, Operations, Design, and Data teams. Explicit partnership with Data Science/ML modeling teams or ML decisioning model ownership is flagged in the profile as adjacent and not directly evidenced.",
+      "positioning_bridge": "Highlight data-driven product delivery, AI-assisted procurement workflows, and collaboration with Engineering and Data teams at Lowe's while transparently framing ML modeling partnership as transferable."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Strong understanding of lead scoring methodologies, predictive models, lead qualification, conversion optimization, and marketing measurement.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L137, canonical_master_profile.md:L144-L156, canonical_master_profile.md:L188-L193, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L364-L365, canonical_master_profile.md:L386-L387, canonical_master_profile.md:L652, canonical_master_profile.md:L665-L668",
+      "evidence_summary": "Directly evidences conversion optimization (35% lead conversion improvement and 2.5L+ SQLs at Byju's) and marketing/engagement measurement (30% email open rate, 20% CTR, 35% organic traffic lift, 50% social engagement lift). Does not evidence lead scoring methodologies, predictive ML qualification models, or formal marketing attribution/ROAS ownership.",
+      "positioning_bridge": "Anchor on verified funnel conversion optimization and campaign performance measurement while avoiding claims of predictive lead-scoring model ownership."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Proven ability to translate complex lead-to-revenue processes and business requirements into scalable product solutions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L40, canonical_master_profile.md:L84-L99, canonical_master_profile.md:L235-L238, canonical_master_profile.md:L373-L377, canonical_master_profile.md:L560-L563",
+      "evidence_summary": "Proven track record translating complex operational, reliability, and procurement processes into scalable enterprise systems at Lowe's (~$10M revenue protection via automated recovery workflows, $2M savings via unified asset lifecycle platform, 20% cycle time reduction via AI-driven procurement) and optimizing lead-to-SQL funnels at Byju's (2.5L+ SQLs, 35% conversion lift). Full B2B lead-to-revenue CRM/sales pipeline translation is adjacent.",
+      "positioning_bridge": "Pair enterprise workflow-to-platform translation (Lowe's) with high-volume SQL funnel optimization (Byju's) to demonstrate scalable process-to-product execution."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Experience defining and measuring product Key Performance Indicators (KPIs), experimentation frameworks, and business outcomes.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L77-L81, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L366, canonical_master_profile.md:L389, canonical_master_profile.md:L455-L458, canonical_master_profile.md:L656",
+      "evidence_summary": "Designed KPI frameworks and operational dashboards at Lowe's India tracking incident resolution, cost savings, platform adoption, and operational efficiency (~$10M revenue protection, $2M savings, 20% cycle time reduction, 99.99% reliability), and led product experimentation and iterative optimization at Byju's using engagement and completion signals (35% lead conversion lift, 5% Tynker course completion lift). Note: marketing-specific A/B testing frameworks are not explicitly documented.",
+      "positioning_bridge": "Lead with end-to-end KPI framework ownership, executive measurement dashboards, and product experimentation outcomes across Lowe's and Byju's."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Exceptional communication and stakeholder management skills, with demonstrated experience influencing senior leadership across Marketing, Sales, and Technology organizations.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40, canonical_master_profile.md:L68, canonical_master_profile.md:L71, canonical_master_profile.md:L93, canonical_master_profile.md:L367, canonical_master_profile.md:L478-L488, canonical_master_profile.md:L553-L554",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives, drove enterprise alignment without formal authority, and partnered across Engineering, Technology/IT, Finance, Operations, Product, and Marketing teams at Lowe's India and Byju's. Direct Sales executive stakeholder alignment is bridged through SQL-generating funnel collaboration at Byju's.",
+      "positioning_bridge": "Highlight VP/CXO narrative delivery, influencing without formal authority across Technology, Finance, Operations, and Marketing, and aligning product/marketing funnels to sales-qualified outcomes."
+    },
+    {
+      "id": "MH-9",
+      "category": "must_have",
+      "requirement": "Demonstrated ability to lead cross-functional initiatives involving Product, Engineering, Architecture, Data, User Experience, Operations, and Business teams.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65, canonical_master_profile.md:L71, canonical_master_profile.md:L230, canonical_master_profile.md:L280, canonical_master_profile.md:L300, canonical_master_profile.md:L367, canonical_master_profile.md:L485",
+      "evidence_summary": "Owned cross-functional initiatives across Product, Engineering, Finance, Operations, and IT at Lowe's India; collaborated across Product, Marketing, Engineering, Design/UX, and Data teams at Byju's (including defining UX journeys for Elevate and launching cross-product learning prototypes).",
+      "positioning_bridge": "Showcase multi-disciplinary execution connecting Engineering, UX, Data, Operations, Marketing, and Business stakeholders."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience with Salesforce, Marketo, 6sense, Microsoft Power BI, Adobe Experience Platform, Customer Data Platforms, or similar Marketing Technology and GTM solutions.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L663",
+      "evidence_summary": "No defensible evidence of hands-on experience with Salesforce, Marketo, 6sense, Microsoft Power BI, Adobe Experience Platform, or Customer Data Platforms. Profile notes similar analytics/dashboarding at Lowe's India used internal enterprise tools rather than commercial third-party platforms.",
+      "positioning_bridge": "Do not claim these named tools; emphasize fast platform adaptability based on internal enterprise analytics and workflow systems at Lowe's."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience designing and launching AI-powered user experiences, AI agents, Copilot solutions, AI-powered Sales Development Representative capabilities, or Generative AI features for enterprise applications.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L89, canonical_master_profile.md:L96-L99, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog platform (20% cycle time reduction for store setup teams) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India. Does not evidence Copilot, Generative AI UX, or AI-SDR sales capabilities specifically.",
+      "positioning_bridge": "Position Lowe's AI-driven procurement workflows and automated recovery agents/workflows as direct enterprise AI automation experience transferable to intelligent GTM/lead workflows, without fabricating GenAI/Copilot/AI-SDR claims."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Experience developing or optimizing Machine Learning-based lead scoring, predictive lead qualification, or propensity models.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L652, canonical_master_profile.md:L665-L666",
+      "evidence_summary": "No defensible evidence exists. Profile explicitly states that production marketing audience models and marketing-specific ML decisioning models are not currently claimed as direct experience.",
+      "positioning_bridge": "Acknowledge as a gap; reference analytical KPI frameworks and AI-assisted workflow design only as general analytical context without claiming ML scoring/propensity model ownership."
+    },
+    {
+      "id": "PR-4",
+      "category": "preferred",
+      "requirement": "Experience with lead enrichment, identity resolution, data quality, and integration of external data providers into Lead Management workflows.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L649-L660",
+      "evidence_summary": "No defensible evidence of lead enrichment, identity resolution, or third-party B2B data provider integration into Lead Management workflows exists in the canonical profile.",
+      "positioning_bridge": "Do not fabricate enrichment or identity resolution claims; treat as a technical gap."
+    },
+    {
+      "id": "PR-5",
+      "category": "preferred",
+      "requirement": "Familiarity with marketing attribution, experimentation, predictive analytics, and customer journey optimization.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L134, canonical_master_profile.md:L137, canonical_master_profile.md:L170, canonical_master_profile.md:L232, canonical_master_profile.md:L282, canonical_master_profile.md:L359, canonical_master_profile.md:L365-L366, canonical_master_profile.md:L387-L389, canonical_master_profile.md:L668",
+      "evidence_summary": "Customer journey optimization (Byju's, Hype), product experimentation (Byju's), and marketing/channel analytics (Hype, HealthQ) are evidenced. However, formal marketing attribution (ROAS/incrementality ownership) and predictive analytics are not evidenced.",
+      "positioning_bridge": "Lead with verified customer journey optimization and experimentation outcomes while noting attribution and predictive analytics as growth areas."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Enterprise B2B demand-to-sales funnel alignment (connecting marketing-generated demand to seller productivity and pipeline velocity).",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L235-L237, canonical_master_profile.md:L386-L387",
+      "evidence_summary": "Generated 2.5 lakh+ sales-qualified leads and improved lead conversion rate by 35% for Byju's Xcel Masterclasses by coordinating product, content, and engagement initiatives across the funnel—demonstrating SQL-to-conversion impact in an EdTech setting rather than B2B enterprise SaaS seller workflows.",
+      "positioning_bridge": "Frame Byju's SQL generation and 35% conversion lift alongside Lowe's enterprise productivity/cycle-time gains as complementary foundations for B2B seller productivity."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Automation-led operational complexity reduction and ROI-driven technology investment governance.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L99, canonical_master_profile.md:L459-L462, canonical_master_profile.md:L490-L493, canonical_master_profile.md:L560-L563",
+      "evidence_summary": "Delivered ~$10M annual revenue protection via automated recovery workflows, $2M annual operational savings via unified asset lifecycle management, and 20% operational cycle time reduction via AI-driven procurement at Lowe's India, backed by P&L, forecasting, budgeting, and ROI-driven prioritization.",
+      "positioning_bridge": "Directly aligns with Autodesk's mandate to streamline manual GTM processes through automation and align technology investments with business ROI."
+    },
+    {
+      "id": "IM-3",
+      "category": "implicit",
+      "requirement": "Data privacy, consent, and regulatory compliance governance across first-party and external lead data integrations.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L425, canonical_master_profile.md:L655, canonical_master_profile.md:L667",
+      "evidence_summary": "No defensible evidence exists. Profile explicitly flags privacy, consent, opt-in/opt-out, regulatory compliance, and formal consent-management ownership as not currently evidenced.",
+      "positioning_bridge": "Do not claim consent-management or data-privacy compliance ownership; note as a gap."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Define and execute product strategy and roadmap for the MarTech portfolio, focusing on end-to-end Lead Management and pipeline progression while aligning technology investments with business objectives.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L82, canonical_master_profile.md:L132-L133, canonical_master_profile.md:L228-L233, canonical_master_profile.md:L480, canonical_master_profile.md:L490-L493, canonical_master_profile.md:L634-L645",
+      "evidence_summary": "Defined and executed enterprise product strategy, quarterly/annual roadmaps, and investment/ROI alignment at Lowe's India, plus GTM/growth/campaign roadmaps at Hype Marketing and Byju's. Has not owned a dedicated enterprise MarTech Lead Management and B2B pipeline progression portfolio.",
+      "positioning_bridge": "Combine Lowe's enterprise platform roadmapping and investment governance with Hype/Byju's GTM and funnel strategy experience."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Lead the evolution of the Lead Management ecosystem (capture, lifecycle, enrichment, deduplication, scoring, qualification, routing, prioritization, engagement, conversion) and own the end-to-end lead-to-revenue experience to reduce funnel friction.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L70, canonical_master_profile.md:L84-L89, canonical_master_profile.md:L134-L160, canonical_master_profile.md:L185-L197, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L386-L387, canonical_master_profile.md:L524-L529",
+      "evidence_summary": "Led funnel friction reduction and conversion optimization (2.5L+ SQLs, 35% lead conversion lift at Byju's), multi-channel lifecycle engagement workflows (Hype, HealthQ), and automated enterprise workflow/escalation systems (Lowe's). Does not evidence full B2B lead enrichment, deduplication, scoring, or CRM routing systems.",
+      "positioning_bridge": "Map funnel friction removal, lifecycle engagement, and enterprise workflow automation directly to Lead Management lifecycle modernization while keeping enrichment/scoring distinctions clear."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Drive AI-powered lead engagement and qualification through AI agents, AI-SDR capabilities, and Copilot solutions that automate repetitive workflows, improve lead coverage, and provide sellers with timely, actionable insights.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L90, canonical_master_profile.md:L96-L99, canonical_master_profile.md:L464-L467, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched AI-driven procurement/catalog automation (20% cycle time reduction) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India. Has not built AI-SDR, sales Copilot, or B2B seller-insight agent products.",
+      "positioning_bridge": "Frame Lowe's AI-assisted operational workflows and automated recovery agents as transferable workflow-automation experience for AI-powered GTM engagement, without claiming AI-SDR or Copilot ownership."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Define strategies to improve lead quality and enrichment leveraging first-party and external data sources, and establish measurable feedback loops to continuously improve scoring, qualification, routing, and conversion performance.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L77-L90, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L377, canonical_master_profile.md:L389",
+      "evidence_summary": "Established closed-loop KPI measurement and feedback-driven workflow improvements at Lowe's (incident handling and recovery automation) and iterative engagement/conversion optimization at Hype, HealthQ, and Byju's. First-party/external B2B lead enrichment pipelines are not evidenced.",
+      "positioning_bridge": "Emphasize closed-loop KPI and conversion feedback systems while noting external B2B data enrichment as a gap/learning area."
+    },
+    {
+      "id": "DM-5",
+      "category": "domain",
+      "requirement": "Partner with Marketing Attribution PM and GTM Product Managers to integrate Lead Management seamlessly across CRM, marketing automation, CDPs, analytics, and advertising systems for end-to-end lead-to-pipeline measurement.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L92-L94, canonical_master_profile.md:L238, canonical_master_profile.md:L383, canonical_master_profile.md:L388, canonical_master_profile.md:L663-L668",
+      "evidence_summary": "Integrated cross-product journeys across 12 prototypes spanning Byju's, Aakash-Byju's, Tynker, and WhiteHat Jr., coordinated SEO/social/direct messaging channels at HealthQ, and unified enterprise asset lifecycle workflows across Finance, Ops, and IT at Lowe's. Direct integration across CRM, CDP, advertising, and marketing attribution systems is not evidenced.",
+      "positioning_bridge": "Use multi-system enterprise integration (Lowe's) and cross-product ecosystem orchestration (Byju's/HealthQ) to bridge into cross-stack GTM integrations."
+    },
+    {
+      "id": "DM-6",
+      "category": "domain",
+      "requirement": "Define product requirements, prioritize roadmaps, and collaborate with Engineering, User Experience (UX), Architecture, Technical Program Management, and Data teams to deliver high-impact solutions.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L82, canonical_master_profile.md:L228-L233, canonical_master_profile.md:L280, canonical_master_profile.md:L300, canonical_master_profile.md:L367, canonical_master_profile.md:L657",
+      "evidence_summary": "Defined quarterly priorities and operational/annual roadmaps, owned strategic initiatives across engineering and product teams at Lowe's India, led UX optimization and internal tracking UX interactions at Byju's, and collaborated across Product, Engineering, Marketing, Operations, Design, and Data teams. (Note: profile notes explicit PRD/user-story artifacts are not separately cataloged, though product requirements and roadmap prioritization are evidenced.)",
+      "positioning_bridge": "Directly highlight roadmap prioritization, UX/workflow definition, and cross-functional engineering/data delivery."
+    },
+    {
+      "id": "DM-7",
+      "category": "domain",
+      "requirement": "Build strong relationships with Marketing, Sales, Sales Operations, Marketing Operations, Data Science, Finance, and executive stakeholders to align product investments with business priorities.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L93, canonical_master_profile.md:L208, canonical_master_profile.md:L230, canonical_master_profile.md:L367, canonical_master_profile.md:L478-L493, canonical_master_profile.md:L652",
+      "evidence_summary": "Directly partnered with Finance, Operations, IT, Engineering, Marketing, and VP/CXO executive stakeholders (including P&L, budgeting, and ROI investment alignment) at Lowe's India, HealthQ, and Byju's. Direct stakeholder partnerships with Sales, Sales Operations, Marketing Operations, and Data Science teams are not explicitly documented.",
+      "positioning_bridge": "Leverage proven Finance, Executive, Operations, and Marketing investment alignment while framing Sales/Data Science collaboration as transferable from SQL funnel and AI workflow initiatives."
+    }
+  ],
+  "summary_counts": {
+    "direct": 5,
+    "adjacent": 15,
+    "gap": 4,
+    "total": 24
+  }
+}

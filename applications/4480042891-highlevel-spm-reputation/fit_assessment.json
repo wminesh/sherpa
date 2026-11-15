@@ -1,0 +1,81 @@
+{
+  "opportunity_id": "4480042891-highlevel-spm-reputation",
+  "company": "HighLevel",
+  "role_title": "Sr. Product Manager - Reputation Management",
+  "location": "India",
+  "workplace_mode": "Remote (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 81,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 85,
+      "weighted_score": 21.25,
+      "rationale": "Strong match on multi-quarter roadmapping, north-star KPI frameworks, ROI-driven prioritization, experimentation, and end-to-end execution across Lowe's India and Byju's (lines 64-83, 227-239, 478-493). Slightly tempered because formal customer interviews, usability testing, and explicit PRD artifacts are not directly documented in canonical_master_profile.md (line 657)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 74,
+      "weighted_score": 14.8,
+      "rationale": "Combines transferable MarTech/lifecycle growth execution (Hype email/lifecycle campaigns, HealthQ WhatsApp/Telegram/SEO/social, Byju's Xcel funnel optimization, and 12 cross-product prototypes; lines 131-198, 231-238) with automated recovery and escalation workflow design at Lowe's India (lines 70, 84-90). However, 5 of 7 domain pillars are adjacent rather than direct, and multi-location SMB/agency review monitoring, aggregation, and moderation (DM-4) plus in-house B2B SaaS PM ownership are explicit gaps."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 76,
+      "weighted_score": 15.2,
+      "rationale": "B.Tech in Computer Science Engineering (lines 325-327) paired with Reliability Engineering partnership (99.99% reliability), internal enterprise KPI/dashboard instrumentation, and AI-driven procurement/catalog workflows at Lowe's India (lines 67-70, 96-99). Does not document hands-on generative AI review-reply UX, NLP sentiment analysis, or external multi-tenant SaaS API, permissions/RBAC, and configuration framework ownership."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 82,
+      "weighted_score": 12.3,
+      "rationale": "Current Senior PM at Lowe's India with ~11 years of total product, prototyping, and growth experience (including 0-to-1 launches at Byju's and Lowe's) and ongoing IIM Bangalore EGMP (lines 48-50, 91-99, 217-308, 321-323). Formal titled PM/SPM tenure is ~5 years (July 2020–April 2023 and Sep 2024–Present) versus the stated 7+ years PM threshold, with no prior in-house B2B SaaS Senior PM tenure."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 86,
+      "weighted_score": 8.6,
+      "rationale": "Strong verified outcomes across enterprise efficiency (~$10M annual revenue protection, $2M cost savings, 20% cycle time reduction, 99.99% reliability) and engagement/conversion (2.5L+ SQLs, +35% lead conversion, +5% course completion, 30% email open rate, 20% CTR, +35% organic traffic, +50% social engagement; lines 75-99, 141-198, 234-269). SaaS expansion and support deflection metrics are not directly evidenced."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Explicitly documented ability to drive enterprise alignment without formal authority across Product, Engineering, Finance, Operations, IT, and Marketing, plus VP/CXO monthly business reviews and board-level narratives (lines 65-72, 478-488, 553-556)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 94,
+      "weighted_score": 4.7,
+      "rationale": "India Remote (Full-time) role matches candidate's Bangalore base with zero relocation friction; independent founder-led consulting at Hype and cross-functional enterprise ownership at Lowe's support remote high-ownership execution."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end 12-18 month strategy, roadmap, AI engagement, workflow automation, multi-location review management, and analytics ownership for a strategic pillar of HighLevel's Marketing Products OS.",
+    "seniority_alignment": "Good Senior PM match overall (~11 years product/growth trajectory, current Senior PM at Lowe's India, 0-1 launches, IIM-B EGMP), though formal titled PM tenure is ~5 years vs. 7+ years stated and lacks in-house B2B SaaS PM experience.",
+    "product_discipline": "B2B SaaS Growth, Workflow Automation, & AI-Powered Engagement PM — adjacent to Minesh's dual background in enterprise AI/workflow automation (Lowe's) and multi-channel lifecycle/funnel optimization (Hype, HealthQ, Byju's).",
+    "domain_relevance": "Moderate-to-solid transferable relevance: strong MarTech/lifecycle engagement and operational escalation workflow mechanics, balanced by an explicit gap in SMB/agency multi-location review management and moderation.",
+    "leadership_expectations": "Lead without authority across Product, Engineering, Data, and GTM with crisp executive narratives — directly evidenced at Lowe's India and Byju's.",
+    "evidence_strength": "6 Direct, 11 Adjacent, and 1 explicit Gap (DM-4) across 18 mapped requirements; strong transferable story rather than an exact domain clone."
+  },
+  "key_strengths": [
+    "Rare dual-track fit combining AI-assisted workflow and escalation automation at Lowe's India (~$10M revenue protection, 20% cycle time reduction, $2M savings; lines 84-99) with multi-channel lifecycle, email, social, and funnel conversion growth at Hype, HealthQ, and Byju's (30% open rate, 20% CTR, +35% lead conversion; lines 141-198, 234-238).",
+    "Proven cross-portfolio product thinking (12 cross-product learning prototypes across Aakash-Byju's, Tynker, and WhiteHat Jr.; line 238) that bridges well to integrating Reputation Management across HighLevel's Marketing Products OS.",
+    "Strong executive communication, KPI governance, and influencing-without-authority track record across engineering, data, finance, operations, and GTM stakeholders (lines 65-83, 478-493, 553-556)."
+  ],
+  "positioning_angle": "Position as a Senior Product Manager who bridges AI-assisted operational workflow/escalation automation (Lowe's India) with multi-channel lifecycle marketing, funnel conversion optimization, and cross-product ecosystem design (Byju's, Hype, HealthQ). Frame automated incident/recovery routing and multi-channel engagement campaigns as directly transferable building blocks for HighLevel's AI-powered review growth and reputation automation roadmap, while staying transparent about onboarding onto SMB/agency multi-location review tooling.",
+  "red_flags_and_gaps": [
+    "Explicit domain gap (DM-4): No direct evidence of online review monitoring, review aggregation, moderation workflows, or multi-location SMB/agency SaaS tools.",
+    "No prior in-house B2B SaaS Senior PM role; SaaS exposure is primarily via client consulting at Hype Marketing & Product Services and internal enterprise platforms at Lowe's India.",
+    "AI experience is grounded in enterprise AI-driven procurement/catalog workflows and automated recovery systems rather than generative AI reply UX, brand-voice customization, or NLP sentiment analysis.",
+    "Formal titled PM tenure is ~5 years (within ~11 years total product/growth experience) versus the JD's '7+ years in product management' phrasing, and external API, RBAC/permissions, and formal usability testing/PRD artifacts are not explicitly documented."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether any client engagements at Hype Marketing & Product Services involved B2B SaaS products, SMB agencies, or customer review/reputation acquisition workflows before emphasizing them in interviews.",
+    "Confirm any unrecorded examples of formal customer interviews, usability testing, or API/permission trade-off discussions at Lowe's India or Byju's, as these are not explicitly documented in canonical_master_profile.md v1.1.0."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "opportunity_id": "4489871762-erekrut-pm-healthcare-ai",
+  "company": "Erekrut",
+  "role_title": "Product Manager - Healthcare (Senior Product Manager – Data Analytics & AI Solutions)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "4–8 years of experience in Product Management, preferably in Data Analytics, Business Intelligence (BI), or AI-driven solutions.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L67, canonical_master_profile.md:L77-L100, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L251-L253, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "Holds ~5 years of dedicated Product Management and Senior Product Management experience across Byju's (July 2020–April 2023) and Lowe's India (Sep 2024–Present), preceded by product prototyping and leadership roles (June 2015–June 2020). At Lowe's India, designed and launched an AI-driven procurement and catalog system (20% cycle time reduction), automated recovery workflows (~$10M annual revenue protection savings), and operational KPI/dashboard frameworks using internal enterprise analytics tools.",
+      "positioning_bridge": "Directly meets the 4–8 years PM tenure requirement and brings AI-driven operational workflow and internal enterprise analytics experience from Lowe's India, while bridging EdTech PM experience at Byju's."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "MBA or equivalent qualification along with a Bachelor's degree in Engineering, Computer Science, or a related technical discipline.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L321-L328",
+      "evidence_summary": "Holds a completed B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015), directly matching the technical degree requirement. Currently pursuing an Executive General Management Program (EGMP) at IIM Bangalore (2025–2026, ongoing), which is a non-degree executive management program in progress rather than a completed MBA.",
+      "positioning_bridge": "Highlight the completed B.Tech. in CSE alongside the ongoing IIM Bangalore Executive General Management Program as executive management training, without claiming a completed MBA."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Strong understanding of product strategy, product roadmap planning, and product lifecycle management, executing roadmaps aligned with business objectives and customer requirements.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L70, canonical_master_profile.md:L82, canonical_master_profile.md:L91-L95, canonical_master_profile.md:L102, canonical_master_profile.md:L108, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L446-L448",
+      "evidence_summary": "Owned strategic product initiatives, quarterly priorities, and annual/quarterly operational roadmaps at Lowe's India (including roadmaps targeting 20% incident volume reduction and an enterprise asset lifecycle platform saving ~$2M annually). Managed full product lifecycles from prototyping to launch and iteration at Byju's (Xcel Masterclasses, Tynker redesign, WhiteHat Jr. Interactive Learning Experiences, Social Studies product).",
+      "positioning_bridge": "Emphasize end-to-end roadmap ownership, lifecycle management, and measurable business outcomes across enterprise platforms at Lowe's India and digital products at Byju's."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience in business requirement gathering, preparing Business Requirement Documents (BRDs) and Product Requirement Documents (PRDs), and product delivery.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L228-L275, canonical_master_profile.md:L427, canonical_master_profile.md:L433, canonical_master_profile.md:L657",
+      "evidence_summary": "Extensive end-to-end product delivery experience across Lowe's India and Byju's is documented, but explicit BRD and PRD artifact authorship is not documented in canonical_master_profile.md (L657 explicitly classifies PRDs/user stories as Adjacent / Transferable until validated).",
+      "positioning_bridge": "Bridge end-to-end requirement scoping and cross-functional product delivery across Lowe's India and Byju's to BRD/PRD execution, without fabricating named BRD/PRD artifacts."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Good understanding of data pipelines, data modelling, data architecture, and analytics platforms, collaborating with data engineering teams on solution design.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L111, canonical_master_profile.md:L134, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L534",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering, led KPI and operational dashboard development using internal enterprise analytics tools at Lowe's India, and designed data-driven engagement pipelines at Hype Marketing & Product Services. However, explicit hands-on experience with ETL/data engineering pipelines, data modelling, and data warehouse architecture is not documented.",
+      "positioning_bridge": "Bridge CS engineering fundamentals and operational analytics platform experience at Lowe's India to collaborating with data engineering teams on solution design, while keeping data modelling/pipeline architecture claims bounded."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Working knowledge of BI and data platforms such as Power BI, Tableau, Looker, Databricks, and Snowflake.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L455-L458, canonical_master_profile.md:L660",
+      "evidence_summary": "Built KPIs and operational decision-making dashboards using internal enterprise analytics and reporting tools at Lowe's India. None of the named commercial BI or cloud data platforms (Power BI, Tableau, Looker, Databricks, Snowflake) are evidenced in canonical_master_profile.md.",
+      "positioning_bridge": "Frame hands-on KPI and dashboard development on internal enterprise analytics tools at Lowe's India as transferable to commercial BI platforms, while transparently noting no direct documented usage of Power BI, Tableau, Looker, Databricks, or Snowflake."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Experience in defining business KPIs, performance metrics, analytics dashboards, and reporting frameworks for actionable insights.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L77-L81, canonical_master_profile.md:L455-L458, canonical_master_profile.md:L478-L485, canonical_master_profile.md:L528, canonical_master_profile.md:L534",
+      "evidence_summary": "Led KPI and dashboard development at Lowe's India using internal enterprise analytics and reporting tools; designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency; and delivered monthly business reviews and KPI-driven executive reporting to VP/CXO stakeholders.",
+      "positioning_bridge": "Directly showcase KPI framework design, executive reporting cadences, and operational dashboard delivery at Lowe's India."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Strong understanding of Agile methodologies and driving Agile product development activities (sprint planning, backlog grooming, sprint reviews, backlog management, and delivery tracking).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L450",
+      "evidence_summary": "Agile Product Delivery is explicitly evidenced in canonical_master_profile.md (L450), supported by multi-year product execution, quarterly prioritization, and cross-functional delivery tracking with engineering and product teams at Lowe's India and Byju's (though ceremony-level details such as sprint planning and backlog grooming are not itemized).",
+      "positioning_bridge": "Highlight Agile product delivery and prioritization across engineering and product teams at Lowe's India and Byju's."
+    },
+    {
+      "id": "MH-9",
+      "category": "must_have",
+      "requirement": "Experience working with cross-functional engineering, data, design, and business teams to ensure successful product delivery.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65, canonical_master_profile.md:L71, canonical_master_profile.md:L230, canonical_master_profile.md:L367, canonical_master_profile.md:L485",
+      "evidence_summary": "Explicitly evidenced cross-functional collaboration across Product, Engineering, Marketing, Operations, Finance, IT, Design, and Data teams at Lowe's India and Byju's (collaboration with dedicated data science teams is evaluated separately in PR-3).",
+      "positioning_bridge": "Emphasize cross-functional delivery leadership uniting engineering, data, design, finance, operations, and business stakeholders."
+    },
+    {
+      "id": "MH-10",
+      "category": "must_have",
+      "requirement": "Strong stakeholder management, analytical, and problem-solving skills.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L71, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L107, canonical_master_profile.md:L478-L488, canonical_master_profile.md:L553-L563",
+      "evidence_summary": "Demonstrated executive stakeholder management (VP/CXO monthly business reviews, influencing without formal authority across finance, operations, IT, and engineering) and analytical problem-solving driving ~$10M annual revenue protection savings, $2M asset lifecycle savings, 20% cycle time reduction at Lowe's India, and 35% lead conversion improvement at Byju's.",
+      "positioning_bridge": "Directly anchor on executive stakeholder alignment and quantified analytical problem-solving across enterprise and growth environments."
+    },
+    {
+      "id": "MH-11",
+      "category": "must_have",
+      "requirement": "Ability to manage multiple priorities, identify dependencies, delivery risks, and technical challenges, and deliver multiple projects within defined timelines.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L131-L160, canonical_master_profile.md:L221-L275, canonical_master_profile.md:L333-L343",
+      "evidence_summary": "Managed concurrent enterprise initiatives at Lowe's India (reliability, revenue protection, asset lifecycle, AI procurement), multiple learning products at Byju's, and concurrent client engagements at Hype Marketing & Product Services. Also holds UC Irvine Project Management Specialization covering Risk Management, Budgeting/Scheduling, and Scope & Constraint Management.",
+      "positioning_bridge": "Highlight concurrent multi-initiative delivery track record alongside formal project risk, dependency, and schedule management training."
+    },
+    {
+      "id": "MH-12",
+      "category": "must_have",
+      "requirement": "Willingness to travel internationally for client engagements when required.",
+      "classification": "Gap",
+      "canonical_line_refs": "N/A",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md regarding willingness or prior history of international travel for client engagements.",
+      "positioning_bridge": "Requires explicit user confirmation prior to application; cannot be inferred from canonical_master_profile.md."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Previous experience in healthcare, healthcare technology, or healthcare analytics.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L179-L209",
+      "evidence_summary": "Served as Head of Marketing at HealthQ Rehab (May 2023–Dec 2023), leading SEO, content, social media, and digital messaging channels (+35% organic traffic, +50% social engagement, +20% brand engagement). No healthcare technology or healthcare analytics product management experience is documented.",
+      "positioning_bridge": "Note marketing leadership exposure in a rehab/healthcare business (HealthQ Rehab) as domain-adjacent context, while explicitly clarifying the absence of healthcare tech or healthcare analytics PM experience."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Familiarity with healthcare data standards and regulations such as HIPAA, HL7, and FHIR.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L655",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for HIPAA, HL7, FHIR, or healthcare regulatory data standards (L655 also flags regulatory compliance as not currently evidenced).",
+      "positioning_bridge": "Acknowledge as a domain gap; do not claim familiarity with HIPAA, HL7, or FHIR."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Experience working with AI/ML, data science, and advanced analytics teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L86-L99, canonical_master_profile.md:L367, canonical_master_profile.md:L530-L534, canonical_master_profile.md:L652",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (20% cycle time reduction) and automated recovery systems (~$10M revenue protection savings) at Lowe's India, and collaborated with Data teams (L367). However, explicit collaboration with dedicated data science / ML model-building or advanced analytics teams is not documented (L652).",
+      "positioning_bridge": "Bridge AI-driven workflow product delivery and Data team collaboration at Lowe's India toward partnering with data science and advanced analytics teams, without claiming ML model ownership."
+    },
+    {
+      "id": "PR-4",
+      "category": "preferred",
+      "requirement": "Exposure to low-code/no-code platforms and reusable technology frameworks.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L77, canonical_master_profile.md:L92, canonical_master_profile.md:L238, canonical_master_profile.md:L534",
+      "evidence_summary": "Spearheaded a unified enterprise asset lifecycle platform and operational analytics/KPI frameworks at Lowe's India and built 12 cross-product prototypes at Byju's. However, exposure to low-code/no-code platforms is not evidenced in canonical_master_profile.md.",
+      "positioning_bridge": "Highlight reusable operational, KPI, and unified platform frameworks, while transparently noting no documented exposure to low-code/no-code platforms."
+    },
+    {
+      "id": "PR-5",
+      "category": "preferred",
+      "requirement": "Understanding of clinical data, healthcare operational workflows, and healthcare intelligence solutions.",
+      "classification": "Gap",
+      "canonical_line_refs": "N/A",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for clinical data, healthcare operational workflows, or healthcare intelligence solutions (HealthQ Rehab work was strictly digital/content marketing).",
+      "positioning_bridge": "Acknowledge as a domain gap; operational workflow optimization experience at Lowe's India is non-clinical."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Client-facing B2B solution discovery, expectation setting, and external customer delivery.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L119-L176, canonical_master_profile.md:L478-L488",
+      "evidence_summary": "Delivered client consulting engagements across Upraised, Programming Hub, Gradiant, and Acadecraft through Hype Marketing & Product Services, and managed executive stakeholder alignment at Lowe's India. Consulting focused on GTM, growth, and learning products rather than external B2B healthcare analytics implementations.",
+      "positioning_bridge": "Frame client consulting delivery at Hype alongside enterprise executive alignment at Lowe's India as transferable to external healthcare client delivery."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Technical fluency to partner credibly with data engineers and solution architects on analytics and AI product architecture.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "B.Tech. in Computer Science Engineering combined with 5+ years leading product execution with engineering teams on enterprise reliability platforms, automated recovery systems, and AI-driven procurement workflows, though specific data engineering and warehouse architecture work is not documented.",
+      "positioning_bridge": "Leverage CS engineering background and enterprise platform PM experience at Lowe's India to establish technical credibility while avoiding claims of data architecture ownership."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Lead end-to-end product development and delivery of scalable, reliable data analytics and AI-driven products for healthcare customers aligned with business outcomes.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Led end-to-end delivery of scalable, reliable enterprise platforms (99.99% reliability), automated recovery workflows (~$10M annual revenue protection savings), and an AI-driven procurement and catalog system (20% cycle time reduction) at Lowe's India. These were internal enterprise operations platforms rather than external customer-facing healthcare data analytics products.",
+      "positioning_bridge": "Bridge enterprise AI workflow delivery, 99.99% platform reliability, and business-outcome alignment at Lowe's India to scalable analytics and AI product delivery, while transparently noting the healthcare analytics gap."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Drive product innovation through reusable accelerators, technology frameworks, and scalable analytics solutions across engagements.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L77-L81, canonical_master_profile.md:L91-L95, canonical_master_profile.md:L238, canonical_master_profile.md:L534",
+      "evidence_summary": "Spearheaded a unified enterprise asset lifecycle platform ($2M annual cost savings) and operational analytics/KPI frameworks at Lowe's India, and built 12 cross-product learning prototypes at Byju's, demonstrating reusable platform thinking outside of healthcare analytics accelerators.",
+      "positioning_bridge": "Connect unified platform design and reusable KPI/cross-product frameworks at Lowe's India and Byju's to reusable analytics solution accelerators."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Manage stakeholder expectations across clinical, business, and technical teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L71, canonical_master_profile.md:L179-L209, canonical_master_profile.md:L478-L488, canonical_master_profile.md:L553-L556",
+      "evidence_summary": "Strong business and technical stakeholder management across VP/CXO leadership, finance, operations, IT, and engineering at Lowe's India and Byju's, plus marketing leadership at HealthQ Rehab. Clinical stakeholder management is not evidenced in canonical_master_profile.md.",
+      "positioning_bridge": "Emphasize cross-functional alignment across technical and business/executive teams while acknowledging lack of direct clinical stakeholder experience."
+    }
+  ],
+  "summary_counts": {
+    "direct": 7,
+    "adjacent": 12,
+    "gap": 3,
+    "total": 22
+  }
+}

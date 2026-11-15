@@ -1,0 +1,184 @@
+{
+  "opportunity_id": "4480042891-highlevel-spm-reputation",
+  "company": "HighLevel",
+  "role_title": "Sr. Product Manager - Reputation Management",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "7+ years in product management, scaling 0-1 products, B2B SaaS experience, or building AI agentic products.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L91-L100, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L148-L150, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L251-L288",
+      "evidence_summary": "Holds ~5 years in formal titled PM/SPM roles (Byju's PM/SPM July 2020–April 2023; Lowe's India SPM Sep 2024–Present), plus 5 years in earlier product prototyping and product-lead management at Byju's (June 2015–June 2020) and ~14 months consulting on digital product development and growth as Founder of Hype (Oct 2023–Nov 2024), totaling 10+ years in product-related roles. Includes 0-to-1 launches (Byju's Social Studies with 500+ hrs video and 300+ interactive experiences, Byju's Xcel Masterclasses, Lowe's AI-driven procurement & catalog system reducing cycle time by 20%, and unified asset lifecycle platform saving $2M annually). However, titled PM tenure is ~5 years and explicit in-house B2B SaaS or standalone AI agentic product ownership is not documented.",
+      "positioning_bridge": "Present 10+ year product trajectory combining 0-to-1 launches at Byju's and AI-assisted enterprise workflow builds at Lowe's India as transferable to scaling an AI-powered Reputation Management SaaS product."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Product Strategy & Roadmap: Define vision, strategy, north-star metrics, and 12-18 month roadmap; drive prioritization, investment decisions, and business outcomes.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L83, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L436-L443, canonical_master_profile.md:L480-L493",
+      "evidence_summary": "At Lowe's India, owned strategic initiatives, defined quarterly priorities and annual/quarterly operational roadmaps (targeting a 20% reduction in incident volume), designed KPI frameworks, and managed forecasting, budgeting, investment prioritization, and ROI evaluation; also led product strategy initiatives at Byju's.",
+      "positioning_bridge": "Highlight direct ownership of multi-quarter roadmaps, north-star KPI frameworks, and ROI-driven investment prioritization."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Analytical fluency & Engineering/Data partnership: Partner with Engineering/Data on data flows, instrumentation, system design, and reliability; define robust metrics and measurement plans.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L90, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L454-L463",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering (Manipal Institute of Technology, 2011–2015). At Lowe's India, partnered directly with Reliability Engineering and Infrastructure & Operations teams to ensure 99.99% platform reliability, led KPI and dashboard development using internal enterprise analytics tools, and designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency.",
+      "positioning_bridge": "Directly emphasize CS engineering background, 99.99% reliability partnership with engineering, and KPI measurement framework ownership."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Technical fluency in reasoning about APIs, permissions, and scalable configuration frameworks.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L71, canonical_master_profile.md:L91-L100, canonical_master_profile.md:L325-L328",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering and manages enterprise platform operations, unified asset lifecycle platforms, and automated recovery workflows at Lowe's India. However, canonical_master_profile.md does not explicitly document hands-on design or ownership of APIs, permission/RBAC systems, or multi-tenant SaaS configuration frameworks.",
+      "positioning_bridge": "Bridge CS engineering grounding and enterprise platform operations experience toward reasoning about SaaS configuration and integration requirements without claiming prior API or RBAC ownership."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Proven track record of moving business metrics (retention, expansion, adoption, support deflection, engagement).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L100, canonical_master_profile.md:L141-L161, canonical_master_profile.md:L190-L198, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L261-L269, canonical_master_profile.md:L500-L519",
+      "evidence_summary": "Delivered ~$10M annual revenue protection savings (reducing order cancellations), $2M annual operational cost savings, and 20% cycle time reduction at Lowe's India; generated 2.5L+ SQLs, 35% lead conversion improvement, and 5% course completion increase at Byju's; achieved 80%+ completion rates, 4.5+ ratings, 30% email open rate, and 20% CTR at Hype; drove 35% organic traffic, 50% social engagement, and 20% brand engagement lift at HealthQ Rehab. (SaaS expansion and support deflection are not explicitly evidenced, while engagement, adoption, conversion, and revenue protection are directly supported.)",
+      "positioning_bridge": "Lead with verified engagement, adoption, conversion, completion, and revenue-protection outcomes across enterprise and growth roles."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Demonstrated ability to lead without authority, influence cross-functional partners, and drive alignment across Product, Engineering, Data, and GTM.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L228-L232, canonical_master_profile.md:L367, canonical_master_profile.md:L485-L488, canonical_master_profile.md:L553-L556",
+      "evidence_summary": "Explicitly documented driving enterprise alignment without formal authority (L487, L554) and coordinating across Product, Engineering, Finance, Operations, IT, Marketing, and Data stakeholders at Lowe's India and Byju's.",
+      "positioning_bridge": "Directly cite enterprise alignment without authority across engineering, operations, finance, and GTM/marketing teams."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Excellent written and verbal communication; create crisp narratives for executives and individual contributors.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L341, canonical_master_profile.md:L478-L482, canonical_master_profile.md:L553",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders and prepared board-level strategic narratives and decision-support materials (L478–L479), alongside stakeholder communication and client consulting engagements.",
+      "positioning_bridge": "Directly highlight VP/CXO monthly business reviews and board-level strategic narrative preparation."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Product Execution: Own PRDs, requirements, prioritization, release planning, stakeholder alignment, success metrics, and post-launch measurement.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L427-L428, canonical_master_profile.md:L446-L452, canonical_master_profile.md:L657",
+      "evidence_summary": "Owned end-to-end product execution, prioritization, stakeholder alignment, and post-launch outcome tracking across Lowe's India and Byju's. However, canonical_master_profile.md (L657) explicitly notes that while product management experience supports PRDs and user stories, explicit PRD artifacts are not currently documented in the master profile.",
+      "positioning_bridge": "Emphasize verified end-to-end product delivery, prioritization, and post-launch metric tracking while avoiding unverified claims of specific PRD artifact templates."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience building AI agentic products (highlighted as an optional pathway in 'What You Will Bring' and central to the 3-12 month AI reputation roadmap).",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L22, canonical_master_profile.md:L33, canonical_master_profile.md:L70, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (20% operational cycle time reduction) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India. Does not document standalone generative or conversational AI agentic SaaS products.",
+      "positioning_bridge": "Frame Lowe's AI-assisted procurement and automated recovery workflow systems as transferable operational foundations for AI-powered reputation automation."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Remote-first, high-ownership asynchronous execution across global distributed teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L176, canonical_master_profile.md:L485-L488",
+      "evidence_summary": "Demonstrated high-ownership independent execution as Founder of Hype Marketing & Product Services across multiple client engagements (Upraised, Programming Hub, Gradiant, Acadecraft) and cross-functional enterprise operations at Lowe's India, though permanent remote-first global B2B SaaS team experience is not explicitly documented.",
+      "positioning_bridge": "Bridge founder-led client consulting and cross-functional enterprise initiative ownership to HighLevel's remote-first ownership culture."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Cross-portfolio integration within HighLevel's Marketing Products OS (connecting Reputation Management with Email Marketing, Social Planner, Chat Widget, Dashboard & Reporting, and Workflows).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L161, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L231-L238, canonical_master_profile.md:L386-L391",
+      "evidence_summary": "Built 12 cross-product learning experience prototypes connecting customer journeys across Aakash-Byju's, Tynker, and WhiteHat Jr., and integrated email marketing (30% open rate, 20% CTR), social media (+50% engagement), WhatsApp, Telegram, newsletters, and SEO (+35% organic traffic) into coordinated engagement strategies at Hype and HealthQ Rehab.",
+      "positioning_bridge": "Highlight cross-product ecosystem prototyping and multi-channel marketing execution directly aligned with HighLevel's integrated Marketing Products OS."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Review Growth: Drive review acquisition through automated campaigns, multi-channel requests, personalization, experimentation, and conversion optimization.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L161, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L231-L239, canonical_master_profile.md:L265-L268, canonical_master_profile.md:L355-L405, canonical_master_profile.md:L648-L656",
+      "evidence_summary": "Direct experience in lifecycle and email marketing campaigns (30% open rate, 20% CTR), multi-channel engagement (WhatsApp, Telegram, newsletters, social), product experimentation (5% course completion lift on Tynker), and funnel conversion optimization (35% lead conversion lift at Byju's). Transferable to review acquisition funnels, though review-generation campaigns and production personalization systems are not directly documented (L651).",
+      "positioning_bridge": "Bridge multi-channel lifecycle campaign optimization and funnel experimentation to automated multi-channel review acquisition."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "AI-Powered Engagement: Build AI-driven review reply experiences, including personalized responses, brand voice customization, sentiment awareness, and bulk actions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L100, canonical_master_profile.md:L380-L384, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system at Lowe's India (20% cycle time reduction) and optimized audience-facing brand communications at HealthQ and Hype. Does not document direct experience building generative AI review-reply UX, sentiment-aware LLM responses, brand voice customization, or bulk customer reply interfaces.",
+      "positioning_bridge": "Combine AI-assisted workflow design from Lowe's with digital brand communication experience as an adjacent foundation for AI reply experiences."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Reputation Automation: Create automation-first workflows for review requests, sentiment-based routing, escalations, notifications, and proactive engagement.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L70, canonical_master_profile.md:L84-L90, canonical_master_profile.md:L96-L100, canonical_master_profile.md:L524-L529, canonical_master_profile.md:L650",
+      "evidence_summary": "Led automation and recovery workflow initiatives at Lowe's India, including automated recovery systems, incident handling workflows, and SLA/escalation workflows (~$10M annual revenue protection savings), alongside lifecycle communication workflows at Hype and HealthQ. Workflow and escalation automation mechanics are transferable, though applied to enterprise reliability and marketing lifecycle rather than sentiment-based reputation routing.",
+      "positioning_bridge": "Translate automated recovery, SLA, and escalation workflow orchestration at Lowe's to HighLevel's reputation automation and routing workflows."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Review Management & Multi-Location Scale: Improve review monitoring, aggregation, moderation, collaboration, and multi-location management for agencies and businesses at scale.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No defensible evidence in canonical_master_profile.md of online review monitoring, review aggregation, moderation workflows, local listing reputation management, or multi-location SMB/agency SaaS collaboration tools.",
+      "positioning_bridge": "Acknowledge review-management and multi-location agency SaaS domain gap transparently; rely on transferable multi-stakeholder workflow tooling (Elevate, store setup procurement) only as broader operational context."
+    },
+    {
+      "id": "DM-5",
+      "category": "domain",
+      "requirement": "Analytics & Insights: Deliver reputation reporting, sentiment analysis, AI-generated insights, benchmarking, and actionable customer recommendations.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L76-L82, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L534",
+      "evidence_summary": "Led KPI framework design and operational analytics dashboarding at Lowe's India using internal enterprise analytics tools, and evaluated engagement/conversion metrics at Hype and HealthQ. Transferable to customer-facing reporting, but lacks direct ownership of external customer-facing SaaS analytics products, NLP sentiment analysis, AI-generated insights, or competitive benchmarking features.",
+      "positioning_bridge": "Bridge internal operational KPI dashboarding and marketing analytics to customer-facing reputation reporting and insight prioritization."
+    },
+    {
+      "id": "DM-6",
+      "category": "domain",
+      "requirement": "Product Discovery & Customer Research: Lead customer interviews, workflow audits, usability testing, competitive analysis, and market research to identify opportunities and validate solutions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L134-L137, canonical_master_profile.md:L266-L283, canonical_master_profile.md:L300-L306, canonical_master_profile.md:L387-L390",
+      "evidence_summary": "Identified funnel friction points (Byju's Xcel +35% lead conversion), redesigned learner and instructor workflows (WhiteHat Jr. -15% training time; Tynker app redesign +5% completion; Elevate internal UX), and improved store setup workflows at Lowe's (-20% cycle time). However, formal customer interviews, usability testing, and structured competitive/market research are not explicitly named in canonical_master_profile.md.",
+      "positioning_bridge": "Position hands-on workflow audits and funnel friction diagnostics across Lowe's and Byju's as practical discovery foundations."
+    },
+    {
+      "id": "DM-7",
+      "category": "domain",
+      "requirement": "B2B SaaS / Marketing Products OS Domain for Agencies, Entrepreneurs, and SMBs.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L30, canonical_master_profile.md:L119-L176, canonical_master_profile.md:L355-L405",
+      "evidence_summary": "Profile lists SaaS as a core domain and includes B2B growth, GTM, and lifecycle marketing consulting as Founder of Hype Marketing & Product Services alongside internal enterprise platforms at Lowe's India and EdTech products at Byju's. Does not document prior in-house Senior PM experience building B2B SaaS products specifically for marketing agencies and SMBs.",
+      "positioning_bridge": "Synthesize Hype's client-facing marketing/growth consulting with Lowe's enterprise platform rigor and Byju's consumer funnel scale."
+    }
+  ],
+  "summary_counts": {
+    "direct": 6,
+    "adjacent": 11,
+    "gap": 1,
+    "total": 18
+  }
+}

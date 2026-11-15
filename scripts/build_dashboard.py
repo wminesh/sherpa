@@ -716,15 +716,24 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
           subContentHtml = `
             <div class="space-y-3">
               <div class="flex flex-wrap items-center justify-between gap-2 p-3 rounded-lg bg-[var(--background)] border border-[var(--border)] text-xs">
-                <div>
-                  <span class="font-semibold text-emerald-500">Tailored PDF CV:</span>
-                  <code class="ml-1 select-all">/Users/mineshwadhwa/Documents/Sherpa/tailored_cvs/${escapeHtml(item.dashboard_cv_pdf_file)}</code>
+                <div class="space-y-1">
+                  <div>
+                    <span class="font-semibold text-emerald-500">Tailored PDF CV:</span>
+                    <code class="ml-1 select-all">/Users/mineshwadhwa/Documents/Sherpa/tailored_cvs/${escapeHtml(item.dashboard_cv_pdf_file)}</code>
+                  </div>
+                  ${item.dashboard_cv_md_file ? `
+                    <div>
+                      <span class="font-semibold text-[var(--muted-foreground)]">Markdown CV:</span>
+                      <code class="ml-1 select-all">/Users/mineshwadhwa/Documents/Sherpa/tailored_cvs/md/${escapeHtml(item.dashboard_cv_md_file)}</code>
+                    </div>
+                  ` : ""}
                 </div>
-                <div class="flex items-center gap-1.5">
+                <div class="flex flex-wrap items-center gap-1.5">
                   <button onclick="setCvSubMode('formatted')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'formatted' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Formatted CV Text</button>
                   <button onclick="setCvSubMode('changelog')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'changelog' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Bullet Changelog &amp; Evidence</button>
                   <button onclick="setCvSubMode('pdf')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'pdf' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Embedded PDF Preview</button>
                   <a href="../tailored_cvs/${escapeHtml(item.dashboard_cv_pdf_file)}" target="_blank" class="px-2.5 py-1 rounded bg-emerald-500/15 text-emerald-500 border border-emerald-500/30 font-semibold">Open PDF ↗</a>
+                  ${item.dashboard_cv_md_file ? `<a href="../tailored_cvs/md/${escapeHtml(item.dashboard_cv_md_file)}" target="_blank" class="px-2.5 py-1 rounded bg-[var(--card)] border border-[var(--border)] hover:text-[var(--foreground)] font-medium">Open MD ↗</a>` : ""}
                 </div>
               </div>
               ${cvInner}
@@ -848,13 +857,14 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
                 ${escapeHtml(item.location)} (${escapeHtml(item.workplace_mode)}) · Job ID: <code>${escapeHtml(item.job_id)}</code> · Status: <strong>${escapeHtml(curStatus)}</strong>
               </p>
             </div>
-            <div class="flex items-center gap-2 shrink-0">
+            <div class="flex items-center gap-2 shrink-0 flex-wrap justify-end">
               <span class="px-3 py-1 rounded-lg border text-sm font-bold ${getScoreBadgeClasses(item.overall_fit_score)}">
                 Fit: ${item.overall_fit_score}/100
               </span>
               <span class="px-3 py-1 rounded-lg border text-xs font-bold ${getDecisionBadgeClasses(item.recommendation)}">
                 ${escapeHtml(item.recommendation)}
               </span>
+              ${item.linkedin_url ? `<a href="${escapeHtml(item.linkedin_url)}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg border border-[var(--border)] text-xs font-medium hover:text-[var(--foreground)]">LinkedIn ↗</a>` : ""}
             </div>
           </div>
 
@@ -883,190 +893,11 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       `;
     }
 
-    function setAllJobsFilter(filter) {
-      currentAllJobsFilter = filter;
-      document.querySelectorAll(".aj-pill").forEach(btn => {
-        if (btn.getAttribute("data-ajfilter") === filter) {
-          btn.className = "aj-pill px-3 py-1.5 text-xs font-semibold rounded-lg bg-[var(--primary)] text-[var(--primary-foreground)]";
-        } else {
-          btn.className = "aj-pill px-3 py-1.5 text-xs font-medium rounded-lg border border-[var(--border)] text-[var(--muted-foreground)]";
-        }
-      });
-      renderAllJobsTable();
-    }
-
-    function getUnifiedJobsList() {
-      const rows = [];
-      DASHBOARD_DATA.evaluated_batch_1.forEach(item => {
-        rows.push({
-          key: item.opportunity_id,
-          job_id: item.job_id,
-          company: item.company,
-          role_title: item.role_title,
-          location: `${item.location} (${item.workplace_mode})`,
-          stage: "Evaluated Batch 1",
-          stageCode: "BATCH1",
-          fit_score: `${item.overall_fit_score}/100 (${item.recommendation})`,
-          jd_file: item.dashboard_jd_file,
-          cv_file: item.dashboard_cv_pdf_file || "—",
-          status: getJobStatus(item.opportunity_id, item.application_status),
-          linkedin_url: item.linkedin_url,
-          opp_id: item.opportunity_id
-        });
-      });
-
-      (DASHBOARD_DATA.secondary_queue_batch_2 || []).forEach(sq => {
-        const key = `sq-${sq.job_id}`;
-        rows.push({
-          key,
-          job_id: sq.job_id,
-          company: sq.company,
-          role_title: sq.role_title,
-          location: sq.location,
-          stage: "Secondary Queue (Batch 2)",
-          stageCode: "BATCH2",
-          fit_score: "Queued (Gate 1 PASS)",
-          jd_file: "Pending Batch 2",
-          cv_file: "Pending Batch 2",
-          status: getJobStatus(key, sq.queue_status || "Secondary Queue (Batch 2)"),
-          linkedin_url: sq.linkedin_url,
-          opp_id: null
-        });
-      });
-
-      (DASHBOARD_DATA.already_applied || []).forEach(app => {
-        const key = `app-${app.job_id}`;
-        rows.push({
-          key,
-          job_id: app.job_id,
-          company: app.company,
-          role_title: app.role_title,
-          location: app.location,
-          stage: "Already Applied",
-          stageCode: "APPLIED",
-          fit_score: "—",
-          jd_file: "—",
-          cv_file: "—",
-          status: getJobStatus(key, `Already Applied (${app.applied_date})`),
-          linkedin_url: "",
-          opp_id: null
-        });
-      });
-
-      (DASHBOARD_DATA.gate_1_exclusions || []).forEach(exc => {
-        const key = `exc-${exc.job_id}`;
-        rows.push({
-          key,
-          job_id: exc.job_id,
-          company: String(exc.company || "").slice(0, 40),
-          role_title: String(exc.role_title || "").slice(0, 65),
-          location: String(exc.location || "").slice(0, 35),
-          stage: `Gate 1 Excluded (${exc.gate_1_status})`,
-          stageCode: "EXCLUDED",
-          fit_score: "Excluded at Gate 1",
-          jd_file: "—",
-          cv_file: "—",
-          status: getJobStatus(key, exc.gate_1_status),
-          linkedin_url: "",
-          opp_id: null
-        });
-      });
-
-      return rows;
-    }
-
-    function inspectJobFromTable(oppId, subTab) {
-      selectedOppId = oppId;
-      currentDetailSubTab = subTab || "jd";
-      switchMainTab("evaluated");
-      renderBatch1List();
-      renderBatch1Detail();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }
-
-    function renderAllJobsTable() {
-      const tbody = document.getElementById("all-jobs-tbody");
-      const q = (document.getElementById("all-jobs-search")?.value || "").toLowerCase().trim();
-      const allRows = getUnifiedJobsList().filter(r => {
-        if (currentAllJobsFilter !== "ALL" && r.stageCode !== currentAllJobsFilter) return false;
-        if (q) {
-          const hay = `${r.job_id} ${r.company} ${r.role_title} ${r.location} ${r.stage} ${r.status}`.toLowerCase();
-          if (!hay.includes(q)) return false;
-        }
-        return true;
-      });
-
-      tbody.innerHTML = allRows.map((r, i) => `
-        <tr class="hover:bg-[var(--background)] transition">
-          <td class="py-2.5 px-3 font-mono text-[var(--muted-foreground)]">${i + 1}</td>
-          <td class="py-2.5 px-3">
-            <div class="font-bold text-[var(--foreground)]">${escapeHtml(r.company)}</div>
-            <div class="text-[var(--muted-foreground)]">${escapeHtml(r.role_title)}</div>
-          </td>
-          <td class="py-2.5 px-3 text-[var(--muted-foreground)]">${escapeHtml(r.location)}</td>
-          <td class="py-2.5 px-3">
-            <span class="px-2 py-0.5 rounded border border-[var(--border)] bg-[var(--background)] font-medium">${escapeHtml(r.stage)}</span>
-          </td>
-          <td class="py-2.5 px-3 font-semibold">${escapeHtml(r.fit_score)}</td>
-          <td class="py-2.5 px-3">
-            ${r.opp_id ? `<button onclick="inspectJobFromTable('${r.opp_id}', 'jd')" class="text-sky-500 hover:underline font-medium">${escapeHtml(r.jd_file)}</button>` : `<span class="text-[var(--muted-foreground)]">${escapeHtml(r.jd_file)}</span>`}
-          </td>
-          <td class="py-2.5 px-3">
-            ${r.opp_id && r.cv_file !== "—" ? `<button onclick="inspectJobFromTable('${r.opp_id}', 'cv')" class="text-emerald-500 hover:underline font-medium">${escapeHtml(r.cv_file)}</button>` : `<span class="text-[var(--muted-foreground)]">${escapeHtml(r.cv_file)}</span>`}
-          </td>
-          <td class="py-2.5 px-3 font-medium">${escapeHtml(r.status)}</td>
-          <td class="py-2.5 px-3">
-            <div class="flex items-center gap-2">
-              ${r.opp_id ? `<button onclick="inspectJobFromTable('${r.opp_id}', 'jd')" class="px-2 py-1 rounded bg-[var(--primary)] text-[var(--primary-foreground)] font-semibold">Inspect</button>` : ""}
-              ${r.linkedin_url ? `<a href="${escapeHtml(r.linkedin_url)}" target="_blank" rel="noopener noreferrer" class="px-2 py-1 rounded border border-[var(--border)] hover:text-[var(--foreground)]">LinkedIn ↗</a>` : ""}
-            </div>
-          </td>
-        </tr>
-      `).join("");
-    }
-
-    function renderFolderManifest() {
-      const tbody = document.getElementById("folder-manifest-tbody");
-      tbody.innerHTML = DASHBOARD_DATA.evaluated_batch_1.map(item => `
-        <tr class="hover:bg-[var(--background)] transition">
-          <td class="py-3 px-3 font-bold">#${item.rank}</td>
-          <td class="py-3 px-3">
-            <div class="font-bold text-[var(--foreground)]">${escapeHtml(item.company)}</div>
-            <div class="text-[var(--muted-foreground)]">${escapeHtml(item.role_title)}</div>
-          </td>
-          <td class="py-3 px-3">
-            <span class="px-2 py-0.5 rounded border font-bold ${getScoreBadgeClasses(item.overall_fit_score)}">${item.overall_fit_score}/100</span>
-            <span class="ml-1 px-2 py-0.5 rounded border font-semibold ${getDecisionBadgeClasses(item.recommendation)}">${escapeHtml(item.recommendation)}</span>
-          </td>
-          <td class="py-3 px-3 font-mono">
-            <button onclick="inspectJobFromTable('${item.opportunity_id}', 'jd')" class="text-sky-500 hover:underline">${escapeHtml(item.dashboard_jd_file)}</button>
-          </td>
-          <td class="py-3 px-3 font-mono">
-            ${item.dashboard_cv_pdf_file
-              ? `<button onclick="inspectJobFromTable('${item.opportunity_id}', 'cv')" class="text-emerald-500 hover:underline font-semibold">${escapeHtml(item.dashboard_cv_pdf_file)}</button>`
-              : `<span class="text-[var(--muted-foreground)]">— (${escapeHtml(item.recommendation)})</span>`}
-          </td>
-          <td class="py-3 px-3 font-mono">
-            ${item.dashboard_cv_md_file
-              ? `<button onclick="inspectJobFromTable('${item.opportunity_id}', 'cv')" class="text-[var(--foreground)] hover:underline">${escapeHtml(item.dashboard_cv_md_file)}</button>`
-              : `<span class="text-[var(--muted-foreground)]">—</span>`}
-          </td>
-          <td class="py-3 px-3">
-            <div class="flex items-center gap-1.5">
-              <button onclick="inspectJobFromTable('${item.opportunity_id}', 'jd')" class="px-2.5 py-1 rounded bg-[var(--background)] border border-[var(--border)] hover:border-[var(--foreground)] font-medium">Read JD</button>
-              ${item.dashboard_cv_pdf_file ? `<button onclick="inspectJobFromTable('${item.opportunity_id}', 'cv')" class="px-2.5 py-1 rounded bg-emerald-500/15 text-emerald-500 border border-emerald-500/30 font-semibold">Read CV</button>` : ""}
-            </div>
-          </td>
-        </tr>
-      `).join("");
-    }
-
     // Initialize UI
     updateTopKpis();
-    renderBatch1List();
-    renderBatch1Detail();
-    renderAllJobsTable();
-    renderFolderManifest();
+    renderUnifiedFilterPills();
+    renderUnifiedList();
+    renderUnifiedDetail();
   </script>
 </body>
 </html>

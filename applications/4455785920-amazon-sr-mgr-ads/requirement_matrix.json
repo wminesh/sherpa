@@ -1,0 +1,121 @@
+{
+  "opportunity_id": "4455785920-amazon-sr-mgr-ads",
+  "company": "Amazon",
+  "role_title": "Sr. Manager, Product Management Tech, India Advertising",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "6+ years of team management experience.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L179-L182, canonical_master_profile.md:L286-L315, canonical_master_profile.md:L487, canonical_master_profile.md:L552-L558",
+      "evidence_summary": "Led a team of 5 product leads for Commerce product development at Byju's during the Multiple Roles period (June 2015–June 2020, exact duration of management within that 5-year span not specified) and served as Head of Marketing at HealthQ Rehab (May–Dec 2023). At Lowe's India (Sep 2024–Present), leadership is explicitly cross-functional alignment without formal authority.",
+      "positioning_bridge": "Present direct product-lead management at Byju's (5 product leads) alongside 10+ years of cross-functional leadership and stakeholder orchestration, while explicitly NOT claiming 6+ years of continuous formal direct-report people management."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Bachelor's degree.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328, canonical_master_profile.md:L592-L595",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Exact match to the required Bachelor's degree qualification, with a technical CS engineering foundation relevant to PM-Tech."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Experience owning/driving roadmap strategy and definition.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L66, canonical_master_profile.md:L82, canonical_master_profile.md:L108, canonical_master_profile.md:L132-L133, canonical_master_profile.md:L228, canonical_master_profile.md:L480",
+      "evidence_summary": "Owned strategic initiatives across engineering and product teams at Lowe's India, defining annual and quarterly priorities and operational roadmaps (including roadmaps targeting 20% incident volume reduction). Previously led product strategy initiatives at Byju's and built campaign/GTM execution roadmaps at Hype Marketing & Product Services.",
+      "positioning_bridge": "Highlight multi-quarter roadmap definition, executive planning cycles, and strategic prioritization across enterprise platforms and consumer growth products."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience with feature delivery and tradeoffs of a product.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L259-L275, canonical_master_profile.md:L450, canonical_master_profile.md:L462, canonical_master_profile.md:L491",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (20% cycle time reduction) and unified enterprise asset lifecycle platform ($2M annual cost savings) at Lowe's India with ROI-driven investment prioritization. At Byju's, launched Interactive Learning Experiences for Whitehat Jr. (15% instructor training time reduction), redesigned Tynker with assessments and DIY modules (5% course completion increase), and launched Social Studies (500+ hours video, 300+ interactive experiences).",
+      "positioning_bridge": "Emphasize end-to-end feature shipping, scope/ROI tradeoff decisions, and measurable operational and user outcomes."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Manage the complete business of the product area: establishing key metrics, setting and meeting goals on business/product metrics, advertiser engagement, retention, advertising revenue, ads utilization, and ads relevance.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L75-L99, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L489-L494",
+      "evidence_summary": "Owned P&L responsibilities, forecasting, budgeting, and ROI evaluation across product and operational initiatives; designed KPI frameworks tracking platform adoption, cost savings, and operational efficiency (~$10M annual revenue protection savings and $2M operational savings at Lowe's India); drove engagement, conversion, and retention-adjacent funnel metrics at Byju's (2.5L+ SQLs, 35% lead conversion improvement). Does not include advertising revenue, ads utilization, or ad relevance metrics.",
+      "positioning_bridge": "Bridge proven P&L, revenue protection, KPI goal-setting, and engagement/conversion ownership to commercial product business management, while noting that AdTech-specific utilization and ad-relevance KPIs are new domain metrics."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Work with a dedicated product and engineering team and heavily collaborate with WW Ads and India Sales, Demand, Marketing, and Account Management stakeholders.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L228-L233, canonical_master_profile.md:L367, canonical_master_profile.md:L477-L488",
+      "evidence_summary": "Worked closely across product, engineering, finance, operations, IT, and VP/CXO executive stakeholders at Lowe's India (a global enterprise) and collaborated with marketing, content, and sales-funnel teams at Byju's (generating 2.5L+ SQLs). Heavy collaboration specifically with WW Ads, India Ad Sales, Demand, and Account Management teams is not directly documented.",
+      "positioning_bridge": "Transfer global enterprise cross-functional alignment (engineering, finance, operations, executive MBRs) and marketing/sales-funnel partnership to WW Ads and India commercial stakeholders."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience delivering consumer software products and services in a high growth environment.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L147-L150, canonical_master_profile.md:L212-L283, canonical_master_profile.md:L385-L390",
+      "evidence_summary": "Delivered and scaled consumer EdTech software products and services at Byju's (June 2015–April 2023) during high-growth expansion, including Byju's Xcel Masterclasses (2.5L+ SQLs, 35% lead conversion lift), Tynker app redesign (5% course completion lift), Whitehat Jr. Interactive Learning Experiences (15% training time reduction), and 12 cross-product prototypes; also developed digital learning products for Programming Hub (4.5+ ratings).",
+      "positioning_bridge": "Directly showcase consumer software product delivery, rapid iteration, and measurable funnel/engagement growth in a high-growth environment."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Hands-on leadership, thinking big, and creating structure and effectiveness in ambiguity.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L65-L100, canonical_master_profile.md:L119-L138, canonical_master_profile.md:L477-L488, canonical_master_profile.md:L559-L564",
+      "evidence_summary": "Built operating rhythms, executive governance systems, KPI frameworks, automated recovery workflows (~$10M annual revenue protection), and a unified enterprise asset lifecycle platform ($2M annual savings) at Lowe's India; founded and operated Hype Marketing & Product Services (Oct 2023–Nov 2024), establishing GTM and growth systems from zero-to-one for multiple clients.",
+      "positioning_bridge": "Highlight zero-to-one structure creation, operational complexity reduction, and hands-on execution across ambiguous enterprise and consulting environments."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "PM-Tech leadership owning a North Star vision and scaling technical product capabilities in line with business growth aspirations.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L445-L453",
+      "evidence_summary": "Combines a B.Tech. in Computer Science Engineering with technical/platform product leadership at Lowe's India (AI-driven procurement and catalog platform, automated recovery systems, 99.99% reliability) and consumer product scaling at Byju's. Has not owned a commercial AdTech/DSP technical product vision.",
+      "positioning_bridge": "Connect CS engineering foundation and enterprise AI/platform scaling to PM-Tech ownership, while clearly scoping prior technical product work to enterprise operations and EdTech rather than AdTech."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Deep-dive understanding of the digital Ads landscape and Amazon DSP / programmatic AdTech product management (scaling ad capabilities across owned and third-party properties).",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L316, canonical_master_profile.md:L662-L672",
+      "evidence_summary": "No defensible evidence of AdTech, Demand-Side Platform (DSP), programmatic media buying, ad-serving, bidding, or ad-product management experience exists in canonical_master_profile.md. Line 668 also explicitly notes no marketing ROAS/incrementality ownership.",
+      "positioning_bridge": "Genuine domain gap; cannot be claimed as direct or adjacent AdTech product ownership. Position as a fast-ramping PM-Tech leader with B.Tech. CSE, growth marketing literacy, and enterprise platform scaling capability."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Operating at the intersection of marketing and e-commerce/digital platforms to drive performance marketing, branding objectives, shopper/user engagement, and partner ROI.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L119-L209, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L355-L404",
+      "evidence_summary": "Led growth, brand, lifecycle, SEO, email, and social marketing initiatives at HealthQ Rehab (35% organic traffic, 50% social engagement, 20% brand engagement) and Hype Marketing & Product Services (30% email open rate, 20% CTR, 50% engagement lift for Upraised), drove funnel conversion at Byju's (2.5L+ SQLs, 35% conversion lift), and works on retail enterprise/store-setup platforms at Lowe's India. Experience is from growth-marketing and internal retail-operations perspectives rather than e-commerce retail media or advertiser-facing DSP ROI.",
+      "positioning_bridge": "Bridge hands-on performance/brand marketing campaign execution, user engagement optimization, and retail enterprise context to Amazon Advertising's intersection of marketing and e-commerce."
+    }
+  ],
+  "summary_counts": {
+    "direct": 5,
+    "adjacent": 5,
+    "gap": 1,
+    "total": 11
+  }
+}

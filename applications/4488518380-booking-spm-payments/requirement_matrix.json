@@ -1,0 +1,148 @@
+{
+  "opportunity_id": "4488518380-booking-spm-payments",
+  "company": "Booking Holdings",
+  "role_title": "Senior Product Manager (Pay-in Payment Methods)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "8–10 years of relevant product management experience and a bachelor’s or master’s degree.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L315, canonical_master_profile.md:L321-L328",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015) and is pursuing an Executive General Management Program at IIM Bangalore (2025–2026, ongoing). Has 11+ years of total professional experience (since June 2015), including ~5 years in formal Product Manager / Senior Product Manager titles at Byju's (July 2020–April 2023) and Lowe's India (Sep 2024–Present), preceded by 5 years in product prototyping, UX journeys, and leading 5 product leads under Multiple Roles at Byju's (June 2015–June 2020), plus ~1 year in growth and digital product consulting as Founder at Hype Marketing & Product Services (Oct 2023–Nov 2024).",
+      "positioning_bridge": "Directly meets the bachelor's degree requirement and brings 10+ years of product-building and PM leadership, while candidly noting that ~5 years carry formal PM/SPM titles and ~5 earlier years were in product development/prototyping roles."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Set the product vision, strategy, and roadmap for a complex product area or portfolio from discovery through launch and optimisation, aligning priorities with customer needs and business goals.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L227-L275, canonical_master_profile.md:L445-L452",
+      "evidence_summary": "At Lowe's India (Sep 2024–Present), owned strategic initiatives across engineering and product teams, defined quarterly priorities and annual/quarterly operational roadmaps targeting a 20% reduction in incident volume, spearheaded a unified enterprise asset lifecycle platform ($2M annual cost savings), and designed and launched an AI-driven procurement and catalog system (20% cycle time reduction). At Byju's (July 2020–April 2023), led product strategy and lifecycle optimization across Byju's Xcel Masterclasses (2.5L+ SQLs, 35% lead conversion lift), Tynker app redesign (5% course completion lift), and Social Studies product launch.",
+      "positioning_bridge": "Highlight multi-quarter strategy, end-to-end launch execution, and post-launch optimization across complex enterprise platforms at Lowe's India and multi-product EdTech portfolios at Byju's."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Strong analytical judgement: monitor product performance, define success and counter-metrics, assess experiments, and use analytics and experimentation to turn complex data into clear decisions and optimise outcomes.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L366, canonical_master_profile.md:L389, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L660",
+      "evidence_summary": "At Lowe's India, led KPI and dashboard development using internal enterprise analytics tools, designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency, and translated data into ~$10M annual revenue protection savings and $2M annual operational savings. At Byju's, led product experimentation and iterative optimization using engagement and completion signals to raise Tynker course completion by 5% and improve Xcel Masterclasses lead conversion by 35%.",
+      "positioning_bridge": "Emphasize KPI framework ownership, internal analytics decisioning, and product experimentation outcomes; frame counter-metric judgement via reliability/revenue-protection vs. cost trade-offs without claiming commercial third-party analytics or A/B platform tooling."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Customer-focused approach: translate customer research, feedback, and operational insights into clear problems, hypotheses, and product improvements, and validate solutions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L90, canonical_master_profile.md:L134-L137, canonical_master_profile.md:L266-L268, canonical_master_profile.md:L376, canonical_master_profile.md:L387-L389",
+      "evidence_summary": "Translated operational and incident insights into automated recovery workflows reducing order cancellations (~$10M annual savings) at Lowe's India, and used funnel friction analysis and user engagement/completion signals to drive product redesigns and workflow improvements at Byju's (35% lead conversion lift, 5% Tynker completion lift). Formal qualitative customer research studies (e.g., user interviews or usability research) and explicit hypothesis-validation artifacts are not documented.",
+      "positioning_bridge": "Bridge operational-insight and funnel-friction problem solving to customer-centric iteration, without overclaiming formal UX research study ownership."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Work through technical and organisational complexity, manage cross-team dependencies, and influence without relying on formal authority.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L484-L488, canonical_master_profile.md:L553-L556",
+      "evidence_summary": "Explicitly drove enterprise alignment without formal authority across engineering, product, finance, operations, and IT teams at Lowe's India on complex reliability, recovery, and procurement initiatives; supported by a B.Tech. in Computer Science Engineering.",
+      "positioning_bridge": "Direct match to Booking's requirement for navigating technical/organizational complexity and influencing without formal authority."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Clear communication and stakeholder-management skills: align teams and senior leaders on priorities, dependencies, risks, and progress, and resolve issues that could affect delivery.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L107, canonical_master_profile.md:L341-L342, canonical_master_profile.md:L477-L488, canonical_master_profile.md:L553",
+      "evidence_summary": "Presented monthly business reviews and executive updates to VP/CXO stakeholders, prepared board-level strategic narratives and decision-support materials, managed initiative governance and operational follow-through, and completed UCI Project Management Specialization covering stakeholder communication and risk management.",
+      "positioning_bridge": "Highlight VP/CXO executive reporting, cross-team governance, and risk/dependency resolution."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Work closely with Engineering, Design, Data Science, and partners across Finance, Risk, Legal, Customer Service, and Operations to deliver high-quality products.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L93, canonical_master_profile.md:L367, canonical_master_profile.md:L485, canonical_master_profile.md:L493, canonical_master_profile.md:L655",
+      "evidence_summary": "Directly collaborated across Engineering, Product, Design, Data, Marketing, Finance, IT, and Operations teams at Lowe's India and Byju's (including partnering with Finance and Operations on the $2M enterprise asset lifecycle platform). Direct partnership with Risk, Legal, and Customer Service teams—or Data Science on payment risk/compliance—is not evidenced.",
+      "positioning_bridge": "Lead with proven Engineering, Design, Data, Finance, and Operations collaboration while presenting Risk, Legal, and Customer Service alignment as transferable from enterprise governance."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Identify opportunities, build go-to-market plans, and lead the launch of new products/capabilities.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L100, canonical_master_profile.md:L125, canonical_master_profile.md:L132-L133, canonical_master_profile.md:L262, canonical_master_profile.md:L271, canonical_master_profile.md:L373-L375",
+      "evidence_summary": "Built GTM plans and campaign/launch roadmaps for clients at Hype Marketing & Product Services (e.g., Programming Hub launch achieving 4.5+ ratings, Upraised +50% engagement and +30% website traffic), designed and launched the AI-driven procurement platform at Lowe's India (20% cycle time reduction), and launched Interactive Learning Experiences and Social Studies products at Byju's.",
+      "positioning_bridge": "Demonstrate end-to-end opportunity identification, GTM planning, and launch execution across enterprise and digital products; international payment-method domain specifics are assessed separately in DM-1 and IM-3."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Combine strategic thinking with hands-on delivery and bring diverse teams together around measurable outcomes.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L65-L100, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L440-L452",
+      "evidence_summary": "Combined executive strategic planning and roadmapping with hands-on product delivery across Lowe's India (~$10M annual revenue protection savings, $2M annual operational savings, 99.99% reliability, 20% cycle time reduction) and Byju's (2.5L+ SQLs, 35% lead conversion lift, 5% course completion lift).",
+      "positioning_bridge": "Strong alignment between strategic roadmapping and hands-on, metric-backed execution."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Use partner insights (e.g., PSPs, payment gateways, acquirers, commercial partners) alongside customer and performance insights to improve products.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L71, canonical_master_profile.md:L93, canonical_master_profile.md:L96-L99, canonical_master_profile.md:L131-L176, canonical_master_profile.md:L493",
+      "evidence_summary": "Partnered closely with internal Finance and Operations stakeholders at Lowe's India, built procurement/catalog workflows, and managed external client consulting engagements at Hype Marketing & Product Services; external payment service provider (PSP) or acquirer partner management is not evidenced.",
+      "positioning_bridge": "Bridge internal cross-functional stakeholder and external client consulting partnerships to external payment-partner collaboration without claiming PSP ecosystem experience."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Balance conversion and growth against payment risk, fraud, compliance, legal, and operational cost constraints.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L76-L95, canonical_master_profile.md:L342, canonical_master_profile.md:L489-L494, canonical_master_profile.md:L655",
+      "evidence_summary": "Balanced platform reliability (99.99%), order-cancellation reduction (~$10M revenue protection), and operational cost savings ($2M) alongside P&L/budgeting and UCI Project Risk Management coursework. However, regulatory/legal compliance, fraud/risk decisioning, and payment-specific counter-metrics are not documented.",
+      "positioning_bridge": "Frame enterprise reliability vs. cost/order-cancellation trade-offs as transferable analytical discipline for balancing payment conversion against risk and cost."
+    },
+    {
+      "id": "IM-3",
+      "category": "implicit",
+      "requirement": "Execute multi-market localization and country-by-country rollout of alternative and local payment methods across priority global markets.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L50, canonical_master_profile.md:L121, canonical_master_profile.md:L181, canonical_master_profile.md:L213, canonical_master_profile.md:L223-L224",
+      "evidence_summary": "No defensible evidence exists for multi-country payment localization or regional market-by-market payment rollout execution. All documented roles are Bangalore-based; while Byju's portfolio included global EdTech products (Tynker, WhiteHat Jr.), international payment or regional market launch ownership is not documented.",
+      "positioning_bridge": "Explicit gap; do not claim international market localization or regional payment rollout experience."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Pay-in payment methods domain expertise: shaping traveller payment experiences and launching alternative and local payment methods (APMs/LPMs) across Booking.com's business.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35, canonical_master_profile.md:L48-L316",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for payments, fintech, pay-in/checkout flows, alternative payment methods (APMs), local payment methods (LPMs), PSP integrations, or travel/hospitality commerce. Experience spans enterprise reliability/infrastructure operations and procurement (Lowe's India), EdTech products (Byju's), and growth/marketing consulting (Hype Marketing, HealthQ Rehab).",
+      "positioning_bridge": "Explicit domain gap; rely on transferable platform reliability, order-cancellation recovery, and high-scale funnel optimization rather than fabricating payments expertise."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "High-scale consumer/retail transaction reliability and conversion funnel optimization (reducing order failures/cancellations and improving conversion).",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L90, canonical_master_profile.md:L235-L237, canonical_master_profile.md:L386-L387",
+      "evidence_summary": "At Lowe's India (retail enterprise), led automated recovery and incident handling workflows that reduced order cancellations and saved ~$10M annually; at Byju's, optimized B2C product funnels to generate 2.5L+ SQLs and improve lead conversion by 35%. Neither role was in a travel marketplace or payment checkout domain.",
+      "positioning_bridge": "Bridge retail order-cancellation prevention at Lowe's India and B2C funnel conversion optimization at Byju's to payment conversion and reliability outcomes."
+    }
+  ],
+  "summary_counts": {
+    "direct": 6,
+    "adjacent": 6,
+    "gap": 2,
+    "total": 14
+  }
+}

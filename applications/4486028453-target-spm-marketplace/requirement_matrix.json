@@ -1,0 +1,183 @@
+{
+  "opportunity_id": "4486028453-target-spm-marketplace",
+  "company": "Target",
+  "role_title": "Sr Product Manager - Marketplace",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "Four-year degree or equivalent experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328",
+      "evidence_summary": "Holds a four-year B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015); also pursuing the Executive General Management Program at IIM Bangalore (2025–2026, ongoing, L321-L324).",
+      "positioning_bridge": "Exact match to the four-year degree requirement."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "6+ years of hands-on Product Management experience or equivalent domain experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L251-L253, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "Approximately 5 years in titled Product Manager and Senior Product Manager roles across Byju's (July 2020–April 2023) and Lowe's India (Sep 2024–Present), preceded by 5 years of hands-on product prototyping, UX journey design, and product team leadership at Byju's (June 2015–June 2020) plus digital product development and growth consulting at Hype Marketing & Product Services (Oct 2023–Nov 2024) — totaling 10+ years of product and equivalent domain experience.",
+      "positioning_bridge": "Directly meets 6+ years of hands-on PM or equivalent domain experience while keeping titled PM tenure (~5 years) and broader product/domain tenure (10+ years) accurately distinguished."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Proven success in building and scaling marketplaces, platforms, or complex multi-sided ecosystem.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L56-L100, canonical_master_profile.md:L221-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L303-L308",
+      "evidence_summary": "Built and scaled enterprise platforms at Lowe's India—including a unified enterprise asset lifecycle platform (~$2M annual cost savings), an AI-driven procurement and catalog system (20% cycle time reduction), and reliability/recovery platforms ensuring 99.99% reliability (~$10M annual revenue protection savings)—and built multi-product learning platforms and two-sided instructor/learner workflows at Byju's (12 cross-product prototypes; WhiteHat Jr. live-coding workflow reducing instructor training time by 15%).",
+      "positioning_bridge": "Lead with proven enterprise and multi-product platform scaling outcomes while transparently acknowledging these were enterprise/EdTech platforms rather than a 3P retail marketplace."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Deep understanding of marketplace economics, seller ecosystems, and buyer behavior.",
+      "classification": "Gap",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L99, canonical_master_profile.md:L235-L238, canonical_master_profile.md:L654",
+      "evidence_summary": "No defensible evidence exists in canonical_master_profile.md for 3P retail marketplace economics (e.g., take rates, marketplace liquidity, seller unit economics) or seller ecosystems. Consumer/learner funnel conversion (2.5L+ SQLs, 35% lead conversion improvement at Byju's) and internal store-setup procurement/catalog systems (Lowe's India) exist, but do not establish deep marketplace economics or 3P seller ecosystem expertise.",
+      "positioning_bridge": "Do not claim marketplace economics or seller ecosystem mastery; reference transferable B2C funnel conversion and internal procurement/catalog experience only as supporting context."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Strong technical aptitude and experience working closely with business, engineering, data science, and cross-functional enterprise teams.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L72, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L367, canonical_master_profile.md:L484-L488",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering (2011–2015), operates inside Lowe's India Reliability Engineering and Infrastructure & Operations launching AI-driven procurement and automated recovery systems, and collaborates across engineering, product, finance, operations, IT, marketing, design, and data teams (note: collaboration with Data teams and AI-driven workflows is documented, without claiming standalone ML/data science model ownership).",
+      "positioning_bridge": "Highlight CS engineering background, Reliability Engineering/Infrastructure PM tenure, and cross-functional enterprise alignment across engineering, business, operations, and data teams."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "Exceptional leadership, communication, and stakeholder management skills, including influencing outcomes without authority.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L93, canonical_master_profile.md:L307, canonical_master_profile.md:L477-L488, canonical_master_profile.md:L552-L558",
+      "evidence_summary": "Drove enterprise alignment without formal authority, presented monthly business reviews and board-level strategic narratives to VP/CXO stakeholders, coordinated finance, operations, IT, engineering, and product teams at Lowe's India, and led a team of 5 product leads for Commerce product development at Byju's.",
+      "positioning_bridge": "Emphasize executive communication, cross-functional influence without formal authority, and multi-stakeholder alignment across engineering, finance, and operations."
+    },
+    {
+      "id": "MH-7",
+      "category": "must_have",
+      "requirement": "Ability to think strategically while driving operational excellence.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L65-L100, canonical_master_profile.md:L435-L443, canonical_master_profile.md:L480-L494",
+      "evidence_summary": "Defined annual and quarterly strategic roadmaps, operating rhythms, and KPI governance while delivering measurable operational excellence at Lowe's India: 99.99% platform reliability, ~$10M annual revenue protection savings, ~$2M annual asset lifecycle savings, and 20% operational cycle time reduction.",
+      "positioning_bridge": "Pair strategic roadmapping and executive governance directly with quantified reliability and operational efficiency outcomes."
+    },
+    {
+      "id": "MH-8",
+      "category": "must_have",
+      "requirement": "Lead strategy, vision, and execution of a Seller Portal charter, partnering closely with engineering, design, operations, and analytics teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L91-L100, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L265-L268, canonical_master_profile.md:L306, canonical_master_profile.md:L367",
+      "evidence_summary": "Led strategy, vision, and execution for enterprise platforms (unified asset lifecycle platform, AI-driven procurement and catalog system at Lowe's India) and digital/internal platforms (Byju's Xcel Masterclasses, Tynker redesign, Elevate internal tracking platform UX), partnering with engineering, design, operations, and data teams. Has not owned an external 3P retail Seller Portal.",
+      "positioning_bridge": "Bridge end-to-end ownership of internal enterprise procurement/asset portals and EdTech product ecosystems to leading Target+'s Seller Portal vision and execution."
+    }
+  ],
+  "preferred": [],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Customer/guest empathy, UX simplicity and intuitiveness, and personalization across digital experiences.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L266-L283, canonical_master_profile.md:L306, canonical_master_profile.md:L387, canonical_master_profile.md:L651",
+      "evidence_summary": "Led UX and user journey optimization initiatives (Tynker app redesign increasing course completion by 5%, Elevate internal tracking platform UX, funnel friction reduction increasing lead conversion by 35%). Direct personalization-system ownership is not claimed in canonical_master_profile.md (L651).",
+      "positioning_bridge": "Highlight UX simplification and user journey optimization outcomes without claiming dedicated personalization-engine ownership."
+    },
+    {
+      "id": "IM-2",
+      "category": "implicit",
+      "requirement": "Systems thinking and scalable workflow orchestration to help users take the right actions at the right time.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L524-L535, canonical_master_profile.md:L560-L563",
+      "evidence_summary": "Translated complex operational problems into intelligent, scalable workflow systems at Lowe's India—including automated recovery systems, incident/SLA escalation workflows (~$10M annual revenue protection), unified asset lifecycle management (~$2M savings), and AI-driven procurement workflows (-20% cycle time).",
+      "positioning_bridge": "Directly showcase systems thinking and automated, action-oriented workflow orchestration from Lowe's India."
+    },
+    {
+      "id": "IM-3",
+      "category": "implicit",
+      "requirement": "On-site full-time availability in Bengaluru East, Karnataka, India.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L10, canonical_master_profile.md:L50, canonical_master_profile.md:L121, canonical_master_profile.md:L181, canonical_master_profile.md:L213",
+      "evidence_summary": "Located in Bangalore, Karnataka, India, with all career roles based in Bangalore.",
+      "positioning_bridge": "Direct location match for on-site Bangalore role."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Own seller lifecycle engagement across activation, adoption, performance improvement, and re-engagement.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L76-L81, canonical_master_profile.md:L134-L161, canonical_master_profile.md:L184-L198, canonical_master_profile.md:L235-L239, canonical_master_profile.md:L373-L390",
+      "evidence_summary": "Owned lifecycle engagement, activation, adoption, and re-engagement across consumer, EdTech, and consulting engagements (Hype: 30% email open rate, 20% CTR, 80%+ completion rates; HealthQ: +35% organic traffic, +50% social engagement; Byju's: 2.5L+ SQLs, +35% lead conversion, +5% course completion) as well as platform adoption KPIs at Lowe's India. Not previously executed for 3P marketplace sellers.",
+      "positioning_bridge": "Bridge proven customer/user lifecycle engagement and platform adoption work to 3P seller activation, adoption, and re-engagement."
+    },
+    {
+      "id": "DM-2",
+      "category": "domain",
+      "requirement": "Design data-driven nudges, reminders, and interventions that influence behavior and improve compliance, quality, and productivity.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67-L70, canonical_master_profile.md:L84-L100, canonical_master_profile.md:L134-L137, canonical_master_profile.md:L153-L157, canonical_master_profile.md:L185-L186, canonical_master_profile.md:L524-L528",
+      "evidence_summary": "Designed automated recovery and SLA/escalation workflows at Lowe's India (~$10M revenue protection), AI-driven procurement workflows (20% cycle time reduction), and targeted email/WhatsApp/Telegram/newsletter communication workflows at Hype and HealthQ (30% open rate, 20% CTR). Differs in that prior nudges/interventions targeted consumers and internal ops rather than 3P seller compliance and marketplace listing quality.",
+      "positioning_bridge": "Connect operational escalation/workflow triggers and multi-channel lifecycle communications to designing data-driven seller nudges and compliance interventions."
+    },
+    {
+      "id": "DM-3",
+      "category": "domain",
+      "requirement": "Enable users to easily understand required actions and why, reducing friction and support dependency, and driving measurable behavior change.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L99, canonical_master_profile.md:L261-L268, canonical_master_profile.md:L306, canonical_master_profile.md:L387, canonical_master_profile.md:L390",
+      "evidence_summary": "Reduced funnel friction (+35% lead conversion at Byju's), redesigned Tynker with assessments and DIY learning modules (+5% course completion), redesigned WhiteHat Jr. live-coding workflows (-15% instructor training time), and launched AI-driven procurement and catalog workflows reducing store-setup cycle times by 20%. Differs in that users were learners, instructors, and internal ops teams rather than external sellers, and support-ticket dependency reduction is not explicitly quantified.",
+      "positioning_bridge": "Bridge workflow simplification, training-time reduction (-15%), and funnel friction removal (+35% conversion) to enabling self-serve seller clarity."
+    },
+    {
+      "id": "DM-4",
+      "category": "domain",
+      "requirement": "Define KPIs for marketplace success.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L76-L82, canonical_master_profile.md:L137, canonical_master_profile.md:L188, canonical_master_profile.md:L455-L463",
+      "evidence_summary": "Designed KPI frameworks and executive dashboards at Lowe's India tracking platform adoption, incident resolution, cost savings, and operational efficiency, and evaluated engagement/conversion metrics at Byju's, Hype, and HealthQ. Differs in that KPIs were defined for enterprise operations and EdTech/marketing funnels rather than a 3P retail marketplace.",
+      "positioning_bridge": "Demonstrate rigorous KPI framework design and executive dashboarding capability as the foundation for defining Target+ marketplace success metrics."
+    },
+    {
+      "id": "DM-5",
+      "category": "domain",
+      "requirement": "Use data and experimentation (A/B testing, cohort analysis) to refine features and improve adoption.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L232, canonical_master_profile.md:L247, canonical_master_profile.md:L366, canonical_master_profile.md:L389, canonical_master_profile.md:L646, canonical_master_profile.md:L656, canonical_master_profile.md:L660",
+      "evidence_summary": "Led product experimentation and iterative optimization using user engagement and completion signals at Byju's (+5% Tynker course completion) and analyzed platform adoption and workflow performance via internal enterprise analytics tools at Lowe's India. Specific A/B testing frameworks, cohort analysis, and commercial analytics tools (e.g., Amplitude, Mixpanel, Optimizely) are not directly documented in canonical_master_profile.md.",
+      "positioning_bridge": "Highlight iterative product experimentation and internal-tool operational/adoption analytics while avoiding overclaiming unvalidated A/B testing or third-party tool usage."
+    },
+    {
+      "id": "DM-6",
+      "category": "domain",
+      "requirement": "Drive AI/ML powered insights.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L61, canonical_master_profile.md:L96-L99, canonical_master_profile.md:L464-L466, canonical_master_profile.md:L530-L534, canonical_master_profile.md:L652",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system at Lowe's India (20% operational cycle time reduction) and built operational analytics frameworks. Differs in that standalone ML decisioning or seller-insight model ownership is not claimed.",
+      "positioning_bridge": "Bridge AI-driven procurement/catalog workflows and operational analytics frameworks at Lowe's India to driving AI/ML-powered seller insights."
+    },
+    {
+      "id": "DM-7",
+      "category": "domain",
+      "requirement": "Retail and e-commerce digital shopping / store-network fulfillment ecosystem context.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100",
+      "evidence_summary": "Works in enterprise retail technology at Lowe's India (Reliability Engineering and Infrastructure & Operations), driving order cancellation reduction (~$10M annual revenue protection) and AI-driven procurement and catalog systems for store setup teams (20% cycle time reduction). Differs in that Lowe's work focused on internal reliability, infrastructure, and store-setup operations rather than shopper-facing e-commerce or 3P marketplace fulfillment.",
+      "positioning_bridge": "Leverage Lowe's India enterprise retail reliability, order-protection, and store-setup procurement context as adjacent retail domain grounding."
+    }
+  ],
+  "summary_counts": {
+    "direct": 8,
+    "adjacent": 9,
+    "gap": 1,
+    "total": 18
+  }
+}
