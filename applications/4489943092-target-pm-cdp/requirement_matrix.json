@@ -1,0 +1,103 @@
+{
+  "opportunity_id": "4489943092-target-pm-cdp",
+  "company": "Target",
+  "role_title": "Product Manager - Customer Data Platform",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "Four-year degree or equivalent experience.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328",
+      "evidence_summary": "B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Directly meets requirement."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "4+ years of product management experience or equivalent domain experience, preferably in retail, customer experience, and/or analytics.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L119-L283",
+      "evidence_summary": "6+ years in formal PM/SPM roles (Lowe's India in Fortune-50 retail enterprise operations Sep 2024–Present; Byju's July 2020–April 2023) plus customer engagement, lifecycle marketing, and analytics leadership at Hype and HealthQ Rehab.",
+      "positioning_bridge": "Strong direct match combining Fortune-50 retail experience at Lowe's India with customer engagement, lifecycle marketing, and analytics experience."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Develop comprehensive product strategy, roadmap, backlog (epics, user stories), business cases, and OKRs/KPIs for Customer Interactions & Communications products.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L83, canonical_master_profile.md:L131-L161, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L355-L405",
+      "evidence_summary": "Defined quarterly/annual roadmaps and KPI frameworks at Lowe's India; led customer communication workflows, lifecycle/email marketing (30% open rate, 20% CTR at Gradiant), multi-channel engagement (WhatsApp, Telegram, newsletters at HealthQ Rehab driving 20% brand engagement lift), and funnel conversion (35% lift at Byju's).",
+      "positioning_bridge": "Combine Lowe's enterprise platform roadmapping with multi-channel customer communications and lifecycle engagement ownership."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience with technology and ability to facilitate communication between business and technology teams (engineers, UX designers, data scientists, business partners).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L367-L368, canonical_master_profile.md:L484-L488",
+      "evidence_summary": "Partnered across Product, Engineering, Marketing, Operations, Finance, IT, Design, and Data teams at Lowe's India and Byju's to translate operational and customer challenges into scalable platform solutions.",
+      "positioning_bridge": "Directly emphasize cross-functional orchestration between engineering, design, data, and business stakeholders."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Experience working in an agile environment (user stories, iterative development, scrum teams, sprints, personas) and leading a body of work with cross-functional partners.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L445-L453",
+      "evidence_summary": "Led agile product delivery, iterative experimentation, quarterly planning cycles, and cross-functional execution across Lowe's India and Byju's.",
+      "positioning_bridge": "Directly supported by core PM delivery track record."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience with Customer Data Platform (CDP) backbone datasets (bronze/silver layers) powering 30+ AI/ML decisioning models, Audience Platform, Next Best Action, and Customer360 marketing activations.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L138, canonical_master_profile.md:L355-L405, canonical_master_profile.md:L648-L658",
+      "evidence_summary": "Built data-driven engagement pipelines, lifecycle marketing programs, customer journey optimizations, and product experiments across Hype, HealthQ Rehab, and Byju's, and AI-driven workflows at Lowe's. As noted in L649-L653 and L663-L664, direct ownership of production CDP bronze/silver data layers, audience segmentation models, or ML marketing decisioning models is adjacent rather than direct.",
+      "positioning_bridge": "Frame multi-channel customer journey optimization, lifecycle targeting, experimentation (Byju's 35% conversion lift, Gradiant 30% open / 20% CTR), and Lowe's enterprise data/AI platforms as strong transferable foundations for owning Target's CDP communications product."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience with production ML applications and expanding agentic capabilities in partnership with enterprise engineering teams.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (reducing cycle times by 20%) and automated recovery workflows (~$10M annual revenue protection) in partnership with engineering teams at Lowe's India.",
+      "positioning_bridge": "Directly highlight Lowe's AI-driven procurement/catalog workflows and automated operational recovery agents."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Enable experimentation through A/B tests, real-time triggers, and social commerce / creative content workflows.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L141-L161, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L372-L391",
+      "evidence_summary": "Led product experimentation and funnel optimization at Byju's (35% lead conversion increase, 5% course completion lift on Tynker) and executed content, social, and lifecycle campaigns at Hype and HealthQ Rehab (50% social engagement lift, 35% organic traffic increase).",
+      "positioning_bridge": "Directly connect product experimentation and multi-channel communication triggers to CDP activation use cases."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Large-scale Retail, Customer Experience, and Marketing Technology (CDP / Customer Communications).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L355-L405",
+      "evidence_summary": "Combines Fortune-50 home improvement retail platform experience at Lowe's India with hands-on MarTech, lifecycle marketing, and customer communication channel optimization at Hype, HealthQ Rehab, and Byju's.",
+      "positioning_bridge": "High synergy between Lowe's enterprise retail context and prior lifecycle marketing/customer engagement leadership."
+    }
+  ],
+  "summary_counts": {
+    "direct": 8,
+    "adjacent": 1,
+    "gap": 0,
+    "total": 9
+  }
+}

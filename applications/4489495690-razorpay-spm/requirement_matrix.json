@@ -1,0 +1,112 @@
+{
+  "opportunity_id": "4489495690-razorpay-spm",
+  "company": "Razorpay",
+  "role_title": "Senior Product Manager (Onboarding Infra & Agentic Onboarding)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "4 to 8 years of product management, with at least 2 years owning a platform, API or infrastructure product.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L217-L283",
+      "evidence_summary": "6+ years in formal PM/SPM roles (Byju's July 2020–April 2023; Lowe's India Sep 2024–Present) plus earlier internal tooling/product roles at Byju's (2015–2020), owning enterprise reliability, asset lifecycle, and AI procurement platforms at Lowe's.",
+      "positioning_bridge": "Directly meets total PM tenure and platform/infrastructure product ownership via Lowe's India."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Own platform reliability (SLOs, incident load, support tickets caused by system issues), observability triage, and workflow orchestration.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L90, canonical_master_profile.md:L524-L529",
+      "evidence_summary": "Ensured 99.99% reliability for key business platforms at Lowe's India, defined roadmaps targeting 20% reduction in incident volume, and led automated recovery systems and incident handling workflows saving ~$10M annually.",
+      "positioning_bridge": "Direct match on platform reliability, SLA/escalation workflows, and incident load reduction."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Reads and writes API specs (REST, OpenAPI), designs service contracts, and reviews tech specs on data models, state transitions, idempotency, retries, and eventual consistency.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "While holding a B.Tech. in CSE (L325-L328) and owning enterprise workflow platforms at Lowe's (L65-L100), canonical_master_profile.md does not document authoring REST/OpenAPI specs, idempotency/retry state machines, or distributed systems architecture specs.",
+      "positioning_bridge": "Per AGENTS.md Gate 6 rules, never fabricate API spec or distributed-systems architecture ownership on the CV; in interviews, discuss high-level workflow orchestration and partner engineering alignment."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Turn regulation into system design with Compliance, Legal and Risk: RBI KYC directions, CKYC, and the DPDP Act; know PII handling, encryption, access control, and data vaulting.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "canonical_master_profile.md explicitly notes under L655 that privacy, consent, and regulatory compliance are not currently evidenced, and contains no RBI KYC, CKYC, DPDP Act, or PII vaulting experience.",
+      "positioning_bridge": "Strict Gap; do not claim KYC, DPDP, or PII vaulting experience."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Has shipped or prototyped with LLMs and agents: tool calling, agent orchestration, evals and guardrails; fluent in SQL.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472",
+      "evidence_summary": "Designed and launched an AI-driven procurement and catalog system (20% cycle time reduction) and automated recovery workflows at Lowe's India, and analyzed funnel/engagement data across roles, but does not document LLM tool-calling APIs, evals, or hands-on SQL query authoring.",
+      "positioning_bridge": "Present Lowe's AI-driven procurement and automated recovery workflows honestly as enterprise AI workflow orchestration without inventing LLM tool-calling APIs or eval frameworks."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Engineering foundation: degree in CS/Engineering and ideally 2+ years as a software engineer or solutions architect before moving into product.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L286-L308, canonical_master_profile.md:L325-L328",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering (2011–2015) and built interactive learning prototypes and UX journeys at Byju's (2015–2020), though did not hold a formal Software Engineer or Solutions Architect title.",
+      "positioning_bridge": "Highlight B.Tech. in Computer Science Engineering and early technical product prototyping foundation."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Fintech, payments, banking, lending, identity (OAuth, SSO, OTP), or India KYC stack (CKYC, video KYC, DigiLocker, PAN, GSTIN, Udyam) experience.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No fintech, payments, RBI audit, OAuth/SSO identity, or India KYC stack experience exists in canonical_master_profile.md (and AGENTS.md explicitly prohibits fabricating OAuth/security architecture).",
+      "positioning_bridge": "Acknowledge fintech/KYC/identity domain gap; emphasize founder experience (Hype Marketing & Product Services, L119-L122) and high-reliability enterprise workflow execution."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Founder or early-stage experience building from zero.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L119-L161",
+      "evidence_summary": "Founder of Hype Marketing & Product Services (Oct 2023–Nov 2024), building GTM, growth, lifecycle marketing, and digital learning product strategies for multiple clients.",
+      "positioning_bridge": "Directly highlight Founder experience and 0-to-1 product launches at Byju's and Lowe's."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Pick and manage external verification partners against SLA-backed contracts on coverage, accuracy, latency, uptime, and cost.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Managed SLA and escalation workflows, 99.99% platform reliability, and AI-driven procurement and asset lifecycle systems ($2M cost savings) at Lowe's India, though not specifically for KYC verification bureaus.",
+      "positioning_bridge": "Bridge from enterprise procurement, asset lifecycle cost optimization, and SLA governance at Lowe's."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Regulated Fintech Merchant Onboarding, Identity Verification (KYC/AML), and Payments Compliance.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No fintech, merchant onboarding, KYC/AML, or RBI regulatory domain experience in canonical_master_profile.md.",
+      "positioning_bridge": "Material domain gap; mitigate by focusing on high-scale funnel conversion (Byju's 35% conversion lift) and enterprise platform reliability (Lowe's 99.99% uptime)."
+    }
+  ],
+  "summary_counts": {
+    "direct": 3,
+    "adjacent": 3,
+    "gap": 4,
+    "total": 10
+  }
+}

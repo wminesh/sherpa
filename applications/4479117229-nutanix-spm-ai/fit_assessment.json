@@ -1,0 +1,76 @@
+{
+  "opportunity_id": "4479117229-nutanix-spm-ai",
+  "company": "Nutanix",
+  "role_title": "Senior Product Manager - Product Adoption, Insights & AI",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 90,
+  "priority_band": "High Priority",
+  "disposition": "High Priority",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 92,
+      "weighted_score": 23.0,
+      "rationale": "Direct, comprehensive match on defining product strategy, multi-quarter roadmaps, market/stakeholder discovery, and cross-functional execution across Lowe's India and Byju's (lines 64-72, 227-238)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 88,
+      "weighted_score": 17.6,
+      "rationale": "Directly sits at the intersection of Minesh's core strengths: designing KPI and dashboard frameworks for platform adoption, operational efficiency, and executive decision-making at Lowe's (lines 67, 77-81, 477-485) plus driving product adoption, user engagement, and retention across Byju's and Hype Marketing & Product Services (lines 147-151, 228-238)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 84,
+      "weighted_score": 16.8,
+      "rationale": "B.Tech in Computer Science (lines 325-327) with direct experience in enterprise infrastructure/platform operations, KPI/telemetry dashboard development, and AI-driven workflow/operational systems at Lowe's India (lines 53-62, 67-70, 96-99, 464-467)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 92,
+      "weighted_score": 13.8,
+      "rationale": "Exceeds the 7+ years overall and 5+ years PM requirement (~11 years total experience, ~6 years in formal PM titles, currently Senior PM at Lowe's India). B.Tech CS meets the engineering degree requirement, and ongoing IIM Bangalore EGMP (lines 321-323) aligns with the preferred MBA/management credential."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 88,
+      "weighted_score": 8.8,
+      "rationale": "Strong measurable outcomes across platform reliability and adoption (99.99% reliability, 20% cycle time reduction, ~$10M revenue protection, $2M cost savings) and user conversion/adoption (35% conversion lift, 2.5L+ SQLs, 4.5+ product ratings)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 94,
+      "weighted_score": 4.7,
+      "rationale": "Extensive track record partnering across Product, Engineering, Operations, Finance, Marketing/GTM, and VP/CXO leadership to drive alignment and governance (lines 65-71, 475-494)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 96,
+      "weighted_score": 4.8,
+      "rationale": "Bangalore hybrid role matches candidate's Bangalore location with zero relocation friction."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Portfolio-wide strategy, roadmap, and execution for Product Adoption & Insights, customer health metrics, executive reporting, and AI-powered recommendations.",
+    "seniority_alignment": "Exact match for Senior Product Manager (requires 7+ yrs total / 5+ yrs PM; candidate brings ~11 yrs total / ~6 yrs formal PM + IIM-B EGMP).",
+    "product_discipline": "Platform Adoption, Analytics, Telemetry Insights & AI Product Management — directly aligned with candidate's KPI dashboard, platform adoption, and AI workflow background.",
+    "domain_relevance": "High relevance combining enterprise infrastructure/platform operations (Lowe's India) with product-led adoption and customer lifecycle analytics (Byju's, Hype).",
+    "leadership_expectations": "Cross-functional alignment across Product, Customer Success, Sales, Renewals, Engineering, and Corporate Strategy — directly supported by executive governance and GTM/ops alignment experience.",
+    "evidence_strength": "Very high direct evidence across almost all required and preferred qualifications."
+  },
+  "key_strengths": [
+    "Led KPI and dashboard development for operational decision-making at Lowe's India, tracking platform adoption, incident resolution, cost savings, and operational efficiency across enterprise platforms (lines 67, 77-81).",
+    "Designed and launched AI-driven procurement/catalog workflows and automated recovery systems at Lowe's India, delivering 20% faster cycle times, ~$10M annual revenue protection, and $2M cost savings (lines 84-99).",
+    "Strong educational and executive communication pedigree: B.Tech CS (Manipal), IIM Bangalore EGMP (ongoing), and monthly VP/CXO business review leadership (lines 321-327, 477-485)."
+  ],
+  "positioning_angle": "Position as an Enterprise Platform & AI Strategy Senior Product Manager who combines deep infrastructure/reliability operations and KPI/adoption dashboard governance at Lowe's India with full-funnel product adoption, user engagement, and GTM execution. Highlight how AI-assisted workflows and agentic operational insights translate telemetry and adoption data into measurable customer value and retention.",
+  "red_flags_and_gaps": [
+    "B2B enterprise Customer Success / Renewals telemetry (specifically for hybrid-cloud infrastructure software like Nutanix) is adjacent to Lowe's internal enterprise platform adoption tracking and Byju's/Hype customer lifecycle analytics.",
+    "Ensure CV bridges enterprise platform KPI dashboards and AI workflow automation to customer health and adoption insights without claiming prior ownership of Nutanix-style B2B SaaS renewal/telemetry tooling."
+  ],
+  "assumptions_and_user_confirmations": []
+}

@@ -1,0 +1,77 @@
+{
+  "opportunity_id": "4480353427-sage-spm",
+  "company": "Sage",
+  "role_title": "Senior Product Manager (Sage Intacct Budgeting & Planning)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid (3 days per week in office)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 80,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong evidence of owning product roadmaps, translating customer and workflow research into requirements, defining feature success metrics, and coordinating cross-functional launches (lines 64-82, 227-238)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 72,
+      "weighted_score": 14.4,
+      "rationale": "Strong alignment on enterprise business operations, IT operations, finance stakeholder alignment, internal P&L/forecasting/budgeting ownership, and enterprise asset/procurement systems at Lowe's India (lines 65-71, 91-99, 459-462, 489-494). Adjacent (not direct) on building commercial external FP&A / multi-dimensional accounting software."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 80,
+      "weighted_score": 16.0,
+      "rationale": "Direct match on B.Tech CS degree, agile cloud/SaaS product delivery, and practical experience scoping and launching AI-driven workflow improvements (Lowe's AI-driven procurement/catalog platform, lines 96-99)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 76,
+      "weighted_score": 11.4,
+      "rationale": "Directly matches Senior Product Manager level; ~11 years total experience with ~6 years in formal PM titles is slightly below the stated '7+ years in B2B product management' if strictly counting B2B-only PM titles, though total product + consulting + enterprise tenure exceeds 10 years."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 82,
+      "weighted_score": 8.2,
+      "rationale": "Strong enterprise and commercial impact: $2M annual cost savings from unified asset lifecycle platform, ~$10M annual revenue protection, 20% cycle time reduction, and 35% conversion improvement."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Exceptional alignment with the JD's requirement to collaborate across Business Operations, IT Operations, Finance, Product Marketing, Sales, and international teams (lines 65-71, 367, 483-494)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 95,
+      "weighted_score": 4.75,
+      "rationale": "Bangalore hybrid (3 days/week in office) matches candidate's location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Senior Product Manager owning the roadmap, business workflow research, beta programs, and cross-functional business/IT operations enhancements for Sage Intacct Budgeting & Planning.",
+    "seniority_alignment": "Strong alignment with Senior Product Manager title and cross-organizational scope; slight stretch on 7+ years strictly B2B PM tenure (~6 years formal PM across B2C/EdTech and B2B Enterprise within ~11 years total career).",
+    "product_discipline": "B2B SaaS / Enterprise Financial & Business Operations Product Management — strong match with candidate's enterprise workflow, finance-partnered platforms, and GTM background.",
+    "domain_relevance": "Direct experience owning internal P&L, forecasting, budgeting, headcount planning, and finance-partnered asset lifecycle platforms ($2M savings); adjacent to commercial FP&A accounting software.",
+    "leadership_expectations": "Cross-company coordination across Business Ops, IT Ops, Product Marketing, Support, and Sales — directly evidenced across Lowe's India and Hype.",
+    "evidence_strength": "High direct/adjacent coverage across required skills; nice-to-have FP&A software domain is bridged via hands-on financial/budgeting governance and IIM Bangalore EGMP."
+  },
+  "key_strengths": [
+    "Spearheaded a unified enterprise asset lifecycle platform in partnership with Finance and Operations stakeholders at Lowe's India, delivering ~$2M in annual cost savings (lines 91-95).",
+    "Owned P&L responsibilities, forecasting, budgeting, investment prioritization, and headcount planning across strategic product and operational initiatives (lines 458-462, 489-494).",
+    "Designed and launched an AI-driven procurement and catalog system reducing operational cycle times by 20%, alongside collaborating across Business Ops, IT Ops, and Marketing teams (lines 65-71, 96-99)."
+  ],
+  "positioning_angle": "Position as an Enterprise SaaS & Financial Operations Senior Product Manager who partners deeply with Finance, Business Operations, IT Operations, and Product Marketing to streamline enterprise provisioning, asset lifecycle ($2M savings), and AI-driven procurement workflows (20% cycle time reduction). Bridge hands-on P&L, forecasting, and budgeting governance (plus IIM Bangalore executive management training) to Sage Intacct Budgeting & Planning.",
+  "red_flags_and_gaps": [
+    "No prior experience building a commercial multi-dimensional FP&A or accounting software product (listed as 'Nice to Have' in the JD).",
+    "Formal PM title tenure is ~6 years across EdTech and Enterprise (within ~11 years total career), slightly short of 7+ years exclusively in B2B PM.",
+    "Explicit beta program administration is adjacent to prototyping and iterative product launch management (12 cross-product prototypes at Byju's)."
+  ],
+  "assumptions_and_user_confirmations": []
+}

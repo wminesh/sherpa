@@ -1,0 +1,78 @@
+{
+  "opportunity_id": "4488864307-elsa-pm-b2c",
+  "company": "ELSA, Corp",
+  "role_title": "Product Manager, B2C",
+  "location": "India (Remote)",
+  "workplace_mode": "Remote",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 87,
+  "priority_band": "High Priority",
+  "disposition": "High Priority",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 90,
+      "weighted_score": 22.5,
+      "rationale": "Deep direct evidence owning end-to-end B2C learning product experiences across onboarding, assessments, interactive practice, engagement loops, experimentation, and conversion funnels (lines 227-283, 385-391)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 94,
+      "weighted_score": 18.8,
+      "rationale": "Exceptional domain fit: ~8 years building and scaling flagship B2C EdTech and digital learning products at Byju's (Xcel Masterclasses, Tynker, WhiteHat Jr., Social Studies) plus consumer/digital learning apps at Hype (Programming Hub, Acadecraft) (lines 147-161, 212-316)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 75,
+      "weighted_score": 15.0,
+      "rationale": "B.Tech CS foundation plus AI-enabled workflow design at Lowe's and product experimentation/analytics across roles. However, specific consumer analytics tool names (Amplitude, Mixpanel, Firebase) and preferred hands-on Python scripting / RAG pipelines / LangChain are not explicitly documented in canonical_master_profile.md."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 80,
+      "weighted_score": 12.0,
+      "rationale": "Exceeds the 5+ years PM experience requirement (~6 years formal PM, ~11 years total experience) and reports directly to the Senior Director of Product Management with high end-to-end B2C ownership, though the title is 'Product Manager, B2C' rather than 'Senior Product Manager'."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 92,
+      "weighted_score": 9.2,
+      "rationale": "Directly relevant B2C EdTech and growth outcomes: 2.5L+ SQLs, 35% lead conversion lift, 5% course completion increase via Tynker app redesign and assessments, 15% instructor training time reduction on WhiteHat Jr., 80%+ completion rates at Acadecraft, and 4.5+ ratings for Programming Hub."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 88,
+      "weighted_score": 4.4,
+      "rationale": "Proven leadership across Product, Engineering, Design, Content, Marketing/Growth, and senior executives across distributed teams."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 98,
+      "weighted_score": 4.9,
+      "rationale": "Remote India role offers seamless location fit from Bangalore."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "High-ownership end-to-end B2C Product Manager role owning onboarding, assessment, learning habits, AI coaching features, experimentation, and subscription conversion for a 50M+ learner AI English app.",
+    "seniority_alignment": "Exceeds 5+ years PM requirement and reports to Senior Director of PM; title is 'Product Manager, B2C' vs. current 'Senior Product Manager' title at Lowe's India.",
+    "product_discipline": "B2C EdTech, Consumer Growth & AI Learning Experience Product Management — core career sweet spot combining Byju's/Programming Hub EdTech mastery with recent AI workflow credentials.",
+    "domain_relevance": "Direct, deep domain alignment with consumer EdTech, interactive learning loops, assessments, funnel conversion, and habit-building.",
+    "leadership_expectations": "Act as voice of the consumer and align Engineering, AI/ML, Design, Data, and Growth/Marketing teams alongside senior leadership.",
+    "evidence_strength": "Very strong direct evidence across almost all Must-Haves and Strongly Preferred EdTech/growth qualifications; specific analytics tool names (Amplitude/Mixpanel) and RAG/Python scripting are gaps/unverified."
+  },
+  "key_strengths": [
+    "Led B2C learning product strategy and funnel optimization at Byju's (Xcel Masterclasses, Tynker, WhiteHat Jr.), generating 2.5L+ SQLs, improving lead conversion by 35%, and building 12 cross-product learning prototypes (lines 221-239, 386-391).",
+    "Led Tynker app redesign adding assessments and DIY learning modules (+5% course completion), built 300+ interactive learning experiences, and drove Programming Hub to 4.5+ ratings and Acadecraft to 80%+ completion rates (lines 147-161, 265-275).",
+    "Brings recent enterprise AI workflow and automation leadership from Lowe's India (lines 96-99) to complement deep consumer EdTech product craft."
+  ],
+  "positioning_angle": "Position as a seasoned B2C EdTech & AI Product Leader who has built and scaled interactive learning apps, assessments, onboarding flows, and acquisition-to-conversion funnels for millions of learners across Byju's, Tynker, WhiteHat Jr., and Programming Hub (2.5L+ SQLs, +35% conversion, +5% course completion, 4.5+ app ratings), now augmented by AI-driven workflow and agentic system design at Lowe's India.",
+  "red_flags_and_gaps": [
+    "Title is 'Product Manager, B2C' (reporting to Senior Director of PM), which is a nominal title step-down from 'Senior Product Manager' at Lowe's India.",
+    "Specific analytics platforms named in the JD (Amplitude, Mixpanel, GA4, Firebase, Optimizely) and preferred technical skills (Python scripting, RAG pipelines, LangChain) are not explicitly listed in canonical_master_profile.md — do not fabricate RAG, LangChain, or unverified tool names."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm which specific product analytics tools (e.g., GA4, Mixpanel, Amplitude, Firebase) Minesh has used hands-on if he wishes to surface them in interview discussions, while keeping the CV strictly anchored to canonical_master_profile.md."
+  ]
+}

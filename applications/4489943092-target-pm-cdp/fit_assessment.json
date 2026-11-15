@@ -1,0 +1,79 @@
+{
+  "opportunity_id": "4489943092-target-pm-cdp",
+  "company": "Target",
+  "role_title": "Product Manager - Customer Data Platform",
+  "location": "Bengaluru East, Karnataka, India",
+  "workplace_mode": "Hybrid / On-site",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 83,
+  "priority_band": "High Priority",
+  "disposition": "Declined by User (Gate 9)",
+  "confidence_level": "High",
+  "recommendation": "Do Not Apply (Declined by User)",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 90,
+      "weighted_score": 22.5,
+      "rationale": "Directly meets and exceeds all stated 'About You' PM craft requirements: product strategy, roadmap, OKRs/KPIs, business cases, backlog prioritization, agile execution, and cross-functional delivery (lines 64-82, 227-238, 355-368)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 82,
+      "weighted_score": 16.4,
+      "rationale": "Strong dual alignment: Fortune 50 US retail enterprise platform experience at Lowe's India (lines 48-100) combined with multi-channel customer communications, lifecycle marketing, campaign orchestration, and engagement analytics across Hype, HealthQ, and Byju's (lines 131-138, 183-198, 355-405)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 76,
+      "weighted_score": 15.2,
+      "rationale": "B.Tech in CS (lines 325-327) with direct ownership of AI-driven enterprise platforms at Lowe's and data-driven engagement/experimentation pipelines (lines 96-99, 232, 377). Adjacent (rather than direct) on owning underlying bronze/silver CDP data lake layers and 30+ production ML marketing decisioning models (lines 648-665)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 74,
+      "weighted_score": 11.1,
+      "rationale": "Easily exceeds the 4+ years PM experience requirement (~6 years formal PM, ~11 years total experience). Note that the role is titled 'Product Manager' rather than 'Senior Product Manager', which may represent a title step-down or lateral band relative to Lowe's India SPM, though the horizontal enterprise scope is substantial."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 85,
+      "weighted_score": 8.5,
+      "rationale": "Strong evidence across both retail enterprise impact (~$10M revenue protection, $2M cost savings, 20% cycle time reduction) and customer communication/conversion metrics (35% lead conversion lift, 30% email open rate, 20% CTR, 50% engagement increase)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Proven track record operating in a Fortune 50 US retailer's Bangalore tech center (Lowe's India), aligning engineering, UX, data, finance, and business stakeholders."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 95,
+      "weighted_score": 4.75,
+      "rationale": "Bengaluru East hybrid/on-site aligns directly with candidate's Bangalore location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Product strategy, roadmap, OKRs, and backlog ownership for Target's Customer Interactions & Communications dataset/platform within the Customer Data Platform (CDP) organization, powering personalization, marketing activations, and agentic systems.",
+    "seniority_alignment": "Exceeds the 4+ years PM requirement; potential title compression ('Product Manager' vs. current 'Senior Product Manager' at Lowe's India) should be evaluated during recruiter screening.",
+    "product_discipline": "Data/MarTech Platform & Customer Communications Product Management \u2014 strong synthesis of candidate's retail platform PM and lifecycle communications experience.",
+    "domain_relevance": "High relevance: combines Fortune 50 home-improvement retail GCC experience (Lowe's India) with customer communications, lifecycle engagement, and funnel experimentation.",
+    "leadership_expectations": "Cross-functional leadership across engineers, UX designers, data scientists, and retail business partners \u2014 directly evidenced.",
+    "evidence_strength": "100% of the 'About You' required qualifications are directly supported; CDP data-layer and ML marketing decisioning models are adjacent/transferable (per canonical_master_profile.md lines 648-665)."
+  },
+  "key_strengths": [
+    "Direct Fortune 50 US retail enterprise platform experience as Senior Product Manager at Lowe's India, delivering AI-driven procurement/catalog platforms (20% faster cycle times) and ~$10M in annual revenue protection (lines 48-100).",
+    "Extensive multi-channel customer communications and lifecycle engagement track record (35% conversion lift at Byju's; 30% open rate & 20% CTR at Gradiant; 50% engagement increase at Upraised & HealthQ) (lines 370-391).",
+    "Strong technical foundation (B.Tech CS) with proven ability to bridge business, marketing, engineering, and data teams."
+  ],
+  "positioning_angle": "Position as a Retail Enterprise Platform & Customer Engagement Product Leader who uniquely combines Fortune 50 retail platform & AI workflow execution at Lowe's India with multi-channel customer communications, lifecycle orchestration, and experimentation across Byju's, Hype, and HealthQ. Frame Lowe's AI-driven catalog/operational workflows and automated recovery agents as transferable foundation for Target's AI/agentic customer interaction systems.",
+  "red_flags_and_gaps": [
+    "Title is 'Product Manager' (requiring 4+ years PM) versus Minesh's current 'Senior Product Manager' role at Lowe's India \u2014 verify level/band parity during recruiter call.",
+    "Per canonical_master_profile.md lines 648-665, customer segmentation, personalization, and ML decisioning are adjacent/transferable from KPI-driven engagement and Lowe's AI workflows; do not claim direct prior ownership of a bronze/silver CDP data lake or 30+ production marketing ML decisioning models."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm willingness to apply to a 'Product Manager' titled role at Target India (which may map to L5/Senior IC depending on Target's internal leveling)."
+  ],
+  "user_decision_gate_9": "DECLINED_BY_USER (2026-11-12: User opted not to apply for the Target Product Manager role)"
+}

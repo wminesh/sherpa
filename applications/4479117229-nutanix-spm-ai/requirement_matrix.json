@@ -1,0 +1,103 @@
+{
+  "opportunity_id": "4479117229-nutanix-spm-ai",
+  "company": "Nutanix",
+  "role_title": "Senior Product Manager - Product Adoption, Insights & AI",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "B.E./M.Tech in Computer Science, Engineering, Analytics, or a related field is required.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328",
+      "evidence_summary": "Holds B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Exact match to required engineering degree."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "7+ years of overall experience, including 5+ years in Product Management.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L51, canonical_master_profile.md:L119-L122, canonical_master_profile.md:L217-L220, canonical_master_profile.md:L286-L288",
+      "evidence_summary": "10+ years of overall professional experience (since June 2015) with 6+ years in dedicated Product Management and Senior Product Management roles at Byju's (July 2020–April 2023) and Lowe's India (Sep 2024–Present), plus earlier product prototyping and team leadership roles (2015–2020).",
+      "positioning_bridge": "Directly meets both total tenure and 5+ years PM requirement."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Define and drive strategy, roadmap, and execution for Product Adoption & Insights, including adoption frameworks, customer health metrics, and executive reporting.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L83, canonical_master_profile.md:L454-L463, canonical_master_profile.md:L477-L488",
+      "evidence_summary": "At Lowe's India, defined quarterly priorities and operational roadmaps, led KPI and dashboard development for operational decision-making, designed KPI frameworks tracking incident resolution, cost savings, platform adoption, and operational efficiency, and presented monthly business reviews and executive updates to VP/CXO stakeholders.",
+      "positioning_bridge": "Highlight direct ownership of platform adoption KPI frameworks, executive reporting, and multi-quarter roadmaps at Lowe's India."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Demonstrated analytical and problem-solving skills with the ability to translate complex data into actionable business insights.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L40-L43, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L454-L463",
+      "evidence_summary": "Translated operational, reliability, and funnel data into high-impact interventions across Lowe's (~$10M revenue protection savings, $2M asset lifecycle savings, 20% cycle time reduction) and Byju's (35% lead conversion improvement, 2.5L+ SQLs).",
+      "positioning_bridge": "Demonstrate end-to-end data-to-action execution across enterprise operations and product growth."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Partner closely across Product Management, Customer Success, Sales, Renewals, Engineering, and Corporate Strategy teams to improve adoption, retention, and growth.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L228-L239, canonical_master_profile.md:L367-L368, canonical_master_profile.md:L484-L488",
+      "evidence_summary": "Coordinated across engineering, product, finance, operations, IT, marketing, and executive leadership teams at Lowe's India and Byju's, driving enterprise alignment without formal authority.",
+      "positioning_bridge": "Emphasize cross-functional leadership connecting engineering, business operations, GTM/sales funnels, and executive strategy."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "MBA preferred.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L321-L324",
+      "evidence_summary": "Pursuing Executive General Management Program (EGMP) at Indian Institute of Management Bangalore (2025–2026, ongoing).",
+      "positioning_bridge": "Frame IIM Bangalore EGMP as executive management education equivalent in strategic scope."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience in Product Adoption, Product Analytics, telemetry, insights, or related data-driven products; familiarity with AI-powered recommendations or business intelligence solutions.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L75-L100, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "Designed KPI frameworks tracking platform adoption, incident resolution, cost savings, and operational efficiency, built executive dashboards, and launched AI-driven procurement and automated recovery systems at Lowe's India. Does not explicitly claim standalone B2B SaaS customer-health telemetry or renewal-scoring product ownership.",
+      "positioning_bridge": "Bridge internal enterprise platform adoption dashboards, operational analytics frameworks, and AI-driven workflow systems at Lowe's to Nutanix's customer adoption and AI insights charter."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Build AI-powered actionable insights and virtual agent workflows (team oversees NIVA - Nutanix Intelligent Virtual Agent) to help Customer Success and Account teams identify risks and opportunities.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472, canonical_master_profile.md:L530-L535",
+      "evidence_summary": "Designed AI-driven procurement and catalog workflows (20% cycle time reduction) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India.",
+      "positioning_bridge": "Frame Lowe's AI-assisted operational workflows and automated recovery agents as transferable foundation for building proactive AI-powered risk and adoption insights."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Enterprise infrastructure / cloud / SaaS portfolio operations and value realization.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35, canonical_master_profile.md:L52-L63, canonical_master_profile.md:L91-L95",
+      "evidence_summary": "Operates within Reliability Engineering and Infrastructure & Operations at Lowe's India, spearheading enterprise asset lifecycle platforms ($2M savings) and infrastructure lifecycle strategies.",
+      "positioning_bridge": "Strong domain alignment with enterprise infrastructure operations, platform adoption, and value realization."
+    }
+  ],
+  "summary_counts": {
+    "direct": 6,
+    "adjacent": 3,
+    "gap": 0,
+    "total": 9
+  }
+}

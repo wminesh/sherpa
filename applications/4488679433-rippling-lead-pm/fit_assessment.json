@@ -1,0 +1,76 @@
+{
+  "opportunity_id": "4488679433-rippling-lead-pm",
+  "company": "Rippling",
+  "role_title": "Lead Product Manager (Growth Product Lead, Benefits Marketplace & PEO)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site / Office",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 76,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong evidence of owning growth strategy, product roadmaps, funnel optimization, GTM alignment, and experimentation across Byju's and Hype Marketing & Product Services, paired with enterprise platform execution at Lowe's India."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 62,
+      "weighted_score": 12.4,
+      "rationale": "Strong alignment on full-funnel growth, demand generation (2.5L+ SQLs, 35% conversion lift), GTM channel strategy, and Founder experience (Hype). However, lacks direct domain experience in US employee benefits, PEO, health insurance/broker distribution, and B2B SaaS self-serve marketplace expansion."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 78,
+      "weighted_score": 15.6,
+      "rationale": "Direct match on technical fluency and systems thinking (B.Tech CS + Lowe's AI-powered workflows, operational tooling, and enterprise platform capabilities)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 68,
+      "weighted_score": 10.2,
+      "rationale": "Role requires 8+ years of PM experience with meaningful ownership of growth in B2B products; candidate has ~11 years total experience with ~6 years in formal PM titles (plus 1+ year as Founder), making Lead PM (8+ yrs B2B PM) a seniority stretch."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 82,
+      "weighted_score": 8.2,
+      "rationale": "Strong commercial outcome orientation: 2.5L+ sales-qualified leads, 35% lead conversion improvement, 30-50% traffic/engagement growth, ~$10M annual revenue protection, and $2M cost savings."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 86,
+      "weighted_score": 4.3,
+      "rationale": "Proven ability to align executives, Engineering, Design, Marketing, Sales, and Operations around strategy, metrics, and trade-offs (lines 475-494)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru on-site role matches candidate's Bangalore location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Zero-to-one Growth Product Lead owning the growth strategy, TAM expansion, PLG execution, and top-of-funnel conversion for Rippling's Benefits Marketplace and PEO vertical.",
+    "seniority_alignment": "Stretch alignment: requires 8+ years PM experience (candidate has ~6 years formal PM title within ~11 years total product/growth career, plus Founder credential).",
+    "product_discipline": "B2B Growth & Marketplace Product Management — blends candidate's strong PLG/funnel conversion background (Byju's, Hype) with B2B enterprise platform skills (Lowe's).",
+    "domain_relevance": "Transferable on growth funnels, GTM levers, and multi-product ecosystems (12 cross-product prototypes across Aakash-Byju's, Tynker, WhiteHat Jr.); gap on US Benefits, PEO, and broker ecosystems.",
+    "leadership_expectations": "High autonomy, founder mentality, and executive alignment across Product, Engineering, Sales, Marketing, Advisors, BD, and Ops — well supported by Hype Founder and Lowe's SPM experience.",
+    "evidence_strength": "Direct evidence for funnel conversion, SQL generation, GTM strategy, founder experience, and AI/operational tooling; stretch on 8+ years B2B SaaS growth PM tenure."
+  },
+  "key_strengths": [
+    "Delivered 2.5L+ sales-qualified leads (SQLs) and improved lead conversion rate by 35% at Byju's by optimizing acquisition-to-conversion funnels and building 12 cross-product experiences (lines 234-238, 386-388).",
+    "Direct Founder experience at Hype Marketing & Product Services (Oct 2023–Nov 2024), defining GTM, growth, positioning, and lifecycle strategies for B2B/B2C digital clients (lines 119-161) — directly matching the JD's 'Founder or hypergrowth startup experience is a strong plus'.",
+    "Strong technical and operational systems fluency at Lowe's India, building AI-driven procurement/catalog platforms (20% faster cycle times) and enterprise asset platforms ($2M savings) (lines 91-99)."
+  ],
+  "positioning_angle": "Position as an entrepreneurial Growth & Platform Product Leader (former Founder + Senior PM at Lowe's India and Byju's) who has scaled top-of-funnel demand (2.5L+ SQLs), improved funnel conversion by 35%, built 12 cross-product ecosystem experiences, and delivered AI-enabled enterprise platforms. Emphasize the combination of commercial GTM instincts, founder bias-for-action, and systems thinking.",
+  "red_flags_and_gaps": [
+    "Requires 8+ years of PM experience with meaningful B2B growth ownership; Minesh has ~6 years of formal PM titles (~11 years total career) and his largest funnel/SQL metrics were in B2C/EdTech at Byju's alongside B2B/B2C GTM consulting at Hype.",
+    "No prior experience in US employee benefits, PEO, payroll, insurance brokers, or HR marketplaces."
+  ],
+  "assumptions_and_user_confirmations": []
+}

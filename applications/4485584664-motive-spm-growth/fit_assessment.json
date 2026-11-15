@@ -1,0 +1,76 @@
+{
+  "opportunity_id": "4485584664-motive-spm-growth",
+  "company": "Motive",
+  "role_title": "Senior Product Manager, Growth (Workforce Management)",
+  "location": "Bengaluru East, Karnataka, India",
+  "workplace_mode": "On-site / Office",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 88,
+  "priority_band": "High Priority",
+  "disposition": "High Priority",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 90,
+      "weighted_score": 22.5,
+      "rationale": "Direct evidence across every core responsibility: defining and executing growth product strategy across acquisition, activation, conversion, and retention; owning roadmaps; running iterative experiments; and establishing KPI frameworks (lines 64-82, 131-138, 227-238, 385-390)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 82,
+      "weighted_score": 16.4,
+      "rationale": "Uniquely bridges full-funnel SaaS/digital growth and conversion optimization (Byju's, Hype) with physical/store operations, enterprise asset lifecycle management, and AI-enabled operational efficiency at Lowe's India (lines 91-99)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 85,
+      "weighted_score": 17.0,
+      "rationale": "B.Tech in CS (lines 325-327) with strong quantitative analytics, experimentation, KPI dashboarding, and AI-assisted operational workflow design (lines 67, 77-81, 96-99)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 92,
+      "weighted_score": 13.8,
+      "rationale": "Exact match for Senior Product Manager level and exceeds the 5+ years Product Management requirement (~6 years formal PM title, ~11 years total experience)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 90,
+      "weighted_score": 9.0,
+      "rationale": "Compelling, directly relevant growth and operational metrics: 2.5L+ SQLs generated, 35% lead conversion improvement, 50% engagement lift, 30-35% traffic growth, 20% operational cycle time reduction, ~$10M revenue protection, and $2M cost savings."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Proven track record partnering closely with engineering, design, marketing, sales, finance, and operations teams to deliver measurable business outcomes (lines 65-71, 228-233, 367)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Bengaluru East on-site role aligns with candidate's Bangalore residence."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Own full-funnel growth strategy, roadmap, and experimentation (acquisition, activation, conversion, retention, expansion) for Motive's Workforce Management product suite.",
+    "seniority_alignment": "Direct match for Senior Product Manager (5+ years PM required; candidate has ~6 years formal PM and is an incumbent SPM at Lowe's India).",
+    "product_discipline": "Growth & SaaS Product Management — directly aligned with candidate's PLG, funnel optimization, and enterprise operations background.",
+    "domain_relevance": "High relevance: combines full-funnel growth product leadership with physical/store operations and asset lifecycle platforms at Lowe's India.",
+    "leadership_expectations": "Cross-functional leadership across engineering, design, marketing, sales, and customer teams — directly evidenced across Lowe's, Hype, and Byju's.",
+    "evidence_strength": "100% of the 'What We're Looking For' qualifications are directly evidenced in canonical_master_profile.md."
+  },
+  "key_strengths": [
+    "Every single required qualification in the JD is backed by Direct evidence in canonical_master_profile.md.",
+    "Generated 2.5L+ sales-qualified leads and improved lead conversion rate by 35% at Byju's through end-to-end funnel optimization, experimentation, and 12 cross-product prototypes (lines 234-238, 386-390).",
+    "Delivered AI-driven procurement/catalog workflows (20% faster cycle times for store setup teams) and unified enterprise asset lifecycle platforms ($2M annual cost savings) for physical retail operations at Lowe's India (lines 91-99)."
+  ],
+  "positioning_angle": "Position as a Growth & Enterprise Operations Senior Product Manager who combines high-velocity full-funnel growth execution (2.5L+ SQLs, 35% conversion lift, iterative experimentation) with deep empathy for physical/field operations from building AI-driven store setup procurement and enterprise asset lifecycle platforms at Lowe's India.",
+  "red_flags_and_gaps": [
+    "No prior fleet/trucking/driver workforce management vertical experience, though the JD does not require prior fleet industry experience.",
+    "Highlight both B2B/Enterprise platform adoption at Lowe's and Hype alongside high-scale funnel conversion at Byju's so the profile reads strongly for B2B SaaS growth."
+  ],
+  "assumptions_and_user_confirmations": []
+}

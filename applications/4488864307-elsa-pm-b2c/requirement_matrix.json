@@ -1,0 +1,112 @@
+{
+  "opportunity_id": "4488864307-elsa-pm-b2c",
+  "company": "ELSA, Corp",
+  "role_title": "Product Manager, B2C",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "5+ years of product management experience in B2C digital products, consumer apps, SaaS, EdTech, subscription products, or other high-scale consumer experiences.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L147-L161, canonical_master_profile.md:L212-L316",
+      "evidence_summary": "8 years building and leading high-scale B2C EdTech and consumer learning products at Byju's (2015\u20132023, including Senior PM for Byju's Xcel Masterclasses, Tynker, WhiteHat Jr., Aakash-Byju's) plus digital learning products at Hype (Programming Hub, Acadecraft) and Senior PM at Lowe's India (2024\u2013Present).",
+      "positioning_bridge": "Exact core background match in high-scale B2C EdTech and consumer learning apps."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Demonstrated experience owning products with measurable impact on user growth, engagement, retention, conversion, or monetization.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L141-L161, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L265-L269, canonical_master_profile.md:L372-L391",
+      "evidence_summary": "Generated 2.5L+ SQLs and improved lead conversion by 35% at Byju's Xcel Masterclasses; led Tynker app redesign increasing course completion by 5%; achieved 4.5+ ratings for Programming Hub and 80%+ completion rates for Acadecraft; increased engagement by 50% at Upraised and HealthQ Rehab.",
+      "positioning_bridge": "Directly showcase consumer learning funnel conversion (+35%), completion (+5%, 80%+), and app ratings (4.5+)."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Strong understanding of consumer product funnels (acquisition, activation, engagement, retention, conversion, churn, LTV) and proven experience designing/running A/B tests and product experiments.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L138, canonical_master_profile.md:L227-L248, canonical_master_profile.md:L385-L391",
+      "evidence_summary": "Led product experimentation, funnel friction diagnosis, and engagement optimization across Byju's consumer learning products and Hype client funnels.",
+      "positioning_bridge": "Emphasize end-to-end consumer funnel ownership from acquisition/activation to habit building and conversion."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience building products that rely on personalization, recommendations, behavioral data, or adaptive learning experiences.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L231-L239, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L385-L391",
+      "evidence_summary": "Built 300+ interactive learning experiences, 500+ hours of video content, assessments and DIY learning modules on Tynker (+5% completion), Interactive Learning Experiences on WhiteHat Jr., and 12 cross-product learning prototypes using behavioral engagement and completion signals.",
+      "positioning_bridge": "Directly connect interactive, assessment-driven learning paths and behavioral signal optimization to ELSA's adaptive learning flows."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Strong analytical instincts and hands-on experience working with product analytics such as Amplitude, Mixpanel, GA4, Firebase, or similar tools.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L660-L663",
+      "evidence_summary": "User confirmed no direct experience with commercial third-party tools (Amplitude, Mixpanel, GA4, Firebase), but performed equivalent product adoption, funnel, and workflow analysis using internal enterprise analytics and reporting tools at Lowe's India, alongside funnel/SEO/engagement analytics at Byju's, Hype, and HealthQ Rehab.",
+      "positioning_bridge": "Explicitly highlight KPI frameworks and analytics dashboards built using internal enterprise analytics tools at Lowe's India as an honest Adjacent bridge to commercial product analytics tools."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience working on EdTech, language learning, AI-powered consumer products, mobile apps (iOS/Android), and consumer subscription/freemium models.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L147-L151, canonical_master_profile.md:L217-L283",
+      "evidence_summary": "Extensive EdTech and mobile/consumer app redesign experience across Tynker, WhiteHat Jr., Byju's Xcel Masterclasses, Social Studies, and Programming Hub (4.5+ ratings).",
+      "positioning_bridge": "Directly highlight Tynker app redesign, WhiteHat Jr., and Programming Hub mobile/digital learning apps."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Experience working with AI/ML-powered experiences, LLMs, AI agents, or conversational AI.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472",
+      "evidence_summary": "Designed and launched AI-driven procurement and catalog workflows and automated recovery workflows at Lowe's India; however, has not built speech-recognition or conversational AI coaching consumer models (and AGENTS.md prohibits fabricating RAG/LangChain).",
+      "positioning_bridge": "Combine Lowe's AI workflow leadership with Byju's interactive learning experience design to bridge to ELSA's AI coaching product."
+    },
+    {
+      "id": "PR-3",
+      "category": "preferred",
+      "requirement": "Python knowledge to write custom scripts for data analysis, transformations, or API interactions; familiarity with LangChain, RAG pipelines.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "Holds a B.Tech. in Computer Science Engineering (L325-L328), but Python scripting, LangChain, and RAG pipelines are not evidenced in canonical_master_profile.md (and RAG fabrication is explicitly prohibited by AGENTS.md).",
+      "positioning_bridge": "Do not claim Python scripting, LangChain, or RAG pipelines on the CV; lean on CSE foundation and data-driven product analytics."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Design and optimize engagement loops and learning habits across onboarding, assessment, learning, practice, and subscription journeys.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L158-L161, canonical_master_profile.md:L261-L275, canonical_master_profile.md:L375-L391",
+      "evidence_summary": "Added assessments and DIY learning modules on Tynker (+5% completion), built 300+ interactive learning experiences at Byju's, and designed structured learning programs at Acadecraft achieving 80%+ completion rates.",
+      "positioning_bridge": "Directly match onboarding, assessment, DIY practice, and habit-building completion metrics."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "B2C EdTech, Consumer Learning Habit Formation, and Funnel Monetization.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L23-L35, canonical_master_profile.md:L212-L316",
+      "evidence_summary": "Core domain match: 8+ years in EdTech and learning experience design across Byju's, Tynker, WhiteHat Jr., Programming Hub, and Acadecraft.",
+      "positioning_bridge": "Exceptional domain alignment with consumer EdTech, learner engagement loops, and funnel conversion."
+    }
+  ],
+  "summary_counts": {
+    "direct": 7,
+    "adjacent": 2,
+    "gap": 1,
+    "total": 10
+  }
+}

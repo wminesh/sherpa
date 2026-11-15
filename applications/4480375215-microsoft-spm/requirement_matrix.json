@@ -1,0 +1,103 @@
+{
+  "opportunity_id": "4480375215-microsoft-spm",
+  "company": "Microsoft",
+  "role_title": "Senior Product Manager (Microsoft Security - Endpoint)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "8+ years of experience in product management delivering complex enterprise or technical products from customer problem through launch and adoption.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L217-L316",
+      "evidence_summary": "Over 10 years of product development, platform, and PM leadership experience across Byju's (Jun 2015–Apr 2023), Hype (Oct 2023–Nov 2024), and Lowe's India (Sep 2024–Present), taking enterprise platforms and digital products from conception through launch and adoption.",
+      "positioning_bridge": "Highlight full 10-year product trajectory culminating in Senior PM for enterprise platforms at Lowe's India."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Strong experience in cybersecurity, security products, or closely related enterprise security technologies (endpoint protection, threat detection, EDR, device/mobile security).",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No cybersecurity, endpoint protection, EDR, threat detection, or mobile device security experience is evidenced in canonical_master_profile.md (and AGENTS.md prohibits fabricating security architecture).",
+      "positioning_bridge": "Clear core domain gap. Do not claim cybersecurity or EDR experience; bridge only from enterprise infrastructure reliability, incident operations, and asset lifecycle management at Lowe's India."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Demonstrated ability to operate effectively in complex, cross-functional environments and influence without direct authority.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L484-L488, canonical_master_profile.md:L552-L558",
+      "evidence_summary": "Explicitly documented in canonical_master_profile.md: drove enterprise alignment without formal authority across product, engineering, finance, IT, and operations teams at Lowe's India.",
+      "positioning_bridge": "Directly cite cross-functional leadership and influencing without authority across enterprise stakeholders."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Experience working with large enterprise operations and IT administration personas, defining measurable product outcomes and evaluating adoption.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L100",
+      "evidence_summary": "Partnered with IT, operations, finance, and store setup stakeholders at Lowe's India on enterprise reliability (99.99%), asset lifecycle ($2M savings), and AI procurement (20% cycle time reduction), tracking platform adoption KPIs. Did not work with external enterprise CISO/SOC customer personas.",
+      "positioning_bridge": "Bridge internal enterprise IT and infrastructure operations stakeholder management at Lowe's to enterprise IT administrator personas."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Identify opportunities to use AI to improve operational outcomes and leverage AI across the product management lifecycle.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L464-L472",
+      "evidence_summary": "Designed and launched AI-driven procurement and catalog workflows (reducing cycle times by 20%) and automated incident recovery workflows (~$10M annual revenue protection) at Lowe's India.",
+      "positioning_bridge": "Directly showcase AI workflow design and automated incident operations."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Endpoint Security: Deep understanding of endpoint protection, threat detection, and endpoint detection and response (EDR).",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No endpoint security, threat detection, or EDR experience in canonical_master_profile.md.",
+      "positioning_bridge": "Acknowledge gap; relate incident detection/recovery workflows in reliability engineering as an operational analogy only."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Device & Mobile Security: Experience with Microsoft Intune or equivalent MDM/MAM, device compliance, and Android/iOS/Windows/macOS/Linux security.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "Spearheaded an enterprise asset lifecycle platform at Lowe's India ($2M annual cost savings, L91-L95), but has no Microsoft Intune, MDM/MAM, or cross-OS endpoint security experience.",
+      "positioning_bridge": "Bridge from enterprise asset lifecycle management at Lowe's without claiming Intune or MDM security expertise."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Make product prioritization decisions based on operational/incident risk, customer impact, product data, and business opportunity.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L90, canonical_master_profile.md:L454-L463",
+      "evidence_summary": "Prioritized reliability and incident automation roadmaps at Lowe's India targeting 20% incident volume reduction and delivering ~$10M in annual revenue protection.",
+      "positioning_bridge": "Highlight risk- and ROI-driven roadmap prioritization in high-reliability enterprise environments."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "Enterprise Cybersecurity, Endpoint Protection (EDR/XDR), and Unified Endpoint Management (Intune).",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No cybersecurity or endpoint security domain background exists in canonical_master_profile.md.",
+      "positioning_bridge": "Substantive domain mismatch for a security-first Senior PM role."
+    }
+  ],
+  "summary_counts": {
+    "direct": 4,
+    "adjacent": 1,
+    "gap": 4,
+    "total": 9
+  }
+}

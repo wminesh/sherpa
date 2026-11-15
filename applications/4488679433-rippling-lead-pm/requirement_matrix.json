@@ -1,0 +1,103 @@
+{
+  "opportunity_id": "4488679433-rippling-lead-pm",
+  "company": "Rippling",
+  "role_title": "Lead Product Manager (Growth Product Lead, Benefits Marketplace & PEO)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "8+ years of product management experience, including meaningful ownership of growth in B2B products.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L176, canonical_master_profile.md:L217-L316",
+      "evidence_summary": "10+ years of overall product, growth, and strategy experience, including 6+ years in formal PM/SPM titles (Byju's 2020–2023, Lowe's 2024–Present), 4 years in earlier product prototyping/team lead roles at Byju's (2015–2020), and B2B client growth/GTM consulting as Founder of Hype (2023–2024). However, primary high-scale product-led growth ownership was in B2C/EdTech (Byju's) and B2B consulting rather than 8+ years strictly in B2B SaaS growth PM.",
+      "positioning_bridge": "Combine 10-year product/growth trajectory across Byju's (2.5L+ SQLs, 35% conversion lift), Hype B2B client growth/GTM engagements, and Lowe's enterprise B2B platforms."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Track record of delivering measurable business outcomes (revenue, qualified demand, funnel conversion, retention, adoption) through a combination of product and go-to-market levers.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L84-L100, canonical_master_profile.md:L141-L161, canonical_master_profile.md:L190-L198, canonical_master_profile.md:L234-L239",
+      "evidence_summary": "Generated 2.5L+ sales-qualified leads and improved lead conversion by 35% for Byju's Xcel Masterclasses; drove 50% engagement and 30% traffic growth for Upraised, 30% email open rate and 20% CTR for Gradiant, 35% organic traffic growth at HealthQ Rehab, and ~$10M revenue protection + $2M cost savings at Lowe's India.",
+      "positioning_bridge": "Directly showcase quantified full-funnel outcomes across qualified demand (2.5L+ SQLs), conversion (+35%), and revenue protection (~$10M)."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Own growth strategy, product-led growth plan, and top-of-funnel experiments across organic, in-product, partner, and sales-led channels.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L123-L138, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L227-L247, canonical_master_profile.md:L372-L391",
+      "evidence_summary": "Led Product-Led Growth, GTM strategy, funnel optimization, SEO/organic growth (+35%), lifecycle email marketing, and cross-product engagement prototypes across Byju's, Hype, and HealthQ Rehab.",
+      "positioning_bridge": "Directly align PLG, GTM, and multi-channel top-of-funnel experimentation experience."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Excellent analytical skills: define a funnel, build a business case, segment customers, evaluate experiments, and turn ambiguous data into clear decisions.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L67, canonical_master_profile.md:L75-L83, canonical_master_profile.md:L137, canonical_master_profile.md:L232-L239, canonical_master_profile.md:L454-L463",
+      "evidence_summary": "Built KPI frameworks, business cases, ROI evaluations, and funnel conversion experiments across Lowe's India, Byju's, and Hype.",
+      "positioning_bridge": "Emphasize analytical rigor across funnel conversion metrics and executive ROI prioritization."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Strong technical fluency and systems thinking: work effectively with engineers on data models, integrations, AI-powered workflows, operational tooling, and platform capabilities.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L56-L100, canonical_master_profile.md:L306, canonical_master_profile.md:L325-L328, canonical_master_profile.md:L524-L535",
+      "evidence_summary": "B.Tech. in CSE; built AI-driven procurement and catalog workflows, automated recovery systems, enterprise asset lifecycle platforms at Lowe's India, and internal tracking tooling (Elevate) at Byju's.",
+      "positioning_bridge": "Highlight rare combination of growth/GTM leadership and technical enterprise platform/AI workflow execution."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience in benefits, insurance, PEO, payroll, marketplaces, partner ecosystems, or B2B2C products.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No US benefits, health insurance, PEO, broker marketplace, or payroll domain experience is documented in canonical_master_profile.md.",
+      "positioning_bridge": "Acknowledge PEO/benefits domain gap; bridge from multi-product ecosystem cross-sell (12 cross-product prototypes across Aakash-Byju's, Tynker, WhiteHat Jr.) and enterprise procurement/catalog systems at Lowe's."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Founder or hypergrowth startup experience is a strong plus.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L119-L176, canonical_master_profile.md:L212-L316",
+      "evidence_summary": "Founder of Hype Marketing & Product Services (Oct 2023–Nov 2024) and spent 8 years scaling products during Byju's hypergrowth phase (2015–2023).",
+      "positioning_bridge": "Strong direct match on both Founder experience and hypergrowth scaling."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Expand TAM by shaping positioning, packaging, product entry points, and cross-functional investments across Sales, Marketing, Design, Engineering, and Operations.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L151, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L372-L378",
+      "evidence_summary": "Combined product positioning, content strategy, GTM planning, and funnel entry points to launch new offerings at Hype (Upraised, Programming Hub) and scale Byju's Xcel Masterclasses (2.5L+ SQLs).",
+      "positioning_bridge": "Directly showcase end-to-end ownership at the intersection of Product, Growth, and GTM."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "B2B HR Tech / Benefits Marketplace / PEO & Broker Distribution Channels.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No prior HR Tech, PEO, or employee benefits marketplace experience in canonical_master_profile.md.",
+      "positioning_bridge": "Position horizontal growth, funnel conversion, GTM packaging, and catalog platform skills as transferable to the Benefits Marketplace & PEO vertical."
+    }
+  ],
+  "summary_counts": {
+    "direct": 6,
+    "adjacent": 1,
+    "gap": 2,
+    "total": 9
+  }
+}

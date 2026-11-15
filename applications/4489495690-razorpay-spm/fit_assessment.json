@@ -1,0 +1,79 @@
+{
+  "opportunity_id": "4489495690-razorpay-spm",
+  "company": "Razorpay",
+  "role_title": "Senior Product Manager (Onboarding Infra & Agentic Onboarding)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site / Office",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 65,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Hold",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 76,
+      "weighted_score": 19.0,
+      "rationale": "Strong platform roadmap, operational workflow orchestration, and reliability execution at Lowe's India (lines 64-90), but lacks documented evidence of writing low-level REST/OpenAPI contract specifications and distributed state-machine PRDs."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 40,
+      "weighted_score": 8.0,
+      "rationale": "Material domain gap: no evidenced experience in Fintech, payments, merchant onboarding, India KYC stack (CKYC, video KYC, DigiLocker, PAN/GSTIN), AML, or RBI/DPDP Act regulatory compliance."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 50,
+      "weighted_score": 10.0,
+      "rationale": "Strong on platform reliability (99.99%), incident load reduction, and high-level AI workflow automation at Lowe's. However, the JD mandates hands-on OpenAPI spec writing, distributed systems state rollback/idempotency, SQL fluency without an analyst, PII vaulting/encryption, OAuth/SSO, and shipped LLM tool-calling/evals — several of which cannot be claimed under AGENTS.md guardrails without explicit user validation."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 80,
+      "weighted_score": 12.0,
+      "rationale": "Meets the 4-8 years PM and 2+ years platform/infrastructure ownership requirement (~6 years formal PM, ~2 years at Lowe's India), and holds a B.Tech in CS, though lacks the preferred 2+ years as a hands-on software engineer prior to PM."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 75,
+      "weighted_score": 7.5,
+      "rationale": "Strong reliability (99.99%), automated recovery (~$10M savings), and funnel conversion (35% lift at Byju's) metrics, though no regulated merchant verification or KYC latency/accuracy metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 75,
+      "weighted_score": 3.75,
+      "rationale": "Strong engineering, finance, and operations stakeholder management, but no evidenced Legal, Risk, or RBI regulatory compliance audit collaboration."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru on-site role aligns with candidate's Bangalore location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end ownership of 6 core fintech onboarding infrastructure pillars: sign-up/identity, KYC/verification, state-machine workflows, PII privacy/segregation, agentic onboarding APIs, and platform reliability.",
+    "seniority_alignment": "Aligned on PM tenure (4-8 yrs required) and Senior PM title, but lacks the preferred prior software engineering/architect tenure.",
+    "product_discipline": "Deep Technical API / Fintech Infrastructure & Regulated Identity PM — only partially aligned with candidate's enterprise operations and workflow platform discipline.",
+    "domain_relevance": "Low domain relevance due to heavy focus on RBI KYC directions, CKYC, DPDP Act compliance, and merchant identity verification.",
+    "leadership_expectations": "Requires peer-level technical design review with Principal/Staff engineers and regulatory translation with Legal/Compliance/Risk.",
+    "evidence_strength": "Strong direct evidence for platform reliability (99.99%) and workflow automation; significant gaps on REST/OpenAPI spec authorship, PII vaulting, OAuth/SSO, and RBI KYC compliance."
+  },
+  "key_strengths": [
+    "Direct ownership of enterprise platform reliability (99.99% uptime), automated incident recovery workflows (~$10M annual savings), and KPI frameworks at Lowe's India (lines 75-90).",
+    "Designed and launched AI-driven procurement and catalog workflows reducing operational cycle times by 20% at Lowe's India (lines 96-99).",
+    "B.Tech in Computer Science Engineering (lines 325-327) plus experience improving funnel conversion by 35% at Byju's (line 237)."
+  ],
+  "positioning_angle": "If pursued, position around Enterprise Platform Reliability (99.99%), Automated Recovery State Workflows (~$10M revenue protection), and AI-Driven Workflow Orchestration (20% cycle time reduction) at Lowe's India, combined with funnel conversion optimization (35% lift). Bridge internal enterprise governance and SLA/escalation workflows to regulated onboarding infrastructure.",
+  "red_flags_and_gaps": [
+    "Zero Fintech, payments, KYC/CKYC, AML, RBI regulatory audit, or DPDP Act compliance experience in canonical_master_profile.md.",
+    "JD requires writing REST/OpenAPI specs, designing distributed state machines (idempotency, retries, state rollback), PII vaulting/encryption, and OAuth/SSO — AGENTS.md explicitly prohibits fabricating APIs, authentication protocols, OAuth, or privacy/consent ownership.",
+    "JD states 'Has shipped or prototyped with LLMs and agents: tool calling, agent orchestration, evals and guardrails. Not a future interest; show us what you built' — while Lowe's AI-driven procurement/recovery workflows support high-level agentic workflow positioning, low-level LLM tool-calling/eval implementation is not documented."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Hold pending user confirmation on whether Minesh has hands-on SQL, REST/OpenAPI specification writing, or LLM tool-calling prototype experience that can be defended in a deeply technical Razorpay infrastructure interview."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "profile_version": "1.1.0",
+    "cv_version": "tailored-1.0",
+    "target_company": "Sage",
+    "target_role": "Senior Product Manager (Sage Intacct Budgeting & Planning)"
+  },
+  "header": {
+    "name": "Minesh Wadhwa",
+    "contact_line": "Bangalore \u2022 w.minesh@gmail.com \u2022 +91 9035 199 024",
+    "email": "w.minesh@gmail.com"
+  },
+  "profile_summary": "Enterprise Product and Strategy leader with 10+ years of experience across B2B enterprise platforms, SaaS product delivery, financial and business operations, and GTM execution. Proven ability to partner with Finance, Business Operations, IT Operations, Engineering, and Product Marketing teams to translate workflow research and customer needs into agile product roadmaps, P&L-aligned investment priorities, and scalable solutions. Strong track record in forecasting, budgeting, and ROI governance alongside shipping AI-enabled workflow agents, unified asset lifecycle platforms ($2M annual savings), and 99.99% reliability systems.",
+  "professional_experience": [
+    {
+      "company": "Lowe\u2019s India",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "Sep 2024 \u2013 Present",
+          "groups": [
+            {
+              "group_title": "Lowe\u2019s Reliability Engineering Team",
+              "sub_bullets": [
+                "Owned and drove cross-functional enterprise platform initiatives across engineering, IT operations, and business teams by defining agile product requirements and release governance, ensuring 99.99% reliability for core business platforms",
+                "Designed KPI frameworks and executive dashboards tracking incident resolution, cost savings, platform adoption, and operational efficiency by aligning engineering and business metrics, defining annual and quarterly roadmaps targeting a 20% reduction in incident volume",
+                "Managed forecasting, budgeting, headcount planning, and P&L governance across product initiatives by partnering with finance and executive stakeholders on ROI-driven roadmap prioritization",
+                "Led strategic revenue-protection initiatives that reduced order cancellations by deploying automated recovery agents and incident handling workflows across operations, saving ~$10M annually",
+                "Coordinated cross-functional initiatives across product, engineering, finance, and IT operations by translating business workflow research into prioritized enhancements, driving enterprise alignment",
+                "Partnered with finance, operations, and IT stakeholders to govern end-to-end operational planning, procurement, and lifecycle workflows across enterprise business units"
+              ]
+            },
+            {
+              "group_title": "Infrastructure and Operations Business Unit",
+              "sub_bullets": [
+                "Spearheaded a unified enterprise asset lifecycle platform by partnering with finance, IT operations, and business operations stakeholders to streamline provisioning and lifecycle visibility, delivering ~$2M in annual cost savings",
+                "Designed and launched an AI-driven procurement and catalog system using intelligent workflow agents to automate store setup onboarding and operational coordination, reducing operational cycle times by 20%"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hype Marketing & Product Services",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Founder",
+          "dates": "Oct 2023 \u2013 Nov 2024",
+          "bullets": [
+            "Defined GTM, product marketing, and growth strategies for digital SaaS and learning clients by translating customer requirements and market assessments into structured launch roadmaps",
+            "Built data-driven customer journey and lifecycle engagement workflows by evaluating product adoption and conversion analytics, enabling iterative post-launch optimization across client offerings"
+          ],
+          "groups": [
+            {
+              "group_title": "Key engagements:",
+              "sub_bullets": [
+                "Upraised: Crafted social content strategy and designed product marketing launch strategy for new offerings, increasing user engagement by 50% and website traffic by 30%",
+                "Programming Hub: Developed and marketed digital learning products through coordinated product positioning and GTM execution, achieving 4.5+ ratings and strong user adoption",
+                "Gradiant: Designed and executed lifecycle and email marketing strategy by refining customer journeys, achieving 30% open rates and 20% CTRs",
+                "Acadecraft: Built structured customer learning programs aligned with onboarding goals, achieving over 80% completion rates"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "HealthQ Rehab",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Head of Marketing",
+          "dates": "May 2023 \u2013 Dec 2023",
+          "bullets": [
+            "Revamped SEO and content marketing strategy using channel analytics, driving 35% growth in organic traffic",
+            "Boosted social media engagement by 50% by executing targeted digital content and brand communication strategies",
+            "Optimized WhatsApp, Telegram, and newsletter workflows using engagement metrics, increasing brand engagement by 20%"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Byju\u2019s - Product Development",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "July 2020 \u2013 April 2023",
+          "products_line": "Byju\u2019s Xcel Masterclasses, Tynker, Whitehat Jr., Aakash-Byjus",
+          "bullets": [
+            "Led product strategy and GTM execution for *Byju\u2019s Xcel Masterclasses*, generating over 2.5L sales-qualified leads",
+            "Collaborated cross-functionally to research funnel friction points and optimize user onboarding and engagement journeys through iterative experimentation, improving lead conversion rates by 35%",
+            "Developed 12 cross-product learning experience prototypes across *Aakash-Byjus*, *Tynker*, and *Whitehat Jr.* by conducting workflow research and pre-launch validation across multi-product teams",
+            "Launched *Interactive Learning Experiences* feature for *Whitehat Jr.* by redesigning instructor enablement and live delivery workflows, reducing internal instructor training time by 15%",
+            "Led app redesign for *Tynker* by integrating user-validated assessments and DIY modules, increasing course completion by 5%"
+          ]
+        },
+        {
+          "title": "Multiple Roles",
+          "dates": "Jun 2015 \u2013 June 2020",
+          "products_line": "Social Studies, Interactive Learning Experiences, Byju's Exam Prep, BTLA Commerce, BTLA Science",
+          "bullets": [
+            "Led 5 product leads for *BTLA Commerce* and defined internal UX workflows for the *Elevate* tracking platform",
+            "Prototyped and launched *Social Studies* and *Science/Maths* products (500+ hours of video, 300+ interactive experiences)"
+          ]
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "University of California, Irvine",
+      "dates": "Oct 2020 \u2013 Dec 2020",
+      "bullets": [
+        "*Initiating and Planning Projects*: Gained expertise in project scope, charters, constraints, organizational structures, and conflict resolution.",
+        "*Budgeting and Scheduling Projects*: Ensuring project success by managing time and cost constraints through data-driven scheduling and stakeholder alignment.",
+        "*Managing Project Risks and Changes*: Prioritizing scope, schedule, and cost performance while strengthening communication planning and risk management."
+      ]
+    }
+  ],
+  "social_entrepreneurship": [
+    "Worked with *The Open Door Foundation* to teach students at RTC Girls Home, Bangalore",
+    "Volunteer for *Education for All* initiative by Byju\u2019s that aims to train 10 million kids by 2025"
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "location": "Manipal, Karnataka",
+      "degree": "B. Tech. in Computer Science Engineering",
+      "dates": "2011 \u2013 2015"
+    },
+    {
+      "institution": "Indian Institute Of Management - Bangalore",
+      "location": "",
+      "degree": "Executive General Management Program",
+      "dates": "2025 \u2013 2026 (ongoing)"
+    }
+  ]
+}

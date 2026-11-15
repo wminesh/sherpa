@@ -1,0 +1,1819 @@
+{
+  "schema_version": "1.0.0",
+  "canonical_profile_version": "1.1.0",
+  "last_updated": "2026-11-12T19:19:00+05:30",
+  "scan_window": "newer_than:7d (2026-11-05 to 2026-11-12)",
+  "summary": {
+    "total_emails_scanned": 16,
+    "unique_linkedin_jobs_discovered": 49,
+    "already_applied_count": 1,
+    "gate_1_pass_count": 41,
+    "gate_1_excluded_location_count": 6,
+    "gate_1_excluded_function_count": 2,
+    "batch_1_evaluated_count": 10,
+    "high_priority_apply_count": 4,
+    "consider_apply_count": 3,
+    "consider_hold_count": 1,
+    "not_suitable_count": 2,
+    "tailored_pdf_cvs_generated": 7
+  },
+  "evaluated_batch_1": [
+    {
+      "opportunity_id": "4479117229-nutanix-spm-ai",
+      "job_id": "4479117229",
+      "company": "Nutanix",
+      "role_title": "Senior Product Manager - Product Adoption, Insights & AI",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "Hybrid",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4479117229/",
+      "source_emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 90,
+      "priority_band": "High Priority",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 6,
+        "adjacent": 3,
+        "gap": 0,
+        "total": 9
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/Minesh_Wadhwa_CV_Nutanix_SPM_AI.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Nutanix_SPM_AI.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4479117229-nutanix-spm-ai/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4485584664-motive-spm-growth",
+      "job_id": "4485584664",
+      "company": "Motive",
+      "role_title": "Senior Product Manager, Growth (Workforce Management)",
+      "location": "Bengaluru East, Karnataka, India",
+      "workplace_mode": "On-site / Office",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4485584664/",
+      "source_emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 88,
+      "priority_band": "High Priority",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 6,
+        "adjacent": 2,
+        "gap": 0,
+        "total": 8
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/Minesh_Wadhwa_CV_Motive_SPM_Growth.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Motive_SPM_Growth.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4485584664-motive-spm-growth/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4488864307-elsa-pm-b2c",
+      "job_id": "4488864307",
+      "company": "ELSA, Corp",
+      "role_title": "Product Manager, B2C",
+      "location": "India (Remote)",
+      "workplace_mode": "Remote",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4488864307/",
+      "source_emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 87,
+      "priority_band": "High Priority",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 7,
+        "adjacent": 2,
+        "gap": 1,
+        "total": 10
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/Minesh_Wadhwa_CV_ELSA_PM_B2C.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_ELSA_PM_B2C.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488864307-elsa-pm-b2c/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4489943092-target-pm-cdp",
+      "job_id": "4489943092",
+      "company": "Target",
+      "role_title": "Product Manager - Customer Data Platform",
+      "location": "Bengaluru East, Karnataka, India",
+      "workplace_mode": "Hybrid / On-site",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4489943092/",
+      "source_emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 83,
+      "priority_band": "High Priority",
+      "recommendation": "Do Not Apply (Declined by User)",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 8,
+        "adjacent": 1,
+        "gap": 0,
+        "total": 9
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "DECLINED_BY_USER (2026-11-12: User opted not to apply for the Target Product Manager role)",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/Minesh_Wadhwa_CV_Target_PM_CDP.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Target_PM_CDP.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489943092-target-pm-cdp/ats_editorial_report.md"
+      },
+      "application_status": "Declined by User (Do Not Apply)"
+    },
+    {
+      "opportunity_id": "4480353427-sage-spm",
+      "job_id": "4480353427",
+      "company": "Sage",
+      "role_title": "Senior Product Manager (Sage Intacct Budgeting & Planning)",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "Hybrid (3 days per week in office)",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4480353427/",
+      "source_emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 80,
+      "priority_band": "Consider",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 4,
+        "adjacent": 4,
+        "gap": 0,
+        "total": 8
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/Minesh_Wadhwa_CV_Sage_SPM.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Sage_SPM.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480353427-sage-spm/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4470165775-duck-creek-spm-agentic",
+      "job_id": "4470165775",
+      "company": "Duck Creek Technologies",
+      "role_title": "Senior Product Manager, Agentic Application",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "Hybrid (2-3 days/week in office)",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4470165775/",
+      "source_emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 76,
+      "priority_band": "Consider",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 4,
+        "adjacent": 4,
+        "gap": 3,
+        "total": 11
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/Minesh_Wadhwa_CV_Duck_Creek_SPM_Agentic.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Duck_Creek_SPM_Agentic.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4470165775-duck-creek-spm-agentic/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4488679433-rippling-lead-pm",
+      "job_id": "4488679433",
+      "company": "Rippling",
+      "role_title": "Lead Product Manager (Growth Product Lead, Benefits Marketplace & PEO)",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "On-site / Office",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4488679433/",
+      "source_emails": [
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 76,
+      "priority_band": "Consider",
+      "recommendation": "Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 6,
+        "adjacent": 1,
+        "gap": 2,
+        "total": 9
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "PASS",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/fit_assessment.json",
+        "tailored_cv_pdf": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/Minesh_Wadhwa_CV_Rippling_Lead_PM.pdf",
+        "tailored_cv_name": "Minesh_Wadhwa_CV_Rippling_Lead_PM.pdf",
+        "cv_changelog": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/cv_changelog.md",
+        "fact_check_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/fact_check_report.md",
+        "ats_editorial_report": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488679433-rippling-lead-pm/ats_editorial_report.md"
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4489495690-razorpay-spm",
+      "job_id": "4489495690",
+      "company": "Razorpay",
+      "role_title": "Senior Product Manager (Onboarding Infra & Agentic Onboarding)",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "On-site / Office",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4489495690/",
+      "source_emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 65,
+      "priority_band": "Consider",
+      "recommendation": "Hold",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 3,
+        "adjacent": 3,
+        "gap": 4,
+        "total": 10
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "N/A (No CV Tailored)",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489495690-razorpay-spm/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489495690-razorpay-spm/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489495690-razorpay-spm/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4489495690-razorpay-spm/fit_assessment.json",
+        "tailored_cv_pdf": null,
+        "tailored_cv_name": null,
+        "cv_changelog": null,
+        "fact_check_report": null,
+        "ats_editorial_report": null
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4488663182-intuit-staff-pm",
+      "job_id": "4488663182",
+      "company": "Intuit",
+      "role_title": "Staff Product Manager (QuickBooks Time Verticalization)",
+      "location": "Greater Bengaluru Area, India",
+      "workplace_mode": "Hybrid",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4488663182/",
+      "source_emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 59,
+      "priority_band": "Not Suitable",
+      "recommendation": "Do Not Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 4,
+        "adjacent": 3,
+        "gap": 3,
+        "total": 10
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "N/A (No CV Tailored)",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488663182-intuit-staff-pm/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488663182-intuit-staff-pm/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488663182-intuit-staff-pm/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4488663182-intuit-staff-pm/fit_assessment.json",
+        "tailored_cv_pdf": null,
+        "tailored_cv_name": null,
+        "cv_changelog": null,
+        "fact_check_report": null,
+        "ats_editorial_report": null
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    },
+    {
+      "opportunity_id": "4480375215-microsoft-spm",
+      "job_id": "4480375215",
+      "company": "Microsoft",
+      "role_title": "Senior Product Manager (Microsoft Security - Endpoint)",
+      "location": "Bengaluru, Karnataka, India",
+      "workplace_mode": "Hybrid / On-site",
+      "linkedin_url": "https://www.linkedin.com/jobs/view/4480375215/",
+      "source_emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "overall_fit_score": 52,
+      "priority_band": "Not Suitable",
+      "recommendation": "Do Not Apply",
+      "confidence_level": "High",
+      "evidence_counts": {
+        "direct": 4,
+        "adjacent": 1,
+        "gap": 4,
+        "total": 9
+      },
+      "gates": {
+        "gate_1_opportunity_validation": "PASS",
+        "gate_2_full_jd_confirmation": "PASS",
+        "gate_3_canonical_profile_lock": "PASS (v1.1.0)",
+        "gate_4_evidence_classification": "PASS",
+        "gate_5_role_fit_rationale": "PASS",
+        "gate_6_fact_check": "N/A (No CV Tailored)",
+        "gate_7_confidentiality": "PASS",
+        "gate_8_ats_editorial": "PASS",
+        "gate_9_user_approval": "PENDING_USER_APPROVAL",
+        "gate_10_tracker_update": "PASS"
+      },
+      "artifacts": {
+        "dossier": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480375215-microsoft-spm/dossier.md",
+        "jd_full": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480375215-microsoft-spm/jd_full.md",
+        "requirement_matrix": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480375215-microsoft-spm/requirement_matrix.json",
+        "fit_assessment": "/Users/mineshwadhwa/Documents/Sherpa/applications/4480375215-microsoft-spm/fit_assessment.json",
+        "tailored_cv_pdf": null,
+        "tailored_cv_name": null,
+        "cv_changelog": null,
+        "fact_check_report": null,
+        "ats_editorial_report": null
+      },
+      "application_status": "Evaluated \u2014 Pending User Approval (Gate 9)"
+    }
+  ],
+  "all_discovered_records": [
+    {
+      "job_id": "4489943026",
+      "title": "Principal Technical Product Manager, ITC",
+      "company": "Nike",
+      "location": "Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/view/4489943026/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4489943026-nike",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488663182",
+      "title": "Staff Product Manager",
+      "company": "Intuit",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4488663182/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488663182-intuit-staff-pm",
+      "priority_tier": "Priority 10 \u2014 Staff PM, FinTech Platform",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4489943092",
+      "title": "Product Manager - Customer Data Platform",
+      "company": "Target",
+      "location": "Bengaluru East",
+      "url": "https://www.linkedin.com/jobs/view/4489943092/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4489943092-target-pm-cdp",
+      "priority_tier": "Priority 5 \u2014 PM, Customer Data Platform",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4489458187",
+      "title": "\ud83d\ude80 We're Hiring: Product Manager \u2013 Growth, UX & Tech (India + US)",
+      "company": "NYX",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4489458187/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4489458187-nyx",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4489495690",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4489495690/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4489495690-razorpay-spm",
+      "priority_tier": "Priority 3 \u2014 Senior PM, Fintech / Enterprise",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4488638763",
+      "title": "Product Manager (Life Sciences)",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4488638763/",
+      "emails": [
+        {
+          "msg_id": "1a1cf7360be42b8e",
+          "subject": "Nike is hiring a Principal Technical Product Manager, ITC",
+          "date": "Thu, 12 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488638763-jobgether",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488319402",
+      "title": "Product Manager-Senior Product Specialist",
+      "company": "Deloitte",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4488319402/",
+      "emails": [
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488319402-deloitte",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4480225134",
+      "title": "Global Product Manager- Accelerators - Philips",
+      "company": "Bengaluru",
+      "location": "3 company alumni",
+      "url": "https://www.linkedin.com/jobs/view/4480225134/",
+      "emails": [
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4480225134-bengaluru",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: 3 company alumni)"
+    },
+    {
+      "job_id": "4488679433",
+      "title": "Lead Product Manager",
+      "company": "Rippling",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4488679433/",
+      "emails": [
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488679433-rippling-lead-pm",
+      "priority_tier": "Priority 6 \u2014 Lead PM, B2B SaaS Platform",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4477832536",
+      "title": "Product Manager",
+      "company": "Visa",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4477832536/",
+      "emails": [
+        {
+          "msg_id": "1a1cf0583e9457d2",
+          "subject": "Product Manager-Senior Product Specialist job at Deloitte - 8 connections",
+          "date": "Thu, 12 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4477832536-visa",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488864307",
+      "title": "Product Manager, B2C",
+      "company": "ELSA, Corp",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4488864307/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488864307-elsa-pm-b2c",
+      "priority_tier": "Priority 9 \u2014 PM, AI EdTech / Consumer Learning",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4487990883",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4487990883/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4487990883-razorpay",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4477831562",
+      "title": "Sr. Product Manager",
+      "company": "Visa",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4477831562/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4477831562-visa",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4487159958",
+      "title": "Senior Product Manager - Fully Remote Job",
+      "company": "Openprovider",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4487159958/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4487159958-openprovider",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4463470704",
+      "title": "Senior Product Manager II",
+      "company": "Nielsen",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4463470704/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "ELSA, Corp is hiring a Product Manager, B2C",
+          "date": "Tue, 10 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c9df1ec74eb3f",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Product Manager, B2C job at ELSA, Corp - Actively recruiting",
+          "date": "Tue, 10 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4463470704-nielsen",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4470165775",
+      "title": "Senior Product Manager, Agentic Application",
+      "company": "Duck Creek Technologies",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4470165775/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4470165775-duck-creek-spm-agentic",
+      "priority_tier": "Priority 1 \u2014 AI / Agentic Platform PM",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4443826183",
+      "title": "Lead Product Manager - Airline Experience & AI",
+      "company": "Sabre",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4443826183/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4443826183-sabre",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488726006",
+      "title": "Principal Product Manager, Technical, Customer Anecdote Miner (CAM)",
+      "company": "Amazon",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4488726006/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488726006-amazon",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4425888399",
+      "title": "Staff/Director \u2013 AI HW Product Management",
+      "company": "Qualcomm",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4425888399/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4425888399-qualcomm",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4480552352",
+      "title": "Sr Staff Engineer - Engineer",
+      "company": "Uber",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4480552352/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4480552352-uber",
+      "gate_1_status": "EXCLUDED_FUNCTION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Non-PM function)"
+    },
+    {
+      "job_id": "4442636759",
+      "title": "SWPO",
+      "company": "Visteon Corporation",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4442636759/",
+      "emails": [
+        {
+          "msg_id": "1a1c526a8bd2fc6e",
+          "subject": "Duck Creek Technologies is hiring: Senior Product Manager, Agentic Application",
+          "date": "Mon, 9 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4442636759-visteon-corporation",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4477778672",
+      "title": "Product Manager, WhatsApp - India",
+      "company": "WhatsApp",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4477778672/",
+      "emails": [
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4477778672-whatsapp",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4470392237",
+      "title": "Product Manager, Google Pay",
+      "company": "Google",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4470392237/",
+      "emails": [
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4470392237-google",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4469752039",
+      "title": "Product Manager, Amazon Now, Amazon Now",
+      "company": "Amazon",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4469752039/",
+      "emails": [
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4469752039-amazon",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4461653803",
+      "title": "Senior Product Manager - Inventory Management",
+      "company": "Sabre",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4461653803/",
+      "emails": [
+        {
+          "msg_id": "1a1c4b8cde4e588f",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1c028a21d0c8ce",
+          "subject": "WhatsApp is hiring a Product Manager, WhatsApp - India",
+          "date": "Mon, 9 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4461653803-sabre",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4480375215",
+      "title": "Senior Product Manager",
+      "company": "Microsoft",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4480375215/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4480375215-microsoft-spm",
+      "priority_tier": "Priority 4 \u2014 Senior PM, Enterprise Cloud / AI",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4486241662",
+      "title": "Senior Product Manager, AI",
+      "company": "Asha Health (YC F24)",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4486241662/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4486241662-asha-health-yc-f24",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4486635424",
+      "title": "Associate Director - Product",
+      "company": "TMRW House of Brands",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4486635424/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4486635424-tmrw-house-of-brands",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488196346",
+      "title": "Manager, TPM Product",
+      "company": "Johnson & Johnson",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4488196346/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488196346-johnson-johnson",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4480353427",
+      "title": "Senior Product Manager",
+      "company": "Sage",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4480353427/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4480353427-sage-spm",
+      "priority_tier": "Priority 7 \u2014 Senior PM, Enterprise SaaS",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4488470000",
+      "title": "Senior Product Manager",
+      "company": "Flexiple",
+      "location": "India",
+      "url": "https://www.linkedin.com/jobs/view/4488470000/",
+      "emails": [
+        {
+          "msg_id": "1a1c0004c6ec393b",
+          "subject": "Microsoft is hiring: Senior Product Manager",
+          "date": "Sun, 8 Nov 2026 11:10:08 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488470000-flexiple",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4479850048",
+      "title": "Staff Technical Product Manager - Healthcare Technology & Innovation Center",
+      "company": "GE HealthCare",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4479850048/",
+      "emails": [
+        {
+          "msg_id": "1a1bf92722827e75",
+          "subject": "You may be a fit for Microsoft\u2019s Senior Product Manager role - Actively recruiting",
+          "date": "Sun, 8 Nov 2026 09:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4479850048-ge-healthcare",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4487516825",
+      "title": "Senior Product Manager",
+      "company": "Dozee",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4487516825/",
+      "emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4487516825-dozee",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488027942",
+      "title": "Senior Product Manager, AI",
+      "company": "Asha Health (YC F24)",
+      "location": "Greater Bengaluru Area",
+      "url": "https://www.linkedin.com/jobs/view/4488027942/",
+      "emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488027942-asha-health-yc-f24",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4477087769",
+      "title": "Senior Product Manager II",
+      "company": "eBay",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4477087769/",
+      "emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4477087769-ebay",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4479117229",
+      "title": "Senior Product Manager - Product Adoption, Insights & AI",
+      "company": "Nutanix",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4479117229/",
+      "emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4479117229-nutanix-spm-ai",
+      "priority_tier": "Priority 2 \u2014 Product Adoption, Insights & AI PM",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4477090218",
+      "title": "(IND) STAFF, PRODUCT MANAGER",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4477090218/",
+      "emails": [
+        {
+          "msg_id": "1a1bad9f430f9162",
+          "subject": "Dozee is hiring: Senior Product Manager",
+          "date": "Sat, 7 Nov 2026 11:10:06 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4477090218-walmart-global-tech-india",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4488104939",
+      "title": "Group Product Manager",
+      "company": "Magicbricks",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4488104939/",
+      "emails": [
+        {
+          "msg_id": "1a1ba6c15c0fb417",
+          "subject": "Staff Technical Product Manager - Healthcare Technology & Innovation Center at GE HealthCare",
+          "date": "Sat, 7 Nov 2026 09:10:05 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4488104939-magicbricks",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4485069730",
+      "title": "TD- Product Manager - EY",
+      "company": "Bengaluru",
+      "location": "21 company alumni",
+      "url": "https://www.linkedin.com/jobs/view/4485069730/",
+      "emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4485069730-bengaluru",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: 21 company alumni)"
+    },
+    {
+      "job_id": "4478443451",
+      "title": "Global Product Manager - Respiratory Accessories",
+      "company": "Philips",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4478443451/",
+      "emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        },
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4478443451-philips",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4485071741",
+      "title": "Product Manager",
+      "company": "Narayana Health",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4485071741/",
+      "emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4485071741-narayana-health",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4485584664",
+      "title": "Senior Product Manager, Growth",
+      "company": "Motive",
+      "location": "Bengaluru East",
+      "url": "https://www.linkedin.com/jobs/view/4485584664/",
+      "emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4485584664-motive-spm-growth",
+      "priority_tier": "Priority 8 \u2014 Senior PM, Growth & Platform",
+      "gate_2_status": "INCOMPLETE_JD (BLOCKED_ORIGIN_PERMISSION)",
+      "disposition": "Top 10 Candidate \u2014 Held at Gate 2 (`INCOMPLETE_JD` pending LinkedIn browser permission)"
+    },
+    {
+      "job_id": "4487573343",
+      "title": "India Development Centre (IDC)",
+      "company": "HP",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4487573343/",
+      "emails": [
+        {
+          "msg_id": "1a1b5b3927852954",
+          "subject": "TD- Product Manager at EY",
+          "date": "Fri, 6 Nov 2026 11:10:07 +0000 (GMT)",
+          "alert_query": "senior product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4487573343-hp",
+      "gate_1_status": "EXCLUDED_FUNCTION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Non-PM function)"
+    },
+    {
+      "job_id": "4485829320",
+      "title": "Product Manager",
+      "company": "Narayana Health",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4485829320/",
+      "emails": [
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4485829320-narayana-health",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4487739705",
+      "title": "Product Manager - Target",
+      "company": "Bengaluru",
+      "location": "78 company alumni",
+      "url": "https://www.linkedin.com/jobs/view/4487739705/",
+      "emails": [
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4487739705-bengaluru",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: 78 company alumni)"
+    },
+    {
+      "job_id": "4485582690",
+      "title": "Sr. Manager, Digital Product Management",
+      "company": "Thermo Fisher Scientific",
+      "location": "Scoresby, VIC",
+      "url": "https://www.linkedin.com/jobs/view/4485582690/",
+      "emails": [
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "opportunity_id": "4485582690-thermo-fisher-scientific",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: Scoresby, VIC)"
+    },
+    {
+      "job_id": "4476668191",
+      "title": "(IND) Senior Manager, Product Management",
+      "company": "Walmart Global Tech India",
+      "location": "Bengaluru",
+      "url": "https://www.linkedin.com/jobs/view/4476668191/",
+      "emails": [
+        {
+          "msg_id": "1a1b545b78fa01a6",
+          "subject": "Narayana Health Product Manager",
+          "date": "Fri, 6 Nov 2026 09:10:06 +0000 (GMT)",
+          "alert_query": "lead product manager in Bengaluru"
+        }
+      ],
+      "gate_1_status": "PASS",
+      "opportunity_id": "4476668191-walmart-global-tech-india",
+      "priority_tier": "Secondary Queue",
+      "gate_2_status": "QUEUED_BATCH_2",
+      "disposition": "Gate 1 Pass (Bengaluru/India PM) \u2014 Secondary Queue"
+    },
+    {
+      "job_id": "4483896023",
+      "title": "Senior Lead \u2013 Product Development - ShikshaLokam \u00b7 Bengaluru - View - https://www.linkedin.com/comm/jobs/view/4483896023/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-top~jobs~applied~1-0-link&trkEmail=eml-email_career_insights_01-top~jobs~applied~1-0-link-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx - Senior Product Manager - ShopDeck \u00b7 Bengaluru (On-site) - View",
+      "company": "https://www.linkedin.com/comm/jobs/view/4469196477/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-top~jobs~applied~2-0-link&trkEmail=eml-email_career_insights_01-top~jobs~applied~2-0-link-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx",
+      "location": "Jobs where you are the top candidate",
+      "url": "https://www.linkedin.com/jobs/view/4483896023/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "Senior Product Manager: ShopDeck and Lowe's India are hiring",
+          "date": "Tue, 10 Nov 2026 13:10:05 +0000 (GMT)",
+          "alert_query": "LinkedIn Job Recommendations"
+        }
+      ],
+      "opportunity_id": "4483896023-https-www-linkedin-com-comm-jobs-view-4469196477-lipi-urn-3ali-3apage-3aemail-email-career-insights-01-3b2cuoy84er6yipd1jxowx9w-3d-3d-midtoken-aqfz2ugarfw4dq-midsig-18uzz-5xjsksw1-trk-eml-email-career-insights-01-top-jobs-applied-2-0-link-trkemail-eml-email-career-insights-01-top-jobs-applied-2-0-link-null-3aydp3-mwapjggv-2o-null-null-eid-3aydp3-mwapjggv-2o-otptoken-yzcznwuxnzniywezyzlhytq5zjkyywu5mdgynjnkmzq1mzm1mgexzde3mjczzwe2m2iwmgi1ntrlzjjhntnmzgrjmmjhotzhodbkmtuyytdknjdiytrhyjmxy2yzzjfimtlln2fkndy3nznky2i5ndkzodk0mtq2nmi2odyyzti4njawzwi2zmfhnjksmiwx",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: Jobs where you are the top candidate)"
+    },
+    {
+      "job_id": "4392568953",
+      "title": "Sr. Product Specialist (T) - Cognizant \u00b7 Bangalore Urban (Hybrid) - View - https://www.linkedin.com/comm/jobs/view/4392568953/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-top~applicant~jobs~1-0-link&trkEmail=eml-email_career_insights_01-top~applicant~jobs~1-0-link-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx - Senior Product Manager, Amazon - Sub Same Day - Amazon \u00b7 Bengaluru - View - https://www.linkedin.com/comm/jobs/view/4468606688/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-top~applicant~jobs~2-0-link&trkEmail=eml-email_career_insights_01-top~applicant~jobs~2-0-link-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx - Improve your recommendations",
+      "company": "Update your experience to receive relevant insights.",
+      "location": "https://www.linkedin.com/comm/in/me/edit/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-footer~cta~text-0-profile~edit&trkEmail=eml-email_career_insights_01-footer~cta~text-0-profile~edit-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx",
+      "url": "https://www.linkedin.com/jobs/view/4392568953/",
+      "emails": [
+        {
+          "msg_id": "1a1ca4cfa74bf3cf",
+          "subject": "Senior Product Manager: ShopDeck and Lowe's India are hiring",
+          "date": "Tue, 10 Nov 2026 13:10:05 +0000 (GMT)",
+          "alert_query": "LinkedIn Job Recommendations"
+        }
+      ],
+      "opportunity_id": "4392568953-update-your-experience-to-receive-relevant-insights",
+      "gate_1_status": "EXCLUDED_LOCATION",
+      "gate_2_status": "N/A",
+      "disposition": "Excluded at Gate 1 (Location outside Bengaluru/India Remote: https://www.linkedin.com/comm/in/me/edit/?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3B2CUOY84ER6yIPD1jXOwx9w%3D%3D&midToken=AQFZ2UGarFw4DQ&midSig=18UZz_5xJSksw1&trk=eml-email_career_insights_01-footer~cta~text-0-profile~edit&trkEmail=eml-email_career_insights_01-footer~cta~text-0-profile~edit-null-3aydp3~mwapjggv~2o-null-null&eid=3aydp3-mwapjggv-2o&otpToken=YzczNWUxNzNiYWEzYzlhYTQ5ZjkyYWU5MDgyNjNkMzQ1MzM1MGExZDE3MjczZWE2M2IwMGI1NTRlZjJhNTNmZGRjMmJhOTZhODBkMTUyYTdkNjdiYTRhYjMxY2YzZjFiMTllN2FkNDY3NzNkY2I5NDkzODk0MTQ2NmI2ODYyZTI4NjAwZWI2ZmFhNjksMiwx)"
+    },
+    {
+      "job_id": "joveo-applied-20261106",
+      "opportunity_id": "joveo-applied-20261106",
+      "title": "Senior Product Manager",
+      "company": "Joveo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.linkedin.com/jobs/",
+      "emails": [
+        {
+          "msg_id": "1a1b0b43f07831bd",
+          "subject": "Minesh, your application was sent to Joveo",
+          "date": "Fri, 6 Nov 2026 07:36:14 +0000 (UTC)",
+          "alert_query": "LinkedIn Application Confirmation"
+        }
+      ],
+      "gate_1_status": "ALREADY_APPLIED",
+      "gate_2_status": "N/A",
+      "disposition": "Already Applied on 2026-11-06 (Tracked for deduplication)"
+    }
+  ]
+}

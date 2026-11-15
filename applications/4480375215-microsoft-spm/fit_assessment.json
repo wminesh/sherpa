@@ -1,0 +1,77 @@
+{
+  "opportunity_id": "4480375215-microsoft-spm",
+  "company": "Microsoft",
+  "role_title": "Senior Product Manager (Microsoft Security - Endpoint)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid / On-site",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 52,
+  "priority_band": "Not Suitable",
+  "disposition": "Not Suitable",
+  "confidence_level": "High",
+  "recommendation": "Do Not Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 70,
+      "weighted_score": 17.5,
+      "rationale": "Strong general enterprise product strategy, roadmap execution, and AI-enabled workflow design at Lowe's India, but lacks security-risk-based prioritization and threat-research discovery craft."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 15,
+      "weighted_score": 3.0,
+      "rationale": "Hard must-have domain mismatch: JD explicitly requires 'Strong experience in cybersecurity, security products or closely related enterprise security technologies' and expertise in endpoint security, EDR, Microsoft Intune, or mobile/device security, none of which exist in canonical_master_profile.md."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 40,
+      "weighted_score": 8.0,
+      "rationale": "Candidate has B.Tech CS and enterprise reliability/AI workflow experience, but zero technical depth in endpoint protection, threat detection/investigation/response, OS security across Windows/macOS/Linux/iOS/Android, or device compliance architecture."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 60,
+      "weighted_score": 9.0,
+      "rationale": "Requires 8+ years of Product Management experience specifically building complex enterprise/security products; candidate has ~6 years in formal PM titles (~11 years total career) and zero years in cybersecurity PM."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 60,
+      "weighted_score": 6.0,
+      "rationale": "Strong enterprise reliability (99.99%) and incident reduction metrics at Lowe's, but no security threat detection, endpoint compliance, or SecOps outcome metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 75,
+      "weighted_score": 3.75,
+      "rationale": "Proven cross-functional influence without authority across engineering and IT/operations, but lacks experience engaging enterprise SecOps teams, security researchers, and CISOs."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 95,
+      "weighted_score": 4.75,
+      "rationale": "Bengaluru hybrid/on-site matches candidate's location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end product strategy and execution for Microsoft Security Endpoint scenarios (endpoint protection, EDR, device security, mobile protection).",
+    "seniority_alignment": "Stretch/Mismatch: requires 8+ years formal PM experience with deep enterprise security background.",
+    "product_discipline": "Cybersecurity & Endpoint Security Product Management — material mismatch with candidate's Enterprise Operations, Growth, and EdTech PM profile.",
+    "domain_relevance": "Not suitable: zero cybersecurity, endpoint detection & response (EDR), or device management (Intune) experience.",
+    "leadership_expectations": "Requires partnering with security research teams, enterprise SecOps personas, and IT security administrators.",
+    "evidence_strength": "Critical must-have requirements (cybersecurity & endpoint security product experience) are complete gaps; AGENTS.md strictly forbids fabricating security architecture claims."
+  },
+  "key_strengths": [
+    "Enterprise platform reliability (99.99%), incident management workflows, and AI-driven operational automation at Lowe's India (lines 75-100).",
+    "Demonstrated ability to influence cross-functional engineering and operations teams without formal authority (lines 485-488)."
+  ],
+  "positioning_angle": "Not recommended for application. While enterprise reliability and incident operations at Lowe's share surface terminology with security incident operations, this is a dedicated cybersecurity/endpoint protection role requiring domain expertise that cannot be credibly bridged.",
+  "red_flags_and_gaps": [
+    "Hard must-have gap: 'Strong experience in cybersecurity, security products or closely related enterprise security technologies.'",
+    "Hard domain gap across endpoint protection, threat detection, EDR, Microsoft Intune, and cross-platform OS/mobile security.",
+    "8+ years formal PM requirement exceeds candidate's ~6 years of formal PM title tenure (though overall career is ~11 years).",
+    "AGENTS.md explicitly prohibits fabricating security architecture or permission/security system expertise."
+  ],
+  "assumptions_and_user_confirmations": []
+}

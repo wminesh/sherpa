@@ -1,0 +1,94 @@
+{
+  "opportunity_id": "4485584664-motive-spm-growth",
+  "company": "Motive",
+  "role_title": "Senior Product Manager, Growth (Workforce Management)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "5+ years of experience in Product Management, including experience owning SaaS, growth, or commercially successful software products.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L176, canonical_master_profile.md:L217-L283",
+      "evidence_summary": "6+ years in formal PM/SPM titles (Byju's July 2020–April 2023, Lowe's India Sep 2024–Present) plus Founder of Hype (2023–2024) and earlier product roles at Byju's (2015–2020), owning high-scale growth, SaaS consulting, and enterprise software platforms.",
+      "positioning_bridge": "Directly meets 5+ years PM and growth/software ownership requirement."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Define and execute product growth strategy across acquisition, activation, conversion, retention, and expansion.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L123-L161, canonical_master_profile.md:L183-L198, canonical_master_profile.md:L227-L247, canonical_master_profile.md:L372-L391",
+      "evidence_summary": "Led growth and funnel strategy at Byju's (generating 2.5L+ SQLs and improving lead conversion by 35%, plus +5% course completion on Tynker), Hype (+50% engagement, +30% traffic, 80%+ completion), and HealthQ Rehab (+35% organic traffic, +20% brand engagement).",
+      "positioning_bridge": "Directly highlight full-funnel growth ownership spanning acquisition, activation, conversion, and retention."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Demonstrated ability to formulate, prioritize, and execute product roadmaps in partnership with engineering, design, marketing, sales, and customer teams.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L83, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L367-L368",
+      "evidence_summary": "Defined and executed product roadmaps across engineering, design, marketing, finance, and operations teams at Lowe's India and Byju's.",
+      "positioning_bridge": "Directly supported across both enterprise platform and growth product roles."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Strong analytical skills and experience using qualitative and quantitative data and rapid, iterative experimentation to guide product decisions.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L83, canonical_master_profile.md:L137, canonical_master_profile.md:L232-L239, canonical_master_profile.md:L386-L391",
+      "evidence_summary": "Led product experimentation, funnel friction analysis, and KPI framework design across Byju's (12 cross-product prototypes, 35% conversion lift, 5% completion lift) and Lowe's India.",
+      "positioning_bridge": "Directly emphasize hypothesis-driven experimentation and KPI-led prioritization."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "Deep customer empathy and ability to translate complex customer problems into simple, compelling product experiences.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L96-L100, canonical_master_profile.md:L261-L268, canonical_master_profile.md:L386-L391",
+      "evidence_summary": "Simplified complex operational workflows for store setup teams at Lowe's (20% cycle time reduction) and redesigned instructor/learner workflows at WhiteHat Jr. (15% reduction in instructor training time) and Tynker (+5% completion).",
+      "positioning_bridge": "Highlight workflow simplification for both operational teams and end users."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "Experience scaling products that serve physical operations, workforce management, fleet/equipment operations, or enterprise operational teams.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L52-L100",
+      "evidence_summary": "At Lowe's India, built and scaled an enterprise asset lifecycle platform ($2M annual cost savings) and an AI-driven procurement and catalog system that reduced operational cycle times by 20% for physical store setup teams.",
+      "positioning_bridge": "Strong adjacent bridge from Lowe's physical store setup operations and enterprise asset lifecycle management to Motive's physical operations and workforce management context."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Lead customer discovery, market research, and competitive analysis to identify high-value growth opportunities.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L131-L138, canonical_master_profile.md:L227-L239, canonical_master_profile.md:L372-L391",
+      "evidence_summary": "Conducted funnel friction analysis, audience demand alignment, and GTM opportunity discovery across Byju's, Hype, and HealthQ Rehab.",
+      "positioning_bridge": "Directly supported by GTM and growth discovery track record."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "B2B SaaS Product-Led Growth & Physical Operations / Workforce Management.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L25-L35, canonical_master_profile.md:L48-L100, canonical_master_profile.md:L217-L248",
+      "evidence_summary": "Combines direct Product-Led Growth and funnel optimization expertise (Byju's, Hype) with physical retail store setup and enterprise asset operations experience (Lowe's India), though without prior fleet/telematics WFM software ownership.",
+      "positioning_bridge": "Synthesize PLG/funnel conversion mastery with Lowe's physical operations & asset lifecycle experience."
+    }
+  ],
+  "summary_counts": {
+    "direct": 6,
+    "adjacent": 2,
+    "gap": 0,
+    "total": 8
+  }
+}

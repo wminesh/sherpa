@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Kolkata",
+  "interval_days": 3,
+  "run_hour": 12,
+  "run_minute": 0,
+  "last_run_at": "2026-11-15T14:08:20+05:30",
+  "last_run_date": "2026-11-15",
+  "last_run_mode": "on_demand",
+  "next_scheduled_date": "2026-11-18",
+  "next_scheduled_at": "2026-11-18T12:00:00+05:30",
+  "cron_expression": "CRON_TZ=Asia/Kolkata 0 12 18,21,24,27,30 * *"
+}

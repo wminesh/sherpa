@@ -1,0 +1,79 @@
+{
+  "opportunity_id": "4470165775-duck-creek-spm-agentic",
+  "company": "Duck Creek Technologies",
+  "role_title": "Senior Product Manager, Agentic Application",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid (2-3 days/week in office)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 76,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong direct evidence of owning enterprise product strategy, quarterly/annual roadmaps, KPI frameworks, and cross-functional delivery across engineering, operations, and business teams at Lowe's India (lines 64-82)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 55,
+      "weighted_score": 11.0,
+      "rationale": "Strong transferable alignment on automating complex enterprise catalog and procurement workflows (20% cycle time reduction at Lowe's, lines 96-99), but zero direct Property & Casualty (P&C) insurance, underwriting, rate manual, or policy configuration domain experience."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 65,
+      "weighted_score": 13.0,
+      "rationale": "B.Tech in CS (lines 325-327) plus hands-on product ownership of an AI-driven procurement/catalog platform and automated incident recovery workflows at Lowe's (lines 84-99). However, specialized JD topics such as knowledge graph entity modeling, LLM evaluation harnesses, LangGraph orchestration, and event-driven agent checkpointing are not evidenced in the canonical profile."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 85,
+      "weighted_score": 12.75,
+      "rationale": "Meets the 6+ years experience requirement with ~6 years of formal PM titles (July 2020–Present) and ~11 years of total technology/product career experience, currently serving as Senior Product Manager at Lowe's India."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 85,
+      "weighted_score": 8.5,
+      "rationale": "Strong track record of measurable enterprise operational outcomes, including 20% operational cycle time reduction, ~$10M annual revenue protection savings, $2M annual cost savings, and 99.99% platform reliability (lines 75-100, 499-503)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Demonstrated ability to align engineering, operations, finance, and VP/CXO stakeholders without formal authority (lines 65-71, 477-488)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 95,
+      "weighted_score": 4.75,
+      "rationale": "Based in Bangalore, Karnataka (line 9), directly matching the Bengaluru hybrid (2-3 days/week in office) requirement."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end ownership of an enterprise agentic AI application for insurance product configuration, spanning document ingestion, extraction, validation, and human-in-the-loop review workflows.",
+    "seniority_alignment": "Strong alignment with Senior Product Manager level (6+ years required; candidate is an incumbent SPM at Lowe's India with ~11 years overall experience).",
+    "product_discipline": "Technical/Enterprise AI & Workflow Platform Product Management — well aligned with candidate's enterprise workflow automation and AI-assisted procurement/catalog product background.",
+    "domain_relevance": "Adjacent on enterprise workflow/catalog configuration automation; explicit gap on P&C insurance, underwriting manuals, and carrier filing documents.",
+    "leadership_expectations": "High cross-functional influence across Engineering, Architecture, Data Science, AI Platform, and Professional Services — strongly evidenced at Lowe's India.",
+    "evidence_strength": "Strong direct evidence for core PM execution, KPI governance, and enterprise AI workflow efficiency; adjacent/missing evidence for deep LLM eval harnesses, knowledge graphs, and P&C insurance domain."
+  },
+  "key_strengths": [
+    "Designed and launched an AI-driven procurement and catalog system at Lowe's India that reduced operational cycle times by 20% for store setup teams (lines 96-99).",
+    "Led automated recovery systems and incident handling workflows at Lowe's India, delivering ~$10M in annual revenue protection savings and 99.99% platform reliability (lines 75-90).",
+    "B.Tech in Computer Science Engineering (Manipal Institute of Technology) paired with executive governance and KPI framework design tracking adoption, efficiency, and cost savings (lines 77-82, 325-327)."
+  ],
+  "positioning_angle": "Position as an Enterprise Platform & AI Workflow Senior Product Manager who has designed and scaled AI-driven procurement/catalog workflows (20% cycle time reduction) and automated operational recovery systems (~$10M annual savings) at Lowe's India. Emphasize translating complex, manual operational processes into governed, measurable, agentic and automated workflows with rigorous KPI frameworks, while explicitly bridging enterprise catalog/asset configuration to insurance product configuration.",
+  "red_flags_and_gaps": [
+    "No prior Property & Casualty (P&C) insurance, InsurTech, underwriting, or policy administration domain experience.",
+    "No direct evidence in canonical_master_profile.md of building knowledge graphs (entity relationship modeling, dependency graph traversal), LLM evaluation harnesses, or LangGraph/Pub-Sub agent checkpointing architectures.",
+    "Guardrail reminder: Incorporate 'agents' / 'agentic workflows' only around genuine Lowe's AI procurement/catalog and automated recovery workflow experience; do not fabricate knowledge graphs, LangGraph, or LLM eval harness ownership."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether Minesh has any hands-on exposure to LLM evaluation frameworks, document extraction pipelines, or knowledge graph concepts at Lowe's India that can be truthfully referenced during interviews."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "opportunity_id": "4488663182-intuit-staff-pm",
+  "company": "Intuit",
+  "role_title": "Staff Product Manager (QuickBooks Time Verticalization)",
+  "location": "Greater Bengaluru Area, India",
+  "workplace_mode": "Hybrid",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 59,
+  "priority_band": "Not Suitable",
+  "disposition": "Not Suitable",
+  "confidence_level": "High",
+  "recommendation": "Do Not Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 72,
+      "weighted_score": 18.0,
+      "rationale": "Strong enterprise roadmap, platform configuration, and cross-functional execution craft, though not evidenced at Staff PM scope across multi-product HCM/Payroll/Accounting ecosystems."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 25,
+      "weighted_score": 5.0,
+      "rationale": "Material domain gap: requires deep domain expertise in labor-intensive business workflows (time-to-payroll rules, overtime/break compliance, construction job costing, cost codes, certified payroll, and field service dispatch/geofencing) and a proven track record in HCM, workforce management, construction/field service software, or fintech."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 65,
+      "weighted_score": 13.0,
+      "rationale": "B.Tech CS and enterprise platform/AI workflow experience at Lowe's India align with general platform fluency, but candidate lacks payroll/accounting system integration and offline mobile/kiosk geofenced time-tracking experience."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 52,
+      "weighted_score": 7.8,
+      "rationale": "Staff Product Manager role requiring 8+ years of PM craft specifically scaling customer-facing products in HCM, workforce management, construction/field services, or fintech; candidate is a Senior PM with ~6 years of formal PM titles (~11 years total career) in Retail Enterprise Ops and EdTech."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 65,
+      "weighted_score": 6.5,
+      "rationale": "Strong enterprise savings ($10M revenue protection, $2M cost savings) and funnel conversion (35% lift), but lacks mid-market B2B SaaS ARR, attach rate, or ARPC growth metrics in HCM/Fintech."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 80,
+      "weighted_score": 4.0,
+      "rationale": "Strong experience working across US and India engineering/business stakeholders at Lowe's India and influencing without formal authority."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 94,
+      "weighted_score": 4.7,
+      "rationale": "Greater Bengaluru hybrid work mode aligns with candidate's location."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Staff Product Manager owning multi-year verticalization of QuickBooks Time for construction and field services across Time-to-Payroll, Job Costing (estimates vs. actuals), and Worker Time Tracking (Web, Kiosk, Mobile).",
+    "seniority_alignment": "Material stretch/mismatch: Staff PM level requiring 8+ years formal PM craft with specific domain pedigree.",
+    "product_discipline": "Vertical SaaS / HCM, Payroll & Construction Job-Costing Platform PM.",
+    "domain_relevance": "Low domain relevance: zero HCM, payroll, time & attendance, construction certified payroll, or accounting job-costing experience in canonical_master_profile.md.",
+    "leadership_expectations": "Staff-level IC influence across Projects, Payroll, Accounting, GTM, and US/India engineering teams.",
+    "evidence_strength": "Core domain and Staff-level HCM/Fintech track record requirements are explicit gaps."
+  },
+  "key_strengths": [
+    "Enterprise asset lifecycle platform ($2M annual cost savings) and AI-driven store setup procurement/catalog system (20% cycle time reduction) at Lowe's India (lines 91-99).",
+    "Strong US-India cross-functional stakeholder alignment and P&L/budgeting governance (lines 475-494)."
+  ],
+  "positioning_angle": "Not recommended for application. Despite surface overlap around 'workforce' and 'configurable platform', the substance of this Staff PM role centers on US construction/field-services payroll rules, certified payroll, job costing, and HCM time-tracking domain depth where the profile has no defensible evidence.",
+  "red_flags_and_gaps": [
+    "Explicit qualification gap: '8+ years of product management craft... proven track record of building and scaling customer-facing products in HCM, workforce management, construction or field service software, or fintech.'",
+    "Deep domain requirement around time-to-payroll calculations, construction cost codes, certified payroll, job costing estimates vs. actuals, and legacy TSheets migration.",
+    "Staff PM leveling combined with domain mismatch creates a high-probability screen rejection."
+  ],
+  "assumptions_and_user_confirmations": []
+}

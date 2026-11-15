@@ -1,0 +1,112 @@
+{
+  "opportunity_id": "4488663182-intuit-staff-pm",
+  "company": "Intuit",
+  "role_title": "Staff Product Manager (QuickBooks Time Verticalization)",
+  "canonical_profile_version": "1.1.0",
+  "gate_3_status": "PASS",
+  "gate_4_status": "PASS",
+  "must_have": [
+    {
+      "id": "MH-1",
+      "category": "must_have",
+      "requirement": "8+ years of product management craft, including ownership of a complex, multi-team product area as a senior individual contributor.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L48-L100, canonical_master_profile.md:L217-L316",
+      "evidence_summary": "10+ years of product development and PM experience (Byju's 2015–2023 progressing to Senior PM; Hype Founder 2023–2024; Lowe's India Senior PM 2024–Present), owning multi-team enterprise reliability, asset lifecycle, and AI procurement platforms.",
+      "positioning_bridge": "Highlight 10-year product craft and multi-stakeholder platform ownership at Lowe's India and Byju's."
+    },
+    {
+      "id": "MH-2",
+      "category": "must_have",
+      "requirement": "Proven track record of building and scaling customer-facing products in HCM, workforce management, construction or field service software, or fintech.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No HCM, payroll, time & attendance, construction/field-service job costing, or fintech product experience exists in canonical_master_profile.md.",
+      "positioning_bridge": "Significant domain gap; bridge from Lowe's physical store setup procurement workflows and enterprise asset lifecycle management ($2M savings) without claiming HCM/payroll product ownership."
+    },
+    {
+      "id": "MH-3",
+      "category": "must_have",
+      "requirement": "Domain Depth: Understand how hours become payroll (overtime, break policies, pay items), how time/cost rates become job costs (estimates vs. actuals, certified payroll, cost codes), and worker time tracking (web, kiosk, mobile, geofencing).",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No time-to-payroll, construction job costing, certified payroll, or geofenced kiosk/mobile worker time-tracking experience is evidenced in canonical_master_profile.md.",
+      "positioning_bridge": "Acknowledge direct domain gap; relate internal budgeting, headcount planning, P&L ownership (L459-L462), and store setup operational workflows at Lowe's as transferable business context."
+    },
+    {
+      "id": "MH-4",
+      "category": "must_have",
+      "requirement": "Strategic & Influential: Executive presence, translating market and customer insight into strategy and roadmap, bringing partner teams along without direct authority.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L65-L72, canonical_master_profile.md:L477-L488, canonical_master_profile.md:L552-L558",
+      "evidence_summary": "Presented monthly business reviews to VP/CXO stakeholders, prepared board-level narratives, and drove enterprise alignment without formal authority across engineering, product, finance, and operations at Lowe's India.",
+      "positioning_bridge": "Directly emphasize executive governance and influencing without formal authority."
+    },
+    {
+      "id": "MH-5",
+      "category": "must_have",
+      "requirement": "A Proven Growth Driver: Track record of spearheading complex initiatives delivering measurable business growth (adoption, attach, ARPC, retention, P&L growth).",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L75-L100, canonical_master_profile.md:L234-L239, canonical_master_profile.md:L489-L494",
+      "evidence_summary": "Owned P&L responsibilities, delivered ~$10M annual revenue protection and $2M cost savings at Lowe's India, and drove 2.5L+ SQLs and 35% conversion lift at Byju's.",
+      "positioning_bridge": "Directly cite P&L ownership, platform adoption KPIs, and quantified revenue/conversion impact."
+    },
+    {
+      "id": "MH-6",
+      "category": "must_have",
+      "requirement": "BA or BS degree is required.",
+      "classification": "Direct",
+      "canonical_line_refs": "canonical_master_profile.md:L325-L328",
+      "evidence_summary": "B.Tech. in Computer Science Engineering from Manipal Institute of Technology (2011–2015).",
+      "positioning_bridge": "Directly meets requirement."
+    }
+  ],
+  "preferred": [
+    {
+      "id": "PR-1",
+      "category": "preferred",
+      "requirement": "MBA or advanced degree is preferred.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L321-L324",
+      "evidence_summary": "Completing Executive General Management Program at IIM Bangalore (2025–2026, ongoing).",
+      "positioning_bridge": "Highlight IIM Bangalore EGMP as executive post-graduate management education."
+    },
+    {
+      "id": "PR-2",
+      "category": "preferred",
+      "requirement": "Technical Fluency across web, mobile, and kiosk products on a shared platform (APIs, data models, payroll/accounting integrations) and fluency in AI-native tools and agentic AI.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L56-L100, canonical_master_profile.md:L265-L269, canonical_master_profile.md:L464-L472",
+      "evidence_summary": "Built unified enterprise asset lifecycle and AI-driven procurement platforms with finance/operations stakeholders at Lowe's India, and led mobile/web app redesigns at Byju's (Tynker). Does not document payroll/accounting API integrations or kiosk hardware/geofencing.",
+      "positioning_bridge": "Highlight shared enterprise platform design, finance stakeholder alignment, and AI workflow automation at Lowe's."
+    }
+  ],
+  "implicit": [
+    {
+      "id": "IM-1",
+      "category": "implicit",
+      "requirement": "Translate industry-specific workflows into shared platform concepts and configurable experiences so serving a new vertical is mostly configuration rather than new code.",
+      "classification": "Adjacent",
+      "canonical_line_refs": "canonical_master_profile.md:L91-L100, canonical_master_profile.md:L238, canonical_master_profile.md:L388",
+      "evidence_summary": "Spearheaded a unified enterprise asset lifecycle platform and AI catalog/procurement system at Lowe's India, and developed 12 cross-product learning experience prototypes across Aakash-Byju's, Tynker, and WhiteHat Jr.",
+      "positioning_bridge": "Bridge from unified cross-ecosystem platform design at Lowe's and Byju's to configurable multi-vertical platform architecture."
+    }
+  ],
+  "domain": [
+    {
+      "id": "DM-1",
+      "category": "domain",
+      "requirement": "HCM, Workforce Time & Attendance, Payroll Integration, and Construction / Field Services Job Costing.",
+      "classification": "Gap",
+      "canonical_line_refs": "None",
+      "evidence_summary": "No HCM, payroll, time tracking, or construction/field-services job costing domain experience in canonical_master_profile.md.",
+      "positioning_bridge": "Core Staff-level vertical domain requirement (time-to-payroll and construction job costing) is a Gap."
+    }
+  ],
+  "summary_counts": {
+    "direct": 4,
+    "adjacent": 3,
+    "gap": 3,
+    "total": 10
+  }
+}
