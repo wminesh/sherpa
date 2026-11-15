@@ -1,0 +1,81 @@
+{
+  "opportunity_id": "4488924130-angel-one-spm",
+  "company": "Angel One",
+  "role_title": "Senior Product Manager",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 81,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "Medium",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong direct evidence for end-to-end roadmap ownership, KPI frameworks, cross-functional execution, and product launches across Lowe's India and Byju's (lines 64-100, 227-239, 259-275). Score is tempered because formal usability testing, structured user interviews, explicit PRD/user-story artifacts, formal A/B testing ownership, and personalization-system ownership are adjacent or unvalidated in canonical_master_profile.md (lines 651, 656-658)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 68,
+      "weighted_score": 13.6,
+      "rationale": "Clear domain gap in fintech, retail investing, stockbroking, trading, and regulated financial Super Apps. Partially offset by ~7.8 years of B2C consumer tech product development and PM experience at Byju's (onboarding/acquisition funnels, app redesign, 12 cross-product prototypes; lines 217-315) and complex internal system reliability/workflow improvements at Lowe's India (~$10M revenue protection reducing order cancellations; lines 84-100), which aligns with the JD's emphasis on complex internal systems and consumer journeys."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 82,
+      "weighted_score": 16.4,
+      "rationale": "B.Tech. in Computer Science Engineering (lines 325-327) paired with Senior PM ownership in Reliability Engineering and Infrastructure & Operations at Lowe's India, including automated recovery systems, AI-driven procurement/catalog workflows, and internal enterprise analytics/dashboarding (lines 52-100, 464-467). Does not claim B2C ML personalization model ownership, real-time data infrastructure engineering, or commercial analytics tools like Mixpanel/Amplitude/GA4 (lines 652, 660, 663)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 76,
+      "weighted_score": 11.4,
+      "rationale": "11+ years overall experience (since June 2015) and current Senior PM title at Lowe's India (plus PM/SPM at Byju's; lines 48-50, 217-219). However, formal titled PM/SPM tenure is ~5 years (with prior 5 years in 'Multiple Roles' under Product Development), the most recent 2+ years are in enterprise infrastructure rather than consumer tech startups, and credentials (Manipal B.Tech. CS + ongoing IIM Bangalore EGMP executive certificate; lines 321-327) do not strictly constitute a completed Tier-1 full-time engineering or MBA degree."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 88,
+      "weighted_score": 8.8,
+      "rationale": "Strong quantified product and business KPI deltas across both B2C consumer funnels (2.5L+ sales-qualified leads, +35% lead conversion, +5% course completion, -15% instructor training time, 4.5+ ratings, 80%+ completion; lines 148-160, 234-239, 261-269) and enterprise reliability/efficiency (99.99% reliability, ~$10M annual revenue protection savings, $2M cost savings, 20% operational cycle time reduction; lines 75-100)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 92,
+      "weighted_score": 4.6,
+      "rationale": "Extensive cross-functional coordination across engineering, design, product, finance, operations, IT, and marketing verticals, plus monthly business reviews with VP/CXO leadership and influencing without formal authority (lines 65-71, 230, 477-493, 553-554)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 96,
+      "weighted_score": 4.8,
+      "rationale": "Bengaluru hybrid role aligns directly with candidate's Bangalore location with zero relocation friction (lines 8-9)."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end Senior PM ownership of consumer onboarding/investing journeys, KPIs, roadmaps, experimentation, personalization collaboration, and complex internal system improvements for Angel One's fintech Super App.",
+    "seniority_alignment": "Viable Senior PM alignment (~11 yrs total experience, ~5 yrs formal PM/SPM + ~5 yrs Product Development at Byju's), though strict screening on '7+ yrs PM in consumer startups' and 'Tier-1 degree' creates screening friction.",
+    "product_discipline": "Consumer B2C Growth/Onboarding & Core Product Management blended with complex internal systems workflow optimization.",
+    "domain_relevance": "Moderate/Adjacent: no prior fintech, trading, or wealth management domain background; bridges via large-scale B2C consumer funnels (Byju's) and high-reliability transaction/workflow systems (Lowe's India).",
+    "leadership_expectations": "Cross-functional execution across Design, Engineering, Data Analytics, Marketing, and Operations plus business vertical KPI alignment — directly supported by canonical evidence.",
+    "evidence_strength": "Strong direct evidence on KPI ownership, roadmapping, cross-functional leadership, and technical/B2C scale; adjacent/gap areas in fintech domain, formal user research (usability testing/interviews), A/B testing, and personalization."
+  },
+  "key_strengths": [
+    "Rare dual-track fit for the JD's combined mandate: B2C acquisition/onboarding funnel scale at Byju's (2.5L+ SQLs, +35% lead conversion, Tynker app redesign +5% completion, 12 cross-product prototypes; lines 234-239, 265-269) paired with deep complex internal system and reliability ownership at Lowe's India (99.99% reliability, ~$10M annual revenue protection reducing order cancellations, AI-driven procurement cutting cycle time 20%; lines 75-100).",
+    "Proven end-to-end KPI framework design, operational/funnel analytics, and ROI-driven roadmap prioritization driving measurable commercial outcomes across consumer and enterprise environments (lines 65-100, 234-239, 454-463).",
+    "Strong technical foundation (B.Tech. CS, Reliability Engineering & Infrastructure PM) and executive stakeholder communication across Engineering, Design, Marketing, Finance, and Operations (lines 65-71, 325-327, 477-493)."
+  ],
+  "positioning_angle": "Position as a high-ownership Senior Product Manager who combines 7+ years of B2C consumer-scale funnel, onboarding, and multi-product journey optimization (Byju's) with enterprise-grade technical systems reliability and AI-enabled workflow execution (Lowe's India). Emphasize measurable conversion, retention, and transaction-protection outcomes while transparently bridging B2C experimentation and complex internal systems to Angel One's Super App scale.",
+  "red_flags_and_gaps": [
+    "Explicit Fintech / Wealth / Trading Domain Gap (DM-1): Zero documented experience in fintech, retail investing, broking, KYC/onboarding compliance, or regulated financial products.",
+    "Consumer-Startup PM Tenure & Recency Nuance (MH-2): Most recent 2+ years (Sep 2024–Present) are in enterprise infrastructure/reliability at Lowe's India rather than a consumer tech startup, and formal titled PM/SPM tenure is ~5 years (with prior 5 years in 'Multiple Roles' under Product Development).",
+    "Tier-1 Education Filter Risk (MH-1): B.Tech. CS from Manipal Institute of Technology plus an ongoing Executive General Management Program (EGMP) at IIM Bangalore may face strict automated/recruiter screening if 'Tier 1 engineering/management degree' requires IIT/NIT/IIM full-time alumni.",
+    "User Research, A/B Testing & Personalization Rigor (MH-7, DM-5, DM-6, DM-7): Master profile evidences quantitative funnel/operational experimentation and UX friction reduction, but lacks explicit documented ownership of formal usability testing, user interviews, A/B testing frameworks, PRD artifacts, or ML personalization models."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether the candidate has unrecorded hands-on experience conducting formal usability testing, structured user interviews, or controlled A/B tests at Byju's or Lowe's India before referencing those specific research methods in interviews or future CV iterations.",
+    "Confirm whether to treat Manipal B.Tech. + ongoing IIM Bangalore EGMP as sufficient to proceed despite strict Tier-1 degree screening risk and fintech domain gap."
+  ]
+}

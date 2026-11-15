@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4455785920-amazon-sr-mgr-ads",
+  "company": "Amazon",
+  "role_title": "Sr. Manager, Product Management Tech, India Advertising",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 63,
+  "priority_band": "Not Suitable",
+  "disposition": "Not Suitable",
+  "confidence_level": "High",
+  "recommendation": "Do Not Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Strong direct evidence for roadmap strategy/definition (MH-3), feature delivery and ROI tradeoffs (MH-4), zero-to-one structure in ambiguity (IM-1), and consumer software delivery in high-growth EdTech at Byju's (PR-1; lines 65-100, 227-275). However, this PM execution was in enterprise infrastructure/ops and EdTech rather than commercial AdTech products."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 42,
+      "weighted_score": 8.4,
+      "rationale": "Critical domain gap (DM-1): zero documented experience in programmatic advertising, Demand-Side Platforms (Amazon DSP), ad-serving, bidding, ad relevance, or ads utilization metrics, and canonical_master_profile.md explicitly notes no marketing ROAS/incrementality ownership (line 668). Growth/lifecycle marketing at HealthQ and Hype (lines 119-209) and consumer funnel optimization at Byju's (lines 234-238) provide only weak adjacency to advertiser-facing DSP product leadership."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 60,
+      "weighted_score": 12.0,
+      "rationale": "B.Tech in Computer Science Engineering (lines 325-327) and platform/AI workflow PM experience at Lowe's India (AI-driven procurement/catalog system, automated recovery, 99.99% reliability; lines 75-99) support baseline PM-Tech credibility, but lack AdTech/DSP technical architecture depth (programmatic bidding, targeting, attribution, ad-relevance systems)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 50,
+      "weighted_score": 7.5,
+      "rationale": "Clear Basic Qualification and level mismatch for an Amazon L7-equivalent Sr. Manager PM-Tech role requiring '6+ years of team management experience' (MH-1). Candidate is currently an individual-contributor Senior PM at Lowe's India influencing without formal authority (line 487), has ~6 years in formal PM titles (since July 2020), and only one documented lead-management span ('Led team of 5 product leads for Commerce product development' during the 5-year Multiple Roles period, June 2015–June 2020; line 307) plus an 8-month Head of Marketing role (lines 179-181)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 66,
+      "weighted_score": 6.6,
+      "rationale": "Strong enterprise and funnel outcomes (~$10M annual revenue protection, $2M cost savings, 20% cycle time reduction at Lowe's; 2.5L+ SQLs and 35% lead conversion lift at Byju's; lines 84-99, 234-238) and P&L/budgeting ownership (lines 489-494), but no commercial ownership of advertising revenue, advertiser retention, ads utilization, or ad relevance KPIs (MH-5)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 60,
+      "weighted_score": 3.0,
+      "rationale": "Proven VP/CXO executive governance and cross-functional alignment across Engineering, Finance, Operations, and Marketing/Sales funnels (lines 65-71, 477-494), but lacks 6+ years of formal people/org management over dedicated product and engineering teams and direct partnership with WW Ads and India Ad Sales/Demand/Account Management teams (MH-6)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru, Karnataka location aligns directly with the candidate's Bangalore base with zero relocation friction; full-time on-site mode is slightly more constraining than hybrid/remote."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "India market leadership for Amazon DSP (ADSP) North Star vision, product capability scaling, dedicated product/engineering team leadership, and full business/CX metrics (advertising revenue, ads utilization, ads relevance, advertiser retention).",
+    "seniority_alignment": "Misaligned on Basic Qualification and management level: role requires 6+ years of team management experience (Sr. Manager PM-Tech), whereas candidate is currently an IC Senior PM at Lowe's India without formal authority and lacks 6+ years of documented formal people management.",
+    "product_discipline": "Programmatic AdTech / DSP Product Management Tech — core PM craft (roadmaps, tradeoffs, consumer software delivery) is strong, but programmatic advertising product discipline is absent.",
+    "domain_relevance": "Low direct relevance: zero AdTech, DSP, programmatic media, or retail media product ownership; growth marketing (Hype, HealthQ) and EdTech funnel growth (Byju's) are only weakly adjacent.",
+    "leadership_expectations": "Requires managing a dedicated product & engineering org with 6+ years team management plus heavy global/local commercial alignment with WW Ads and India Ad Sales, Demand, Marketing, and Account Management.",
+    "evidence_strength": "5 Direct, 5 Adjacent, 1 critical Domain Gap in requirement_matrix.json; strong general PM/execution evidence is outweighed by the hard 6+ years team management deficit and complete absence of AdTech/DSP domain experience."
+  },
+  "key_strengths": [
+    "Proven product strategy, multi-quarter roadmapping, and end-to-end feature delivery across Lowe's India and Byju's, including consumer software scaling in a high-growth environment (lines 65-100, 227-275).",
+    "Technical Computer Science foundation (B.Tech CSE, Manipal) paired with enterprise AI/platform delivery (~$10M revenue protection, $2M cost savings, 20% faster procurement cycle times, 99.99% reliability; lines 75-99, 325-327) and ongoing IIM Bangalore EGMP (lines 321-323).",
+    "P&L, forecasting, ROI prioritization, and marketing/growth funnel execution (2.5L+ SQLs, 35% lead conversion lift at Byju's; organic/social/email growth at HealthQ and Hype; lines 141-209, 234-238, 489-494)."
+  ],
+  "positioning_angle": "If ever pursued opportunistically via referral rather than cold application, frame as a Senior PM-Tech leader with B.Tech CSE, consumer software growth at Byju's, enterprise AI/platform scaling at Lowe's India, and hands-on performance/lifecycle marketing fluency—while candidly acknowledging no prior DSP/AdTech product ownership and less than 6 years of formal direct-report management. Given the hard Basic Qualification screen on 6+ years team management and deep AdTech domain requirement, application ROI is low and recommending Do Not Apply is appropriate.",
+  "red_flags_and_gaps": [
+    "Hard Basic Qualification gap (MH-1): JD requires '6+ years of team management experience'; canonical_master_profile.md supports managing 5 product leads during Byju's Multiple Roles period (June 2015–June 2020, exact duration within that 5-year span unspecified; line 307) and an 8-month Head of Marketing role (lines 179-181), while Lowe's India explicitly operates without formal authority (line 487). Cannot defensibly claim 6+ years of formal team management.",
+    "Critical domain gap (DM-1): Zero AdTech, Amazon DSP, programmatic bidding/serving, ad-utilization, or ad-relevance product experience, and explicit non-ownership of marketing ROAS/incrementality (line 668).",
+    "Scope and stakeholder gap (MH-5, MH-6): No documented experience managing advertising revenue/advertiser retention P&Ls or partnering with WW Ads and India Ad Sales / Account Management organizations."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirmed per canonical_master_profile.md v1.1.0 and AGENTS.md that Lowe's India Senior PM does not involve formal engineering/PM people management (line 487), and that exact duration of managing 5 product leads at Byju's (within June 2015–June 2020) does not reach 6+ years of team management.",
+    "No evidence of undisclosed AdTech/DSP consulting engagements under Hype Marketing & Product Services; only documented client engagements (Upraised, Programming Hub, Gradiant, Acadecraft) were evaluated."
+  ]
+}

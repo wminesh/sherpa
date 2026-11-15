@@ -272,6 +272,44 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
         .replace(/"/g, "&quot;");
     }
 
+    function cleanMarkdownForView(md, kind) {
+      if (!md) return "";
+      const lines = md.split("\n");
+      if (kind === "jd") {
+        const provIdx = lines.findIndex(l => l.startsWith("## Source Email Provenance"));
+        const jdIdx = lines.findIndex(l => l.startsWith("## Full Verbatim Job Description"));
+        const startIdx = provIdx !== -1 ? provIdx : (jdIdx !== -1 ? jdIdx : 0);
+        return lines.slice(startIdx).join("\n").trim();
+      }
+      if (kind === "audit" || kind === "dossier") {
+        const redundantKeys = [
+          "Opportunity ID:", "Target Company:", "Company:", "Target Role:", "Job Title:",
+          "Role Title:", "Location:", "Location & Work Mode:", "LinkedIn URL:",
+          "Canonical Master Profile Version:", "Canonical Source:", "Canonical Baseline:",
+          "Guardrails Reference:"
+        ];
+        const out = [];
+        let inHeaderBlock = true;
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          if (i === 0 && line.startsWith("# ")) continue;
+          if (inHeaderBlock) {
+            if (/^##\s+(Audit Metadata|1\. Opportunity Metadata)\s*$/.test(line.trim())) continue;
+            if (/^##\s+/.test(line.trim())) {
+              inHeaderBlock = false;
+              out.push(line);
+              continue;
+            }
+            if (line.trim().startsWith("- **") && redundantKeys.some(k => line.includes(k))) continue;
+            if (line.trim() === "---" && out.every(x => x.trim() === "")) continue;
+          }
+          out.push(line);
+        }
+        return out.join("\n").trim();
+      }
+      return md;
+    }
+
     function renderSimpleMarkdown(md) {
       if (!md) return "<p class='text-xs text-[var(--muted-foreground)]'>No content available.</p>";
       const lines = md.split("\n");
@@ -517,7 +555,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
                     <span class="text-xs px-2 py-0.5 rounded-full border font-semibold ${getDecisionBadgeClasses(item.recommendation)}">${escapeHtml(item.recommendation)}</span>
                   </div>
                   <div class="text-xs font-medium text-[var(--foreground)] mt-1 leading-snug">${escapeHtml(item.role_title)}</div>
-                  <div class="text-xs text-[var(--muted-foreground)] mt-0.5">${escapeHtml(item.location)} · ${escapeHtml(item.workplace_mode)} · ID: <code>${escapeHtml(item.job_id)}</code></div>
+                  <div class="text-xs text-[var(--muted-foreground)] mt-0.5">${escapeHtml(item.location)} · ${escapeHtml(item.workplace_mode)}</div>
                 </div>
                 <div class="text-right shrink-0">
                   <span class="inline-block text-xs font-bold px-2.5 py-1 rounded-lg border ${getScoreBadgeClasses(item.overall_fit_score)}">
@@ -527,28 +565,20 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
                 </div>
               </div>
 
-              <!-- File & Evidence Pills -->
+              <!-- Compact Evidence & CV Status Pills -->
               <div class="flex flex-wrap items-center gap-1.5 mt-2.5 pt-2.5 border-t border-[var(--border)] text-xs">
                 <span class="px-2 py-0.5 rounded bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)]" title="Direct / Adjacent / Gap Evidence">
                   Evidence: <strong class="text-emerald-500">${ev.direct}D</strong> / <strong class="text-amber-500">${ev.adjacent}A</strong> / <strong class="text-rose-500">${ev.gap}G</strong>
                 </span>
-                <span class="px-2 py-0.5 rounded bg-sky-500/10 text-sky-500 border border-sky-500/30 font-medium">
-                  JD: ${escapeHtml(item.dashboard_jd_file)}
-                </span>
                 ${item.dashboard_cv_pdf_file ? `
                   <span class="px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-500 border border-emerald-500/30 font-medium">
-                    CV: ${escapeHtml(item.dashboard_cv_pdf_file)}
+                    Tailored CV Ready
                   </span>
                 ` : `
                   <span class="px-2 py-0.5 rounded border border-[var(--border)] text-[var(--muted-foreground)]">
                     No CV (${escapeHtml(item.recommendation)})
                   </span>
                 `}
-                ${item.linkedin_url ? `
-                  <a href="${escapeHtml(item.linkedin_url)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" class="px-2 py-0.5 rounded border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]">
-                    LinkedIn ↗
-                  </a>
-                ` : ""}
               </div>
 
               <!-- Status Selector -->
@@ -652,9 +682,6 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       }
 
       const item = job.batch1Item;
-
-      const ev = item.evidence_counts || { direct: 0, adjacent: 0, gap: 0 };
-      const curStatus = getJobStatus(item.opportunity_id, item.application_status);
       const fit = item.fit_assessment_detail || {};
       const reqMatrix = item.requirement_matrix_detail || {};
 
@@ -668,13 +695,10 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
                 <span class="font-semibold">JD File:</span>
                 <code class="ml-1 select-all">/Users/mineshwadhwa/Documents/Sherpa/jds/${escapeHtml(item.dashboard_jd_file)}</code>
               </div>
-              <div class="flex items-center gap-2">
-                <a href="../jds/${escapeHtml(item.dashboard_jd_file)}" target="_blank" class="px-2.5 py-1 rounded bg-[var(--card)] border border-[var(--border)] hover:text-[var(--foreground)] font-medium">Open Raw JD</a>
-                <a href="${escapeHtml(item.linkedin_url)}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded bg-[var(--primary)] text-[var(--primary-foreground)] font-semibold">View on LinkedIn ↗</a>
-              </div>
+              <a href="../jds/${escapeHtml(item.dashboard_jd_file)}" target="_blank" class="px-2.5 py-1 rounded bg-[var(--card)] border border-[var(--border)] hover:text-[var(--foreground)] font-medium">Open Raw JD ↗</a>
             </div>
             <div class="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)] max-h-[540px] overflow-y-auto custom-scroll">
-              ${renderSimpleMarkdown(item.jd_markdown)}
+              ${renderSimpleMarkdown(cleanMarkdownForView(item.jd_markdown, "jd"))}
             </div>
           </div>
         `;
@@ -729,9 +753,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
                   ` : ""}
                 </div>
                 <div class="flex flex-wrap items-center gap-1.5">
-                  <button onclick="setCvSubMode('formatted')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'formatted' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Formatted CV Text</button>
-                  <button onclick="setCvSubMode('changelog')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'changelog' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Bullet Changelog &amp; Evidence</button>
-                  <button onclick="setCvSubMode('pdf')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'pdf' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Embedded PDF Preview</button>
+                  <button onclick="setCvSubMode('formatted')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'formatted' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">CV Text</button>
+                  <button onclick="setCvSubMode('changelog')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'changelog' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">Changelog</button>
+                  <button onclick="setCvSubMode('pdf')" class="px-2.5 py-1 rounded font-medium ${currentCvSubMode === 'pdf' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--card)] border border-[var(--border)]'}">PDF Preview</button>
                   <a href="../tailored_cvs/${escapeHtml(item.dashboard_cv_pdf_file)}" target="_blank" class="px-2.5 py-1 rounded bg-emerald-500/15 text-emerald-500 border border-emerald-500/30 font-semibold">Open PDF ↗</a>
                   ${item.dashboard_cv_md_file ? `<a href="../tailored_cvs/md/${escapeHtml(item.dashboard_cv_md_file)}" target="_blank" class="px-2.5 py-1 rounded bg-[var(--card)] border border-[var(--border)] hover:text-[var(--foreground)] font-medium">Open MD ↗</a>` : ""}
                 </div>
@@ -827,18 +851,18 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
             ${item.fact_check_markdown ? `
               <div class="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
                 <div class="text-xs font-bold text-emerald-500 uppercase mb-2">Independent Fact-Check &amp; Confidentiality Audit (Gates 6 &amp; 7)</div>
-                ${renderSimpleMarkdown(item.fact_check_markdown)}
+                ${renderSimpleMarkdown(cleanMarkdownForView(item.fact_check_markdown, "audit"))}
               </div>
             ` : ""}
             ${item.ats_report_markdown ? `
               <div class="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
                 <div class="text-xs font-bold text-sky-500 uppercase mb-2">ATS &amp; Editorial Audit Report (Gate 8)</div>
-                ${renderSimpleMarkdown(item.ats_report_markdown)}
+                ${renderSimpleMarkdown(cleanMarkdownForView(item.ats_report_markdown, "audit"))}
               </div>
             ` : ""}
             <div class="p-4 rounded-xl bg-[var(--background)] border border-[var(--border)]">
               <div class="text-xs font-bold text-[var(--muted-foreground)] uppercase mb-2">Consolidated Opportunity Dossier</div>
-              ${renderSimpleMarkdown(item.dossier_markdown)}
+              ${renderSimpleMarkdown(cleanMarkdownForView(item.dossier_markdown, "dossier"))}
             </div>
           </div>
         `;
@@ -847,40 +871,29 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       container.innerHTML = `
         <div class="space-y-4">
           <!-- Selected Job Header -->
-          <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-3 pb-3.5 border-b border-[var(--border)]">
-            <div>
-              <div class="flex items-center gap-2 flex-wrap">
-                <span class="text-xs font-bold px-2 py-0.5 rounded bg-[var(--background)] border border-[var(--border)]">Rank #${item.rank}</span>
-                <h2 class="text-lg font-bold text-[var(--foreground)]">${escapeHtml(item.company)} — ${escapeHtml(item.role_title)}</h2>
-              </div>
-              <p class="text-xs text-[var(--muted-foreground)] mt-1">
-                ${escapeHtml(item.location)} (${escapeHtml(item.workplace_mode)}) · Job ID: <code>${escapeHtml(item.job_id)}</code> · Status: <strong>${escapeHtml(curStatus)}</strong>
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-3 border-b border-[var(--border)]">
+            <div class="min-w-0">
+              <h2 class="text-base md:text-lg font-bold text-[var(--foreground)] truncate">${escapeHtml(item.company)} — ${escapeHtml(item.role_title)}</h2>
+              <p class="text-xs text-[var(--muted-foreground)] mt-0.5">
+                Job ID: <code>${escapeHtml(item.job_id)}</code>
               </p>
             </div>
-            <div class="flex items-center gap-2 shrink-0 flex-wrap justify-end">
-              <span class="px-3 py-1 rounded-lg border text-sm font-bold ${getScoreBadgeClasses(item.overall_fit_score)}">
-                Fit: ${item.overall_fit_score}/100
-              </span>
-              <span class="px-3 py-1 rounded-lg border text-xs font-bold ${getDecisionBadgeClasses(item.recommendation)}">
-                ${escapeHtml(item.recommendation)}
-              </span>
-              ${item.linkedin_url ? `<a href="${escapeHtml(item.linkedin_url)}" target="_blank" rel="noopener noreferrer" class="px-2.5 py-1 rounded-lg border border-[var(--border)] text-xs font-medium hover:text-[var(--foreground)]">LinkedIn ↗</a>` : ""}
-            </div>
+            ${item.linkedin_url ? `<a href="${escapeHtml(item.linkedin_url)}" target="_blank" rel="noopener noreferrer" class="shrink-0 px-3 py-1 rounded-lg border border-[var(--border)] text-xs font-medium hover:text-[var(--foreground)]">LinkedIn ↗</a>` : ""}
           </div>
 
           <!-- Inspector Sub-Tabs -->
           <div class="flex flex-wrap gap-1.5">
             <button onclick="setDetailSubTab('jd')" class="px-3 py-1.5 text-xs font-semibold rounded-lg transition ${currentDetailSubTab === 'jd' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]'}">
-              Full JD (${escapeHtml(item.dashboard_jd_file)})
+              Full JD
             </button>
             <button onclick="setDetailSubTab('cv')" class="px-3 py-1.5 text-xs font-semibold rounded-lg transition ${currentDetailSubTab === 'cv' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]'}">
-              ${item.dashboard_cv_pdf_file ? `Tailored CV (${escapeHtml(item.dashboard_cv_pdf_file)})` : 'Tailored CV (None)'}
+              ${item.dashboard_cv_pdf_file ? 'Tailored CV' : 'Tailored CV (None)'}
             </button>
             <button onclick="setDetailSubTab('fit')" class="px-3 py-1.5 text-xs font-semibold rounded-lg transition ${currentDetailSubTab === 'fit' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]'}">
-              Role Fit &amp; Rationale (${item.overall_fit_score}/100)
+              Role Fit
             </button>
             <button onclick="setDetailSubTab('matrix')" class="px-3 py-1.5 text-xs font-semibold rounded-lg transition ${currentDetailSubTab === 'matrix' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]'}">
-              Evidence Matrix (${ev.direct}D/${ev.adjacent}A/${ev.gap}G)
+              Evidence Matrix
             </button>
             <button onclick="setDetailSubTab('audits')" class="px-3 py-1.5 text-xs font-semibold rounded-lg transition ${currentDetailSubTab === 'audits' ? 'bg-[var(--primary)] text-[var(--primary-foreground)]' : 'bg-[var(--background)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)]'}">
               Audits &amp; Dossier

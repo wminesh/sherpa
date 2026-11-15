@@ -1,0 +1,82 @@
+{
+  "opportunity_id": "4489871762-erekrut-pm-healthcare-ai",
+  "company": "Erekrut",
+  "role_title": "Product Manager - Healthcare (Senior Product Manager – Data Analytics & AI Solutions)",
+  "location": "Karnataka, India",
+  "workplace_mode": "Remote (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 74,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Hold",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Direct evidence of end-to-end product lifecycle ownership, roadmap planning, Agile product delivery, KPI/reporting framework design, multi-initiative risk/dependency management, and cross-functional delivery across Lowe's India and Byju's (lines 64-100, 227-275, 333-343, 446-458). Formal BRD/PRD authorship (line 657) and external B2B analytics client delivery are adjacent/unverified."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 56,
+      "weighted_score": 11.2,
+      "rationale": "Strong transferable experience in KPI/dashboard frameworks and AI-driven operational workflows at Lowe's India (lines 67, 77-99), plus digital marketing leadership at HealthQ Rehab (lines 179-209). However, zero documented healthcare technology or healthcare analytics PM experience, zero clinical data or clinical workflow knowledge, and zero familiarity with HIPAA, HL7, or FHIR (line 655)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 64,
+      "weighted_score": 12.8,
+      "rationale": "B.Tech in Computer Science Engineering (lines 325-327) paired with internal enterprise analytics dashboarding (line 67), 99.99% platform reliability, and AI-driven procurement/recovery workflows at Lowe's India (lines 75-99). Material gaps exist across named BI/cloud data platforms (Power BI, Tableau, Looker, Databricks, Snowflake), ETL/data pipelines, data modelling/architecture, dedicated data science collaboration (line 652), and low-code/no-code frameworks."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 88,
+      "weighted_score": 13.2,
+      "rationale": "Fits squarely inside the 4-8 years PM requirement with ~6 years in formal PM/SPM titles (Byju's July 2020-April 2023; Lowe's India Senior PM Sep 2024-Present) and ~11 years overall experience. Completed B.Tech in CSE meets the engineering degree requirement, while the ongoing IIM Bangalore EGMP (lines 321-323) is executive management training rather than a completed MBA."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 82,
+      "weighted_score": 8.2,
+      "rationale": "Strong quantified enterprise and growth outcomes: ~$10M annual revenue protection savings, $2M annual asset lifecycle cost savings, 20% cycle time reduction, and 99.99% reliability at Lowe's India (lines 75-100), plus 2.5L+ SQLs and 35% lead conversion lift at Byju's (lines 235-237). Commercial translation is required from internal retail/enterprise ops and EdTech/marketing to external B2B healthcare analytics solutions."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 80,
+      "weighted_score": 4.0,
+      "rationale": "Extensive track record aligning VP/CXO leadership, finance, operations, IT, engineering, design, and data teams without formal authority (lines 65-71, 367, 477-488), plus client engagements at Hype (lines 119-176). Clinical stakeholder management is not evidenced."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 74,
+      "weighted_score": 3.7,
+      "rationale": "Remote (Full-time) in Karnataka, India aligns seamlessly with the candidate's Bangalore base and lists compensation up to ₹4M/year. Offset by an unconfirmed mandatory requirement for international travel for client engagements and posting via a recruitment intermediary (Erekrut) rather than a named end-client."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end PM ownership of data analytics and AI-driven solutions for healthcare customers, spanning BRD/PRD scoping, data modelling/pipeline collaboration, BI dashboards/KPIs, reusable accelerators, and Agile delivery across clinical, business, and technical teams.",
+    "seniority_alignment": "Strong alignment with Senior Product Manager level and 4-8 years PM requirement (~6 years formal PM/SPM tenure, ~11 years total experience, B.Tech CSE + ongoing IIM-B EGMP).",
+    "product_discipline": "Data Analytics, BI & AI Solutions PM — adjacent to candidate's internal enterprise KPI/dashboarding and AI-driven operational workflow ownership at Lowe's India, with stack gaps on named BI/cloud data platforms.",
+    "domain_relevance": "Material gap on healthcare data analytics, clinical workflows, and HIPAA/HL7/FHIR standards; HealthQ Rehab experience (Head of Marketing) is limited to digital/content marketing rather than healthcare technology or clinical operations.",
+    "leadership_expectations": "Cross-functional execution across engineering, data engineering, data science, design, business, and clinical stakeholders — strong technical/business/executive alignment evidenced, clinical stakeholder engagement missing.",
+    "evidence_strength": "7 Direct, 12 Adjacent, and 3 Gap requirements across 22 total requirements; solid core PM and KPI/AI-workflow foundation but notable domain, BI/data-stack, and travel confirmation gaps."
+  },
+  "key_strengths": [
+    "Led KPI and operational decision-making dashboard development using internal enterprise analytics tools at Lowe's India, tracking incident resolution, cost savings, platform adoption, and operational efficiency alongside VP/CXO monthly business reviews (lines 67, 77-81, 478-485).",
+    "Designed and launched an AI-driven procurement/catalog system (20% cycle time reduction) and automated recovery workflows (~$10M annual revenue protection savings, 99.99% reliability) plus a unified asset lifecycle platform ($2M annual cost savings) at Lowe's India (lines 75-99).",
+    "Matches Senior PM seniority (4-8 years PM required) with ~6 years formal PM/SPM experience, B.Tech in Computer Science Engineering (Manipal), UC Irvine Project Management Specialization, and ongoing IIM Bangalore EGMP (lines 217-220, 321-343)."
+  ],
+  "positioning_angle": "If pursued, position as an Enterprise Platform & AI Workflow Senior Product Manager with a CS engineering foundation, proven KPI/reporting governance at Lowe's India, and AI-enabled operational automation (20% cycle time reduction, ~$10M revenue protection). Bridge unified platform design and reusable KPI frameworks to scalable analytics accelerators, while framing HealthQ Rehab strictly as healthcare-sector marketing exposure rather than clinical or healthcare analytics product experience.",
+  "red_flags_and_gaps": [
+    "No healthcare technology, healthcare analytics, clinical data, clinical workflow, or clinical stakeholder management experience in canonical_master_profile.md (HealthQ Rehab was digital/content marketing leadership only), and zero familiarity with HIPAA, HL7, or FHIR.",
+    "No documented hands-on usage of named BI/cloud data platforms (Power BI, Tableau, Looker, Databricks, Snowflake), ETL/data pipeline architecture, data modelling, dedicated data science/ML model teams, or low-code/no-code platforms.",
+    "JD requires willingness to travel internationally for client engagements (unconfirmed Gap) and formal BRD/PRD authorship is classified as adjacent/unverified under AGENTS.md.",
+    "Listing is posted via a recruitment platform/agency (Erekrut) without naming the underlying healthcare employer or client portfolio."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm willingness to travel internationally for client engagements when required (MH-12).",
+    "Confirm whether Minesh has unrecorded working familiarity with BI/data platforms (Power BI, Tableau, Looker, Databricks, Snowflake), data modelling/pipelines, or formal BRD/PRD authorship worth defending in interviews.",
+    "Confirm whether Minesh wants to pursue an opaque agency-posted healthcare analytics role (Hold recommended unless end-client details and domain ROI justify tailoring)."
+  ]
+}

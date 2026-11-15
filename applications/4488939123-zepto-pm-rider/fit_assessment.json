@@ -1,0 +1,77 @@
+{
+  "opportunity_id": "4488939123-zepto-pm-rider",
+  "company": "Zepto",
+  "role_title": "Product Manager (Product Manager – Rider Experience)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 65,
+  "priority_band": "Not Suitable",
+  "disposition": "Not Suitable",
+  "confidence_level": "High",
+  "recommendation": "Do Not Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 80,
+      "weighted_score": 20.0,
+      "rationale": "Strong direct evidence of product strategy, multi-track roadmaps, agile execution, post-launch KPI ownership, and cross-functional delivery across Lowe's India and Byju's (lines 64-100, 227-239, 261-268). However, designing mobile-first UX for high-pressure, in-motion on-ground riders and conducting rapid field research/dark-store launches are adjacent or missing (MH-9, IM-2)."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 42,
+      "weighted_score": 8.4,
+      "rationale": "Clear domain gap in quick-commerce last-mile logistics and gig-workforce products: zero evidence of rider app ownership, order dispatch/assignment, turn-by-turn or inside-society navigation, route handling, batched/multi-store/relay delivery topologies, reverse logistics, open-box/pharma/3P flows, or on-ground rider field immersion (DM-1, DM-2, IM-2). Only adjacent threads exist via Lowe's order-cancellation reduction (~$10M), store-setup workflow efficiency (20% cycle time reduction), and WhiteHat Jr./Tynker onboarding/training UX (lines 84-100, 261-268)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 60,
+      "weighted_score": 12.0,
+      "rationale": "Holds a B.Tech in Computer Science (lines 325-327) with solid operational KPI/dashboard experience using internal enterprise analytics tools at Lowe's India (line 67) and iterative product experimentation at Byju's (line 232). However, the JD specifically requires comfort with SQL and product analytics tools (Amplitude, Mixpanel, or Looker) plus formal A/B testing/experimentation frameworks and real-time control-tower/mobile logistics tooling — none of SQL, Amplitude, Mixpanel, or Looker are directly evidenced in canonical_master_profile.md (lines 660-663)."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 55,
+      "weighted_score": 8.25,
+      "rationale": "Seniority mismatch (down-level/overqualified): the JD targets a mid-level Product Manager with 2-4 years of PM experience, whereas Minesh is an incumbent Senior Product Manager at Lowe's India with ~5 years of formal PM/SPM experience, ~11+ years total career experience, and an ongoing IIM Bangalore EGMP (lines 48-50, 217-219, 286-288, 321-323)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 76,
+      "weighted_score": 7.6,
+      "rationale": "Compelling cost-saving and operational-efficiency outcomes at Lowe's India (~$10M annual revenue protection from reduced order cancellations, $2M annual operational savings, 20% cycle time reduction for store-setup teams) and training/engagement gains at Byju's (15% instructor training time reduction, +5% course completion, +35% conversion) (lines 84-100, 237, 263, 268), though no direct last-mile unit-economics metrics (delivery ETA, cost per order, rider productivity)."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 82,
+      "weighted_score": 4.1,
+      "rationale": "Strong track record aligning Engineering, Operations, Design, Data, Finance, and VP/CXO stakeholders without formal authority (lines 65-71, 367, 477-488), though lacks hands-on collaboration with quick-commerce control tower, dark-store field ops, and 3P delivery fleet partners."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru on-site role matches candidate's Bangalore location with no relocation required, though 5-day on-site ops-heavy cadence is more restrictive than hybrid roles."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "Mid-level end-to-end ownership of Zepto's rider fulfilment mobile app journey: order assignment, store pickup, navigation/routing, batched/multi-store/relay/special order flows, proof of delivery, rider onboarding, and real-time control-tower ops tooling.",
+    "seniority_alignment": "Mismatch (Step-down): JD seeks 2-4 years PM experience for a mid-level 'Product Manager' role; candidate is currently a Senior Product Manager at Lowe's India with ~5 years formal PM/SPM tenure, ~11+ years total career, and ongoing IIM Bangalore EGMP.",
+    "product_discipline": "Hyperlocal Quick-Commerce Logistics, Last-Mile Supply/Gig-Workforce Mobile UX, and Real-Time Fulfilment Operations — materially distinct from candidate's core strengths in enterprise reliability/AI operations, EdTech, and growth/MarTech.",
+    "domain_relevance": "Low direct relevance: zero prior experience in last-mile delivery, rider/gig-workforce apps, routing/society navigation, order batching, reverse logistics, or dark-store operations.",
+    "leadership_expectations": "Cross-functional execution across Design, Engineering, Analytics, Data Science, Control Tower, and On-Ground Operations — general cross-functional craft is evidenced, but dark-store/field immersion is missing.",
+    "evidence_strength": "Strong on general PM craft and enterprise operational metrics, but all 6 core domain responsibilities are Gaps (2) or Adjacent (4), and specific analytics tools (SQL, Amplitude, Mixpanel, Looker) are unverified/not evidenced."
+  },
+  "key_strengths": [
+    "Reduced order cancellations (~$10M annual revenue protection), cut store-setup operational cycle times by 20% via AI-driven workflows, and delivered $2M annual operational cost savings at Lowe's India (lines 84-100).",
+    "Proven consumer/user onboarding and workflow simplification impact at Byju's, cutting WhiteHat Jr. instructor training time by 15% and lifting Tynker course completion by 5% via app redesign (lines 261-268).",
+    "Strong cross-functional execution rigour across Engineering, Design, Operations, Data, and Finance stakeholders without formal authority (lines 65-71, 367, 485-488)."
+  ],
+  "positioning_angle": "Not recommended for application due to the combined domain mismatch (zero last-mile logistics, routing/navigation, or gig-workforce rider app background) and seniority step-down (2-4 yr PM role vs. incumbent Senior PM with ~11+ years total experience). If the user explicitly chooses to override, the only credible bridge is pairing Lowe's India order-cancellation/loss reduction (~$10M), store-setup cycle-time reduction (20%), and incident/SLA escalation workflows with WhiteHat Jr./Tynker onboarding and workflow UX simplification—without claiming last-mile routing, POD, or Amplitude/Mixpanel ownership.",
+  "red_flags_and_gaps": [
+    "Hard domain gaps across core JD responsibilities: zero evidence of rider app ownership, dispatch/assignment, turn-by-turn or society navigation, route handling, batched/multi-store/relay deliveries, open-box/pharma/3P flows, or on-ground rider/dark-store field research (DM-1, DM-2, IM-2).",
+    "Clear seniority/title step-down: JD targets 2-4 years PM experience ('Product Manager'), creating both level compression and overqualification risk relative to Minesh's current 'Senior Product Manager' role at Lowe's India and ~11+ year career.",
+    "Analytics tooling gap: JD explicitly requires comfort with SQL and Amplitude, Mixpanel, or Looker; per AGENTS.md and canonical_master_profile.md (lines 660-663), commercial product analytics tools (Amplitude, Mixpanel) were not used directly and SQL is not evidenced."
+  ],
+  "assumptions_and_user_confirmations": []
+}

@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "profile_version": "1.1.0",
+    "cv_version": "tailored-1.0",
+    "target_company": "Angel One",
+    "target_role": "Senior Product Manager"
+  },
+  "header": {
+    "name": "Minesh Wadhwa",
+    "contact_line": "Bangalore \u2022 w.minesh@gmail.com \u2022 +91 9035 199 024",
+    "email": "w.minesh@gmail.com"
+  },
+  "profile_summary": "Senior Product Manager with 11+ years of experience (B.Tech. CS) scaling B2C consumer products and high-reliability enterprise platforms. Proven track record across Byju\u2019s and Lowe\u2019s India owning product roadmaps, KPI frameworks, onboarding and conversion funnels, and complex internal systems. Skilled in partnering with engineering, design, analytics, marketing, and finance teams to ship AI-enabled agentic workflows and product experiments\u2014delivering 2.5L+ SQLs, 35% higher conversion, 99.99% reliability, ~$10M revenue protection, $2M cost savings, and 20% faster cycle times.",
+  "professional_experience": [
+    {
+      "company": "Lowe\u2019s India",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "Sep 2024 \u2013 Present",
+          "groups": [
+            {
+              "group_title": "Lowe\u2019s Reliability Engineering Team",
+              "sub_bullets": [
+                "Owned and drove cross-functional platform product strategy across engineering and operations teams via automated workflows, ensuring 99.99% reliability for core business platforms",
+                "Designed KPI frameworks and dashboards using internal enterprise analytics tools to track incident resolution, adoption, and workflow efficiency for data-driven roadmap prioritization",
+                "Defined annual and quarterly product roadmaps with engineering and business leadership using operational performance data, targeting a 20% reduction in incident volume",
+                "Led revenue protection initiatives across complex order systems by deploying automated recovery agents and incident-handling workflows, cutting cancellations and saving ~$10M annually",
+                "Aligned engineering, product, finance, and operations verticals on core org KPIs by leading VP/CXO monthly business reviews and governance cadences",
+                "Diagnosed bottlenecks across internal procurement, asset, and operational planning systems by coordinating stakeholders to prioritize high-impact workflow improvements"
+              ]
+            },
+            {
+              "group_title": "Infrastructure and Operations Business Unit",
+              "sub_bullets": [
+                "Spearheaded a unified enterprise asset lifecycle platform with finance and operations stakeholders to streamline lifecycle workflows, delivering $2M in annual cost savings",
+                "Designed and launched an AI-driven procurement and catalog platform powered by agentic workflows to streamline store setup onboarding, reducing operational cycle times by 20%"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hype Marketing & Product Services",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Founder",
+          "dates": "Oct 2023 \u2013 Nov 2024",
+          "bullets": [
+            "Defined B2C growth, GTM, and lifecycle strategies for clients by translating business goals into prioritized campaign and communication roadmaps",
+            "Built data-driven engagement funnels and customer journey workflows by tracking conversion and engagement metrics to boost client execution efficiency"
+          ],
+          "groups": [
+            {
+              "group_title": "Key engagements:",
+              "sub_bullets": [
+                "Upraised: Crafted social content and growth strategy for new offerings aligned to demand, increasing engagement by 50% and website traffic by 30%",
+                "Programming Hub: Developed and marketed B2C digital learning products by optimizing positioning and discovery, achieving 4.5+ ratings and strong adoption",
+                "Gradiant: Designed and executed lifecycle and email marketing journeys with targeted messaging, achieving 30% open rates and 20% CTRs",
+                "Acadecraft: Built structured digital learning programs aligned to learner milestones, achieving over 80% completion rates"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "HealthQ Rehab",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Head of Marketing",
+          "dates": "May 2023 \u2013 Dec 2023",
+          "bullets": [
+            "Revamped SEO and content marketing strategy around audience demand, driving 35% growth in organic traffic",
+            "Boosted social media engagement by 50% through targeted digital campaigns and optimized customer communication",
+            "Optimized WhatsApp, Telegram, and newsletter channels across touchpoints, increasing overall brand engagement by 20%"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Byju\u2019s - Product Development",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "July 2020 \u2013 April 2023",
+          "products_line": "Byju\u2019s Xcel Masterclasses, Tynker, Whitehat Jr., Aakash-Byjus",
+          "bullets": [
+            "Led *Byju\u2019s Xcel Masterclasses* consumer product strategy across product, content, and growth funnels, generating over 2.5L sales-qualified leads",
+            "Partnered with product, design, and marketing teams to remove funnel friction across onboarding and engagement flows, improving lead conversion by 35%",
+            "Developed 12 cross-product experience prototypes across *Aakash-Byjus*, *Tynker*, and *Whitehat Jr.* connecting journeys across consumer apps",
+            "Launched *Interactive Learning Experiences* for *Whitehat Jr.* by redesigning instructor and learner live-class workflows, cutting training time by 15%",
+            "Led B2C app redesign for *Tynker* by adding assessments and DIY modules guided by engagement signals, increasing course completion by 5%"
+          ]
+        },
+        {
+          "title": "Multiple Roles",
+          "dates": "Jun 2015 \u2013 June 2020",
+          "products_line": "Social Studies, Interactive Learning Experiences, Byju's Exam Prep, BTLA Commerce, BTLA Science",
+          "bullets": [
+            "Prototyped and built 300+ *interactive learning experiences* for science/maths and created UX interactions for the *Elevate* internal platform",
+            "Prototyped and launched the *Social Studies* product (500+ hrs video) and led 5 product leads for *BTLA Commerce* development"
+          ]
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "University of California, Irvine",
+      "dates": "Oct 2020 \u2013 Dec 2020",
+      "bullets": [
+        "*Initiating and Planning Projects*: Gained expertise in project scope, charters, constraints, organizational structures, and conflict resolution.",
+        "*Budgeting and Scheduling Projects*: Ensuring project success by managing time and cost constraints through data-driven scheduling and stakeholder alignment.",
+        "*Managing Project Risks and Changes*: Prioritizing scope, schedule, and cost performance while strengthening communication planning and risk management."
+      ]
+    }
+  ],
+  "social_entrepreneurship": [
+    "Worked with *The Open Door Foundation* to teach students at RTC Girls Home, Bangalore",
+    "Volunteer for *Education for All* initiative by Byju\u2019s that aims to train 10 million kids by 2025"
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "location": "Manipal, Karnataka",
+      "degree": "B. Tech. in Computer Science Engineering",
+      "dates": "2011 \u2013 2015"
+    },
+    {
+      "institution": "Indian Institute Of Management - Bangalore",
+      "location": "",
+      "degree": "Executive General Management Program",
+      "dates": "2025 \u2013 2026 (ongoing)"
+    }
+  ]
+}

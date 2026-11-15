@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "profile_version": "1.1.0",
+    "cv_version": "target-spm-marketplace-1.0",
+    "target_company": "Target",
+    "target_role": "Sr Product Manager - Marketplace"
+  },
+  "header": {
+    "name": "Minesh Wadhwa",
+    "contact_line": "Bangalore \u2022 w.minesh@gmail.com \u2022 +91 9035 199 024",
+    "email": "w.minesh@gmail.com"
+  },
+  "profile_summary": "Senior Product Manager with 10+ years in product management, platform operations, and growth (~5 years titled PM/SPM; 5 years product prototyping, UX, and leadership), driving enterprise retail platforms at Lowe\u2019s India. Experienced in partnering with engineering, design, operations, and data teams to influence outcomes without authority, define roadmaps and KPI frameworks, and launch AI-enabled and automated recovery workflows. Proven impact improving platform reliability, operational efficiency, and user lifecycle engagement across enterprise procurement/catalog and multi-product ecosystems.",
+  "professional_experience": [
+    {
+      "company": "Lowe\u2019s India",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "Sep 2024 \u2013 Present",
+          "groups": [
+            {
+              "group_title": "Lowe\u2019s Reliability Engineering Team",
+              "sub_bullets": [
+                "Achieved 99.99% reliability across key enterprise platforms by owning cross-functional engineering/ops initiatives and scalable workflow automation",
+                "Built KPI frameworks and executive dashboards using internal enterprise analytics and reporting tools tracking platform adoption, incident resolution, cost savings, and operational efficiency to guide roadmap priorities",
+                "Defined annual and quarterly roadmaps and governance cadences without formal authority, targeting a 20% reduction in incident volume",
+                "Reduced order cancellations and saved ~$10M annually by leading automated recovery systems, SLA/escalation workflows, and reliability improvements",
+                "Aligned engineering, finance, IT, and operations across procurement and asset planning through monthly business reviews and structured prioritization"
+              ]
+            },
+            {
+              "group_title": "Infrastructure and Operations Business Unit",
+              "sub_bullets": [
+                "Spearheaded a unified enterprise asset lifecycle platform by partnering with finance, operations, and infrastructure stakeholders to improve workflow visibility and operational execution, delivering ~$2M in annual cost savings",
+                "Launched an AI-driven enterprise SaaS procurement and catalog system incorporating agentic workflows to streamline workflow orchestration, user workflows, and platform adoption for enterprise store setup teams, cutting operational cycle times by 20%"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hype Marketing & Product Services",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Founder",
+          "dates": "Oct 2023 \u2013 Nov 2024",
+          "bullets": [
+            "Defined GTM, lifecycle engagement, and campaign execution roadmaps for B2C and EdTech clients by translating business objectives into structured process optimization initiatives",
+            "Built data-driven engagement pipelines across email, social, and content channels, tracking conversion metrics to refine user adoption"
+          ],
+          "groups": [
+            {
+              "group_title": "Key engagements:",
+              "sub_bullets": [
+                "Upraised: Crafted social media content and GTM strategy for new offerings, growing engagement by 50% and website traffic by 30%",
+                "Programming Hub: Developed and marketed digital learning products by aligning product positioning, content, and digital execution, achieving 4.5+ ratings and strong user adoption",
+                "Gradiant: Designed lifecycle and email marketing journeys tailored to audience touchpoints, achieving 30% open rates and 20% CTRs",
+                "Acadecraft: Built structured learning programs aligned to user progression goals, achieving 80%+ completion rates"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "HealthQ Rehab",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Head of Marketing",
+          "dates": "May 2023 \u2013 Dec 2023",
+          "bullets": [
+            "Grew organic traffic by 35% by revamping SEO and content marketing strategy around audience demand",
+            "Boosted social media engagement by 50% via targeted digital campaigns and audience communication",
+            "Lifted brand engagement by 20% by optimizing WhatsApp, Telegram, and newsletter workflows via channel metrics"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Byju\u2019s - Product Development",
+      "location": "Bangalore, Karnataka",
+      "roles": [
+        {
+          "title": "Senior Product Manager",
+          "dates": "July 2020 \u2013 April 2023",
+          "products_line": "Byju\u2019s Xcel Masterclasses, Tynker, Whitehat Jr., Aakash-Byjus",
+          "bullets": [
+            "Generated 2.5L+ sales-qualified leads by leading *Byju\u2019s Xcel Masterclasses* product and funnel engagement strategy",
+            "Improved lead conversion by 35% by removing funnel friction across product, marketing, and UX journeys",
+            "Built 12 cross-product prototypes across Aakash-Byjus, Tynker, and Whitehat Jr. to unify multi-product user engagement",
+            "Cut instructor training time by 15% by launching *Whitehat Jr.* *Interactive Learning Experiences* for live coding workflows",
+            "Increased *Tynker* course completion by 5% via an app redesign with assessments and DIY modules guided by engagement signals"
+          ]
+        },
+        {
+          "title": "Multiple Roles",
+          "dates": "Jun 2015 \u2013 June 2020",
+          "products_line": "Social Studies, Interactive Learning Experiences, Byju's Exam Prep, BTLA Commerce, BTLA Science",
+          "bullets": [
+            "Prototyped and built *interactive learning experiences* for science/maths and the *Social Studies* product",
+            "Defined UX workflows for the Elevate internal tracking platform and led 5 product leads for Commerce development"
+          ]
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "University of California, Irvine",
+      "dates": "Oct 2020 \u2013 Dec 2020",
+      "bullets": [
+        "*Initiating and Planning Projects*: Gained expertise in project scope, charters, constraints, organizational structures, and conflict resolution.",
+        "*Budgeting and Scheduling Projects*: Ensuring project success by managing time and cost constraints through data-driven scheduling and stakeholder alignment.",
+        "*Managing Project Risks and Changes*: Prioritizing scope, schedule, and cost performance while strengthening communication planning and risk management."
+      ]
+    }
+  ],
+  "social_entrepreneurship": [
+    "Worked with *The Open Door Foundation* to teach students at RTC Girls Home, Bangalore",
+    "Volunteer for *Education for All* initiative by Byju\u2019s that aims to train 10 million kids by 2025"
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "location": "Manipal, Karnataka",
+      "degree": "B. Tech. in Computer Science Engineering",
+      "dates": "2011 \u2013 2015"
+    },
+    {
+      "institution": "Indian Institute Of Management - Bangalore",
+      "location": "",
+      "degree": "Executive General Management Program",
+      "dates": "2025 \u2013 2026 (ongoing)"
+    }
+  ]
+}

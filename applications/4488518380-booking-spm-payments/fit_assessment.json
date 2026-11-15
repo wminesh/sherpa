@@ -1,0 +1,81 @@
+{
+  "opportunity_id": "4488518380-booking-spm-payments",
+  "company": "Booking Holdings",
+  "role_title": "Senior Product Manager (Pay-in Payment Methods)",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "Hybrid (Full-time)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 75,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 84,
+      "weighted_score": 21.0,
+      "rationale": "Direct evidence of setting product vision, multi-quarter roadmaps, GTM launch plans, KPI frameworks, and iterative optimization across Lowe's India, Byju's, and Hype Marketing & Product Services (lines 64-100, 131-138, 227-239, 445-452). Moderated because formal qualitative customer research studies (MH-4), explicit counter-metric/A/B testing tooling ownership, and international market localization launches (IM-3) are not documented."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 48,
+      "weighted_score": 9.6,
+      "rationale": "Material core domain gaps: zero documented experience in pay-in payment methods, alternative/local payment methods (APMs/LPMs), PSP/acquirer partner ecosystems, payment risk/fraud/compliance, or travel/hospitality commerce (DM-1 and IM-3 are explicit Gaps; IM-1 and IM-2 are Adjacent). Partially offset by credible adjacent bridges in high-scale retail transaction reliability and automated order-cancellation recovery (~$10M annual revenue protection at Lowe's India; lines 84-90) and B2C funnel conversion optimization (+35% lead conversion at Byju's; lines 235-237)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 78,
+      "weighted_score": 15.6,
+      "rationale": "Holds a B.Tech. in Computer Science Engineering (lines 325-327) and directly navigated technical complexity across enterprise reliability platforms (99.99% reliability), automated incident-recovery workflows, AI-driven procurement/catalog workflows (20% cycle time reduction), and KPI/dashboard development using internal enterprise analytics tools at Lowe's India (lines 53-100). Deducted because payment gateway/PSP integration architecture, payment authorization/routing telemetry, and commercial experimentation stacks are not evidenced."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 76,
+      "weighted_score": 11.4,
+      "rationale": "Meets the bachelor's/master's degree requirement (B.Tech. CS plus ongoing IIM Bangalore EGMP; lines 321-327) and is currently a Senior Product Manager at Lowe's India with ~11 years total professional career (since June 2015). However, formal titled PM/SPM tenure is ~5 years (July 2020–April 2023 at Byju's and Sep 2024–Present at Lowe's India), alongside 5 years in product prototyping/UX/leading 5 product leads under Multiple Roles at Byju's and ~1 year as Founder at Hype—slightly short if Booking screens strictly for 8–10 years in formal PM titles."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 82,
+      "weighted_score": 8.2,
+      "rationale": "Strong quantified enterprise and consumer funnel outcomes: ~$10M annual revenue protection from reduced order cancellations, $2M annual operational savings, 99.99% platform reliability, 20% procurement cycle time reduction (lines 75-99), plus 2.5L+ SQLs and +35% lead conversion lift at Byju's (lines 235-237) and 4.5+ ratings / 30-50% engagement gains at Hype and HealthQ. Tempered by absence of checkout conversion, payment authorization rate, or payment processing cost metrics."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 88,
+      "weighted_score": 4.4,
+      "rationale": "Strong direct track record influencing without formal authority, managing cross-team dependencies, presenting monthly business reviews and board-level narratives to VP/CXO leaders, and collaborating across Engineering, Design, Data, Finance, Operations, IT, and Marketing (lines 65-72, 93, 367, 477-488, 553-556). Direct partnership with Risk, Legal, Customer Service, and external PSP/payment scheme partners is not evidenced."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 96,
+      "weighted_score": 4.8,
+      "rationale": "Bengaluru, Karnataka Hybrid (Full-time) aligns directly with candidate's current Bangalore base with zero relocation or work-mode friction."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end strategy, roadmap, GTM launch planning, analytics/experimentation, and cross-functional delivery for Pay-in Payment Methods—launching alternative and local payment methods (APMs/LPMs) in priority markets across Booking.com's business.",
+    "seniority_alignment": "Moderate-to-solid Senior PM match: currently Senior PM at Lowe's India with ~11 years total product/growth career, B.Tech. CS, and ongoing IIM Bangalore EGMP, though ~5 years in formal PM/SPM titles sits below the stated 8–10 years PM benchmark if strictly interpreted.",
+    "product_discipline": "Generalist Strategy, GTM Launch & Analytics PM applied to Global Pay-in Payment Methods — strong alignment on core PM craft and operational reliability, bridging into an unowned payments/checkout discipline.",
+    "domain_relevance": "Low-to-Moderate: strong retail transaction reliability/order-cancellation recovery (~$10M revenue protection) and B2C funnel conversion (+35%) offer transferable mechanics, while pay-in payment methods, APMs/LPMs, PSP partnerships, payment risk/legal/compliance, and multi-country localization are clear gaps.",
+    "leadership_expectations": "Working through technical and organizational complexity, influencing without formal authority, and aligning Engineering, Design, Data Science, Finance, Risk, Legal, Customer Service, Operations, and senior leaders — well supported on core/Ops/Finance/Exec alignment, with Risk/Legal/CS/PSP partnerships unverified.",
+    "evidence_strength": "6 Direct, 6 Adjacent, and 2 explicit Gaps (DM-1 payments/APMs/LPMs, IM-3 multi-market localization) across 14 mapped requirements; JD's generalist 'What you'll bring' criteria leave a viable path for a strong transferable story."
+  },
+  "key_strengths": [
+    "Proven revenue-protection and reliability execution at Lowe's India: maintained 99.99% platform reliability and led automated recovery and incident-handling workflows that reduced order cancellations for ~$10M in annual revenue protection savings, alongside $2M annual operational cost savings with Finance and Operations partners (lines 75-95).",
+    "End-to-end product launch, GTM planning, and funnel optimization track record across Lowe's India (AI-driven procurement system, 20% cycle time reduction), Byju's (2.5L+ SQLs, +35% lead conversion lift, Tynker +5% completion, WhiteHat Jr. -15% training time), and Hype Marketing & Product Services (lines 96-99, 131-160, 234-275).",
+    "Strong executive stakeholder alignment and influencing without formal authority across Engineering, Product, Design, Data, Finance, Operations, and IT, reinforced by a B.Tech. in Computer Science Engineering and ongoing IIM Bangalore EGMP (lines 65-72, 321-327, 477-488)."
+  ],
+  "positioning_angle": "Position as a high-ownership Senior Product Manager combining Fortune 50 retail transaction reliability and automated failure-recovery execution at Lowe's India (~$10M annual revenue protection from reduced order cancellations, 99.99% reliability, Finance/Ops governance) with data-driven B2C funnel conversion (+35% at Byju's) and GTM launch discipline. Frame order-cancellation recovery, multi-stakeholder governance, and conversion optimization as transferable foundations for Pay-in Payment Methods—while staying transparent that direct APM/LPM, PSP partner, payment risk/compliance, and multi-country localization execution are net-new domain areas.",
+  "red_flags_and_gaps": [
+    "Explicit Domain Gap (DM-1): Zero documented experience in pay-in payment methods, alternative/local payment methods (APMs/LPMs), PSP/acquirer partner management, payment authorization/routing, or travel/hospitality commerce.",
+    "Explicit Scope Gap (IM-3): No evidenced multi-country product localization or country-by-country international payment method rollout experience; all documented roles are Bangalore-based.",
+    "Tenure & Specialist Competition Risk (MH-1, MH-7, IM-2): JD asks for 8–10 years of relevant PM experience (Minesh has ~5 years in formal PM/SPM titles within ~11 years total product/growth career) and collaboration with Risk, Legal, and Customer Service (not directly evidenced; UC Irvine Risk Management refers strictly to project risk, not payment fraud/compliance). In practice, Booking's Pay-in team will likely attract payments specialists from Adyen, Stripe, Razorpay, PayU, or Amazon/Flipkart Payments, making conversion ROI moderate.",
+    "Qualitative customer research studies (MH-4) and formal A/B testing/counter-metric tooling specifics are not explicitly documented and must not be overclaimed under AGENTS.md."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether any unrecorded work at Lowe's India (order-cancellation recovery) or Byju's (Commerce/Xcel funnels) touched payment-failure recovery or checkout journeys before tailoring CV bullets; otherwise keep framing strictly within canonical_master_profile.md v1.1.0.",
+    "Because Booking Holdings' JD lists generalist PM criteria rather than hard payments prerequisites, application is viable with a disciplined transferable story—confirm whether to prioritize applying given competing domain-specialist candidates and higher-alignment enterprise/AI roles in the pipeline."
+  ]
+}

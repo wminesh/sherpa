@@ -1,0 +1,80 @@
+{
+  "opportunity_id": "4490772302-visa-spm",
+  "company": "Visa",
+  "role_title": "Sr Product Manager",
+  "location": "Bengaluru, Karnataka, India",
+  "workplace_mode": "On-site / Hybrid (at least 3 days in office)",
+  "canonical_profile_version": "1.1.0",
+  "overall_fit_score": 81,
+  "priority_band": "Consider",
+  "disposition": "Consider",
+  "confidence_level": "High",
+  "recommendation": "Apply",
+  "dimension_scores": {
+    "core_pm_craft_and_execution": {
+      "weight": 0.25,
+      "score": 82,
+      "weighted_score": 20.5,
+      "rationale": "Strong direct evidence for directing product strategy from conception through implementation, defining market and organizational alignment, developing business plans, managing cost and profit control (P&L, budgeting, ROI), applying Agile product delivery, managing complex multi-initiative projects and tradeoffs, and formulating failure/resiliency approaches (lines 64-100, 227-238, 450-463, 489-494). Moderated slightly because building software specifically to support sales, service, or CRM functions (MH-8) is adjacent rather than direct CRM platform ownership, and Agile certifications (PR-2) and dedicated QA engineering ownership are not evidenced."
+    },
+    "domain_problem_space_alignment": {
+      "weight": 0.2,
+      "score": 66,
+      "weighted_score": 13.2,
+      "rationale": "Strong transferable foundation in enterprise platform operations and lifecycle management (Lowe's unified asset lifecycle platform and AI procurement, lines 91-99), service/incident recovery workflows (~$10M annual revenue protection, lines 84-90), internal tracking UX (Elevate, line 306), and sales-qualified lead funnel systems (2.5L+ SQLs, 35% lead conversion lift at Byju's, lines 235-237). Material gap in payments technology and financial transaction ecosystems (DM-1) and no evidenced ownership of commercial CRM software platforms (e.g., Salesforce)."
+    },
+    "technical_platform_ai_depth": {
+      "weight": 0.2,
+      "score": 82,
+      "weighted_score": 16.4,
+      "rationale": "B.Tech. in Computer Science Engineering (lines 325-327) paired with standout direct evidence on identifying points of failure and formulating automated error-handling/recovery approaches for product resiliency (99.99% reliability, incident/SLA/escalation workflows, lines 75-90, 524-529) and launching an AI-driven procurement and catalog system reducing cycle times by 20% (lines 96-99). Specific everyday GenAI tools named in the JD (ChatGPT, Microsoft Copilot) are not cited verbatim in the canonical profile."
+    },
+    "seniority_and_scope_match": {
+      "weight": 0.15,
+      "score": 92,
+      "weighted_score": 13.8,
+      "rationale": "Exact Sr Product Manager title match. Exceeds both the Basic (8+ years with Bachelor's) and Preferred (9+ years with Bachelor's) experience thresholds with 11+ years of overall experience since June 2015, B.Tech. CS, incumbent Senior Product Manager tenure at Lowe's India (Sep 2024-Present), former Senior PM at Byju's (July 2020-April 2023), and ongoing IIM Bangalore Executive General Management Program (lines 48-50, 217-220, 321-328)."
+    },
+    "measurable_impact_and_commercial_relevance": {
+      "weight": 0.1,
+      "score": 84,
+      "weighted_score": 8.4,
+      "rationale": "Directly supports the JD's cost and profit control and resiliency mandates with verified outcomes: ~$10M annual revenue protection savings, ~$2M annual operational cost savings, 20% operational cycle time reduction, and 99.99% platform reliability at Lowe's India, plus 2.5L+ sales-qualified leads and 35% lead conversion improvement at Byju's (lines 499-512). Impact is grounded in enterprise retail operations and EdTech/growth rather than global payments."
+    },
+    "stakeholder_and_leadership_complexity": {
+      "weight": 0.05,
+      "score": 84,
+      "weighted_score": 4.2,
+      "rationale": "Extensive experience acting as a central cross-functional resource across engineering/IT systems, marketing, finance, operations, design, and data teams, presenting monthly business reviews to VP/CXO stakeholders, and supervising 5 product leads at Byju's (lines 65-71, 307, 477-494). Direct enterprise B2B sales-team stakeholder ownership is adjacent via SQL-funnel collaboration (MH-10)."
+    },
+    "location_work_mode_practical_constraints": {
+      "weight": 0.05,
+      "score": 90,
+      "weighted_score": 4.5,
+      "rationale": "Bengaluru, Karnataka, India on-site/hybrid role (at least 3 days in office) matches candidate's Bangalore location (line 9) with zero relocation friction."
+    }
+  },
+  "six_dimension_summary": {
+    "role_scope": "End-to-end Senior Product Manager ownership covering product strategy conception-to-implementation, market/business planning, cost and profit control, emerging technology adoption, resiliency/error-handling, and central coordination across systems, marketing, and sales to support sales, service, or CRM software capabilities.",
+    "seniority_alignment": "Exact match for Sr Product Manager; candidate brings 11+ years overall experience, B.Tech. CS, incumbent Senior PM role at Lowe's India, prior Senior PM at Byju's, and ongoing IIM Bangalore EGMP, exceeding both basic (8+ yrs) and preferred (9+ yrs) bars.",
+    "product_discipline": "Enterprise Business Systems, Commercial/Service Enablement & Resilient Platform Product Management — aligns well with candidate's enterprise platform operations, workflow automation, P&L/ROI governance, and SQL funnel optimization.",
+    "domain_relevance": "Mixed/transferable: strong alignment on enterprise platform scale, cost/profit governance, and product resiliency (DM-2), paired with an explicit domain gap in global payments technology (DM-1) and adjacent bridging on sales/service/CRM software capabilities (MH-8).",
+    "leadership_expectations": "Central cross-functional resource bridging systems, marketing, and sales with executive business-plan and cost/profit accountability — strongly evidenced on systems/IT, marketing, finance, and operations leadership, with sales collaboration bridged via SQL/funnel work.",
+    "evidence_strength": "15 Direct, 3 Adjacent, and 2 Gap classifications across 20 requirements in requirement_matrix.json — strong direct evidence on core PM craft, cost/profit control, AI workflow adoption, and resiliency, with transparent gaps on payments domain and Agile certifications."
+  },
+  "key_strengths": [
+    "Standout match on the JD's preferred resiliency and failure-mitigation requirement (PR-4): ensured 99.99% platform reliability and saved ~$10M annually at Lowe's India through automated recovery systems, order-cancellation failure mitigation, and SLA/escalation workflows (lines 75-90).",
+    "Direct evidence for cost/profit control, business planning, and AI/technology adoption: delivered ~$2M annual cost savings via a unified enterprise asset lifecycle platform, reduced cycle times by 20% via an AI-driven procurement and catalog system, and owned P&L, forecasting, budgeting, and ROI prioritization (lines 91-99, 454-463, 489-494).",
+    "Transferable commercial and service enablement track record: generated 2.5L+ sales-qualified leads and improved lead conversion by 35% at Byju's Xcel Masterclasses, built Elevate internal tracking UX, and optimized multi-channel customer communication workflows across HealthQ and Hype (lines 134-136, 185-186, 235-237, 306)."
+  ],
+  "positioning_angle": "Position as an Enterprise Platform & Commercial-Enablement Senior Product Manager who combines rigorous P&L/cost-control discipline (~$10M annual revenue protection, ~$2M cost savings) and mission-critical product resiliency (99.99% reliability, automated recovery and agentic operational workflows) at Lowe's India with proven customer-funnel and cross-functional execution (2.5L+ SQLs, 35% conversion lift at Byju's). Bridge Lowe's internal enterprise systems, automated service/incident workflows, Elevate tracking UX, and Byju's SQL funnel capabilities transparently toward Visa's sales, service, and CRM software enablement mandate without overclaiming payments domain or commercial CRM platform ownership.",
+  "red_flags_and_gaps": [
+    "Explicit domain gap in payments technology, card networks, merchant acquiring, banking, or financial transaction ecosystems (DM-1: Gap).",
+    "No direct ownership of commercial CRM software platforms (e.g., Salesforce) or dedicated enterprise B2B sales-operations tooling; sales/service/CRM capability development (MH-8) and direct sales-team collaboration (MH-10) are adjacent via SQL-funnel, internal tracking UX, and service/incident-ops workflows.",
+    "No evidenced Agile certifications such as CSM or CSPO (PR-2: Gap); only the UC Irvine Project Management Specialization (Oct-Dec 2020) is documented.",
+    "The JD uses broad corporate template language without specifying the exact Visa product line or underlying CRM/systems stack, creating some ambiguity around day-to-day technical/commercial scope."
+  ],
+  "assumptions_and_user_confirmations": [
+    "Confirm whether Minesh holds any undocumented Agile certifications (CSM/CSPO) or hands-on commercial CRM (e.g., Salesforce) / sales-operations platform experience, and verify everyday Generative AI tool fluency (e.g., ChatGPT, Microsoft Copilot) for interview readiness, while keeping the tailored CV strictly anchored to canonical_master_profile.md v1.1.0."
+  ]
+}
